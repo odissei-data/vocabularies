@@ -15,13 +15,13 @@
   a void:Dataset ;
   dcterms:title "ELSST – European Language Social Science Thesaurus"@en ;
   lib:source <https://thesauri.cessda.eu/> ;
-  void:dataDump <../../vocabs/cessda/ELSST_2021.ttl> .
+  void:dataDump <../cessda/ELSST_2021.ttl> .
 
 <cbsvocabs>
   a void:Dataset ;
   dcterms:title "CBS Thesaurus"@en ;
   lib:source <https://vocabs.cbs.nl> ;
-  void:dataDump <../../vocabs/cbs/cbs-taxonomie.ttl> .
+  void:dataDump <../cbs/cbs-taxonomie.ttl> .
 
 <cbsm>
   a void:Dataset ;
