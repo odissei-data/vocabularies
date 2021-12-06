@@ -1,3 +1,16 @@
+# backups by vim and friends:
+*~
+
+# prolog/cliopatria/amalgame stuff
+RDF-store
+config-enabled
+daemon.pl
+run.pl
+users.db
+web
+
+# Standard python gitignore from here:
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
