@@ -1,0 +1,10 @@
+﻿/*  Saved settings
+    Date: Tue Nov 30 13:00:45 2021
+*/
+
+
+%	File name for jquery.js, served as HTML resource "jquery"
+setting(jquery:version, '2.1.3.min').
+
+%	Default namespace to use on alignment results. Can be changed later.
+setting(amalgame:default_publish_namespace, 'https://portal.odissei-data.nl/metadata/align/').
