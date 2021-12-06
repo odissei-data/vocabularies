@@ -1,4 +1,5 @@
-@prefix     vocab: <https://taxonomie.cbs.nl/vocab/> .
+@prefix       cbs: <https://taxonomie.cbs.nl/> .
+@prefix     cbsid: <https://taxonomie.cbs.nl/vocab/id> .
 @prefix        id: <https://elsst.cessda.eu/id/> .
 @prefix      skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix       xsd: <http://www.w3.org/2001/XMLSchema#> .
@@ -15,7 +16,7 @@
 <https://portal.odissei-data.nl/metadata/align/manual_reference_alignment1>
 	align:map [ a align:Cell ;
 		    align:entity1 id:f03eddd7-a0d5-422b-896e-9e6c80ac9207 ;
-		    align:entity2 vocab:\?tema\=4879 ;
+		    align:entity2 cbsid:4879 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -29,7 +30,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f0c23a85-46b7-4fbe-afdf-345818362649 ;
-		    align:entity2 vocab:\?tema\=633 ;
+		    align:entity2 cbsid:633 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -43,7 +44,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f1b512ea-72cd-4834-9157-586155ba1147 ;
-		    align:entity2 vocab:\?tema\=2844 ;
+		    align:entity2 cbsid:2844 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -57,7 +58,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f1be4577-ef8a-4d37-81cc-0f349c3e87df ;
-		    align:entity2 vocab:\?tema\=1539 ;
+		    align:entity2 cbsid:1539 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -71,7 +72,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f33a59b3-1ce3-4b5e-bf35-0418302eef7d ;
-		    align:entity2 vocab:\?tema\=2888 ;
+		    align:entity2 cbsid:2888 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -85,7 +86,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f344fbd6-51ae-4e1f-97e7-4f91bf0a9ef0 ;
-		    align:entity2 vocab:\?tema\=1621 ;
+		    align:entity2 cbsid:1621 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -99,7 +100,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0e4f8939-36df-4845-b8f9-1f475febd309 ;
-		    align:entity2 vocab:\?tema\=475 ;
+		    align:entity2 cbsid:475 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -113,7 +114,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f3883755-4e0e-4219-9eaa-09b0c688b40c ;
-		    align:entity2 vocab:\?tema\=1858 ;
+		    align:entity2 cbsid:1858 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -127,7 +128,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f3ad3424-1ae3-4eb4-858e-3ccc3015ca08 ;
-		    align:entity2 vocab:\?tema\=3343 ;
+		    align:entity2 cbsid:3343 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -141,7 +142,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f516c72c-75cb-40d3-991f-2922f9ad98cb ;
-		    align:entity2 vocab:\?tema\=707 ;
+		    align:entity2 cbsid:707 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -155,7 +156,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f59772f6-bb3c-4384-abb7-d537e98b65cc ;
-		    align:entity2 vocab:\?tema\=3327 ;
+		    align:entity2 cbsid:3327 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -169,7 +170,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f7e19663-e58b-4630-b8f1-82b1dc4649f7 ;
-		    align:entity2 vocab:\?tema\=1414 ;
+		    align:entity2 cbsid:1414 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -183,7 +184,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f946d3ff-4f9d-42b6-9ee0-c269d02c2a19 ;
-		    align:entity2 vocab:\?tema\=253 ;
+		    align:entity2 cbsid:253 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -197,7 +198,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f95d4a93-4490-4a87-99c1-2e56da67191f ;
-		    align:entity2 vocab:\?tema\=1918 ;
+		    align:entity2 cbsid:1918 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -211,7 +212,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fa2ade19-7411-4333-bc75-56e935f38d9a ;
-		    align:entity2 vocab:\?tema\=1362 ;
+		    align:entity2 cbsid:1362 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -225,7 +226,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fbda3548-277a-43a0-bbe1-70bca5e88c51 ;
-		    align:entity2 vocab:\?tema\=1162 ;
+		    align:entity2 cbsid:1162 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -239,7 +240,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fbe772f6-d6de-4439-b7d9-94835f208acd ;
-		    align:entity2 vocab:\?tema\=1511 ;
+		    align:entity2 cbsid:1511 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -253,7 +254,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0fb0e673-9b59-47b4-b9a7-ae8cbc7c89b9 ;
-		    align:entity2 vocab:\?tema\=4217 ;
+		    align:entity2 cbsid:4217 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -267,7 +268,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fc074c96-3fbb-484b-a819-307902b1d741 ;
-		    align:entity2 vocab:\?tema\=239 ;
+		    align:entity2 cbsid:239 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -281,7 +282,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fecc20f8-e33d-4fe3-b7fe-81264fc7223d ;
-		    align:entity2 vocab:\?tema\=2894 ;
+		    align:entity2 cbsid:2894 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -295,7 +296,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ff0a4ee9-7a77-4bac-8d63-415cf285b7b8 ;
-		    align:entity2 vocab:\?tema\=2123 ;
+		    align:entity2 cbsid:2123 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -309,7 +310,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:32caebf0-7bb4-4cfc-b67b-4bbd1041057f ;
-		    align:entity2 vocab:\?tema\=1933 ;
+		    align:entity2 cbsid:1933 ;
 		    align:relation evaluator:unrelated ;
 		    amalgame:evidence [ align:relation evaluator:unrelated ;
 					amalgame:comment "" ;
@@ -320,7 +321,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:696a6b2e-01ff-4330-a003-d4cb3be5d906 ;
-		    align:entity2 vocab:\?tema\=615 ;
+		    align:entity2 cbsid:615 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -331,7 +332,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ff6fee25-c53a-4f4b-aead-ef1fa444cc4d ;
-		    align:entity2 vocab:\?tema\=3647 ;
+		    align:entity2 cbsid:3647 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -342,7 +343,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8cca5a73-f052-4b21-9ce8-3d2e7647f0ab ;
-		    align:entity2 vocab:\?tema\=2312 ;
+		    align:entity2 cbsid:2312 ;
 		    align:relation skos:narrowMatch ;
 		    amalgame:evidence [ align:relation skos:narrowMatch ;
 					amalgame:comment "" ;
@@ -353,7 +354,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e90641ce-8fcc-4ac2-9d60-f6051667e3b5 ;
-		    align:entity2 vocab:\?tema\=3493 ;
+		    align:entity2 cbsid:3493 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -364,7 +365,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:290327e7-0a69-44f7-8348-c9608aee1fad ;
-		    align:entity2 vocab:\?tema\=569 ;
+		    align:entity2 cbsid:569 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -375,7 +376,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e793e886-4032-48bb-91a6-368e148bda78 ;
-		    align:entity2 vocab:\?tema\=1637 ;
+		    align:entity2 cbsid:1637 ;
 		    align:relation skos:closeMatch ;
 		    amalgame:evidence [ align:relation skos:closeMatch ;
 					amalgame:comment "" ;
@@ -386,7 +387,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:f538d499-1acd-49fc-ab96-afc2f42856ba ;
-		    align:entity2 vocab:\?tema\=2312 ;
+		    align:entity2 cbsid:2312 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -397,7 +398,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:57f06bbb-12b8-4f35-8c4c-a8194e2d00e3 ;
-		    align:entity2 vocab:\?tema\=187 ;
+		    align:entity2 cbsid:187 ;
 		    align:relation skos:closeMatch ;
 		    amalgame:evidence [ align:relation skos:closeMatch ;
 					amalgame:comment "" ;
@@ -408,7 +409,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c57833c7-f3ad-43d5-8ebb-b82b5bcba63f ;
-		    align:entity2 vocab:\?tema\=1284 ;
+		    align:entity2 cbsid:1284 ;
 		    align:relation skos:narrowMatch ;
 		    amalgame:evidence [ align:relation skos:narrowMatch ;
 					amalgame:comment "" ;
@@ -419,7 +420,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:19d6be4b-f499-47ec-b0ed-7622939cd955 ;
-		    align:entity2 vocab:\?tema\=1284 ;
+		    align:entity2 cbsid:1284 ;
 		    align:relation skos:relatedMatch ;
 		    amalgame:evidence [ align:relation skos:relatedMatch ;
 					amalgame:comment "" ;
@@ -430,7 +431,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:101da3ba-0ede-4e67-939e-6996477dcdc0 ;
-		    align:entity2 vocab:\?tema\=738 ;
+		    align:entity2 cbsid:738 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -444,7 +445,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:306e420f-e863-4128-8c25-f63853d85c7e ;
-		    align:entity2 vocab:\?tema\=979 ;
+		    align:entity2 cbsid:979 ;
 		    align:relation skos:closeMatch ;
 		    amalgame:evidence [ align:relation skos:closeMatch ;
 					amalgame:comment "" ;
@@ -455,7 +456,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cbf47ac5-605b-4b64-afbc-14bf866e8fa0 ;
-		    align:entity2 vocab:\?tema\=979 ;
+		    align:entity2 cbsid:979 ;
 		    align:relation skos:relatedMatch ;
 		    amalgame:evidence [ align:relation skos:relatedMatch ;
 					amalgame:comment "" ;
@@ -466,7 +467,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:54265816-3855-4aaa-a9cb-890c41ff5ef8 ;
-		    align:entity2 vocab:\?tema\=187 ;
+		    align:entity2 cbsid:187 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -477,7 +478,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:33a9c792-284b-4fe1-a57f-3ab140691e4f ;
-		    align:entity2 vocab:\?tema\=817 ;
+		    align:entity2 cbsid:817 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -488,7 +489,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:06132244-23b0-4ad1-af62-39637c2507f7 ;
-		    align:entity2 vocab:\?tema\=817 ;
+		    align:entity2 cbsid:817 ;
 		    align:relation skos:relatedMatch ;
 		    amalgame:evidence [ align:relation skos:relatedMatch ;
 					amalgame:comment "" ;
@@ -499,7 +500,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:fbcfc826-0f8d-42e5-8b89-cd9edc0403d7 ;
-		    align:entity2 vocab:\?tema\=1637 ;
+		    align:entity2 cbsid:1637 ;
 		    align:relation skos:relatedMatch ;
 		    amalgame:evidence [ align:relation skos:relatedMatch ;
 					amalgame:comment "" ;
@@ -510,7 +511,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:867ef5b6-bdf0-42a2-b309-ec744a6b06a7 ;
-		    align:entity2 vocab:\?tema\=615 ;
+		    align:entity2 cbsid:615 ;
 		    align:relation skos:relatedMatch ;
 		    amalgame:evidence [ align:relation skos:relatedMatch ;
 					amalgame:comment "" ;
@@ -521,7 +522,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2fb60845-8934-4ee1-8b36-64d360b217cc ;
-		    align:entity2 vocab:\?tema\=3493 ;
+		    align:entity2 cbsid:3493 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -532,7 +533,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c80d7b6c-78b9-4a0e-ab43-941d89888b02 ;
-		    align:entity2 vocab:\?tema\=569 ;
+		    align:entity2 cbsid:569 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -543,7 +544,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2030d851-3bc7-4b85-add5-a898709c72d5 ;
-		    align:entity2 vocab:\?tema\=3647 ;
+		    align:entity2 cbsid:3647 ;
 		    align:relation skos:broadMatch ;
 		    amalgame:evidence [ align:relation skos:broadMatch ;
 					amalgame:comment "" ;
@@ -554,7 +555,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4d7885b8-e853-4db9-ad8d-a039ed6a1aa9 ;
-		    align:entity2 vocab:\?tema\=1020 ;
+		    align:entity2 cbsid:1020 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -565,7 +566,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:106aa3af-ac75-4786-8b2d-3c8a1aa53384 ;
-		    align:entity2 vocab:\?tema\=1332 ;
+		    align:entity2 cbsid:1332 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -579,7 +580,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:107ac6a0-6944-4843-8aec-3268ae51e71d ;
-		    align:entity2 vocab:\?tema\=907 ;
+		    align:entity2 cbsid:907 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -593,7 +594,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:113c8edb-f1a2-4246-86d9-7bb79b75553d ;
-		    align:entity2 vocab:\?tema\=201 ;
+		    align:entity2 cbsid:201 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -607,7 +608,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:114ca5c7-579e-4159-8b21-e0b8800407fc ;
-		    align:entity2 vocab:\?tema\=3324 ;
+		    align:entity2 cbsid:3324 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -621,7 +622,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:114f68e1-80bc-4498-b14d-bda3632a20f7 ;
-		    align:entity2 vocab:\?tema\=2019 ;
+		    align:entity2 cbsid:2019 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -635,7 +636,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:11bda8be-5d8a-4e2c-9d7d-9cb26b4460e9 ;
-		    align:entity2 vocab:\?tema\=1940 ;
+		    align:entity2 cbsid:1940 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -649,7 +650,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:13d01f0e-44ed-4f28-9ef6-7046a6fe0322 ;
-		    align:entity2 vocab:\?tema\=1404 ;
+		    align:entity2 cbsid:1404 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -663,7 +664,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:14642f43-4500-447a-a849-dbbf10b52290 ;
-		    align:entity2 vocab:\?tema\=2174 ;
+		    align:entity2 cbsid:2174 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -677,7 +678,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:15563384-f500-4e29-8794-e7488ac7353f ;
-		    align:entity2 vocab:\?tema\=4055 ;
+		    align:entity2 cbsid:4055 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -691,7 +692,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:168e4e99-7cc0-4f3c-bf9f-66f3950c1375 ;
-		    align:entity2 vocab:\?tema\=1085 ;
+		    align:entity2 cbsid:1085 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -705,7 +706,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:16deddc9-d8b6-4232-9eab-594df5068a30 ;
-		    align:entity2 vocab:\?tema\=1619 ;
+		    align:entity2 cbsid:1619 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -719,7 +720,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:173b36c1-c94a-4337-a7eb-b3d43d3164b2 ;
-		    align:entity2 vocab:\?tema\=3863 ;
+		    align:entity2 cbsid:3863 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -733,7 +734,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1745b7a0-e28f-48fe-a60a-df78e9e7a022 ;
-		    align:entity2 vocab:\?tema\=184 ;
+		    align:entity2 cbsid:184 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -747,7 +748,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:17f4fd0e-b6cd-4583-a0a5-ed33fa21f8e4 ;
-		    align:entity2 vocab:\?tema\=4000 ;
+		    align:entity2 cbsid:4000 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -761,7 +762,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:18c14083-25a3-4dbd-a76a-e5eba476cc97 ;
-		    align:entity2 vocab:\?tema\=3430 ;
+		    align:entity2 cbsid:3430 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -775,7 +776,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:19a3da32-8c7c-46b2-88b0-79d82587be5f ;
-		    align:entity2 vocab:\?tema\=3237 ;
+		    align:entity2 cbsid:3237 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -789,7 +790,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1a4d880a-120d-4a8d-b15c-9037e61b775c ;
-		    align:entity2 vocab:\?tema\=1421 ;
+		    align:entity2 cbsid:1421 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -803,7 +804,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1b603067-708b-4aed-af7a-0fb6b56c0224 ;
-		    align:entity2 vocab:\?tema\=4802 ;
+		    align:entity2 cbsid:4802 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -817,7 +818,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1c341304-ba4c-451f-95eb-54de3f8f0d95 ;
-		    align:entity2 vocab:\?tema\=1629 ;
+		    align:entity2 cbsid:1629 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -831,7 +832,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1d7005cb-5980-482a-861c-ad5c011f6d5b ;
-		    align:entity2 vocab:\?tema\=861 ;
+		    align:entity2 cbsid:861 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -845,7 +846,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1d721a48-48d9-4543-b198-d61f61f94481 ;
-		    align:entity2 vocab:\?tema\=4216 ;
+		    align:entity2 cbsid:4216 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -859,7 +860,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1da2d4ba-9722-4443-8f82-b40a14f42abd ;
-		    align:entity2 vocab:\?tema\=3453 ;
+		    align:entity2 cbsid:3453 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -873,7 +874,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1e3ef047-f875-4412-a98f-e7e0596c678c ;
-		    align:entity2 vocab:\?tema\=1504 ;
+		    align:entity2 cbsid:1504 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -887,7 +888,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1e5b0f64-fea0-4c40-9e8c-a8f6dae4034b ;
-		    align:entity2 vocab:\?tema\=340 ;
+		    align:entity2 cbsid:340 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -901,7 +902,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1ea77ae0-361b-46fb-855d-5120708b130e ;
-		    align:entity2 vocab:\?tema\=4688 ;
+		    align:entity2 cbsid:4688 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -915,7 +916,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:1eeeff13-eaea-4f74-b169-9ccc8479c545 ;
-		    align:entity2 vocab:\?tema\=2906 ;
+		    align:entity2 cbsid:2906 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -929,7 +930,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2105205d-9b9d-4c25-a66d-b633c6cb3d45 ;
-		    align:entity2 vocab:\?tema\=4157 ;
+		    align:entity2 cbsid:4157 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -943,7 +944,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:220504b2-1da1-4e67-851e-6b656ed63913 ;
-		    align:entity2 vocab:\?tema\=1079 ;
+		    align:entity2 cbsid:1079 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -957,7 +958,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:22a3d3e0-6e09-4f9a-aec4-bb08e3e76f98 ;
-		    align:entity2 vocab:\?tema\=3923 ;
+		    align:entity2 cbsid:3923 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -971,7 +972,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:23732518-60f9-4da7-ae92-e11a8f311922 ;
-		    align:entity2 vocab:\?tema\=4563 ;
+		    align:entity2 cbsid:4563 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -985,7 +986,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:23906f8c-e5ff-437b-9d8e-5878554f9053 ;
-		    align:entity2 vocab:\?tema\=96 ;
+		    align:entity2 cbsid:96 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -999,7 +1000,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:23adb3ec-41ef-4c00-b4d5-36bd1266d100 ;
-		    align:entity2 vocab:\?tema\=3361 ;
+		    align:entity2 cbsid:3361 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1013,7 +1014,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:23f19013-53d7-48f8-846c-c14cd0093947 ;
-		    align:entity2 vocab:\?tema\=2072 ;
+		    align:entity2 cbsid:2072 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1027,7 +1028,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2640c4e1-53a3-40be-8562-0998eb3a1b2f ;
-		    align:entity2 vocab:\?tema\=1441 ;
+		    align:entity2 cbsid:1441 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1041,7 +1042,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:268a64fb-9a64-4bac-91ad-50a52875ca9b ;
-		    align:entity2 vocab:\?tema\=4139 ;
+		    align:entity2 cbsid:4139 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1055,7 +1056,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:26f43a57-b2ac-41e3-8626-e3d6ceb104f7 ;
-		    align:entity2 vocab:\?tema\=3634 ;
+		    align:entity2 cbsid:3634 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1069,7 +1070,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:27282e9b-1714-4810-910f-e7616718325a ;
-		    align:entity2 vocab:\?tema\=1857 ;
+		    align:entity2 cbsid:1857 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1083,7 +1084,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:277df823-938b-40a6-b000-b21540cf930c ;
-		    align:entity2 vocab:\?tema\=460 ;
+		    align:entity2 cbsid:460 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1097,7 +1098,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2884bafb-6782-421d-982d-84684d718745 ;
-		    align:entity2 vocab:\?tema\=1369 ;
+		    align:entity2 cbsid:1369 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1111,7 +1112,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:28e2d994-4be2-459e-912d-2a4c0a9d2100 ;
-		    align:entity2 vocab:\?tema\=481 ;
+		    align:entity2 cbsid:481 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1125,7 +1126,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2a3757a5-3fff-4c52-a9a1-64467398851b ;
-		    align:entity2 vocab:\?tema\=2839 ;
+		    align:entity2 cbsid:2839 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1139,7 +1140,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2b652e65-3aa2-4ef8-89a4-1fc27e0ab1b1 ;
-		    align:entity2 vocab:\?tema\=2442 ;
+		    align:entity2 cbsid:2442 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1153,7 +1154,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2b903700-e9de-4957-b7fb-69e9eafb7a79 ;
-		    align:entity2 vocab:\?tema\=3347 ;
+		    align:entity2 cbsid:3347 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1167,7 +1168,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2c7545d0-e32a-48cc-a3d0-47fb45bb11a9 ;
-		    align:entity2 vocab:\?tema\=3737 ;
+		    align:entity2 cbsid:3737 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1181,7 +1182,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:2fefa2b9-a87f-429e-ad90-6d5db701bd9b ;
-		    align:entity2 vocab:\?tema\=1719 ;
+		    align:entity2 cbsid:1719 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1195,7 +1196,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:304646e2-b29e-4a00-9463-38101b9956ad ;
-		    align:entity2 vocab:\?tema\=1141 ;
+		    align:entity2 cbsid:1141 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1209,7 +1210,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3074492c-7bc6-48b9-8292-d8de611cae53 ;
-		    align:entity2 vocab:\?tema\=479 ;
+		    align:entity2 cbsid:479 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1223,7 +1224,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:309e2f2c-c707-447a-8625-e714d6d046a7 ;
-		    align:entity2 vocab:\?tema\=1818 ;
+		    align:entity2 cbsid:1818 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1237,7 +1238,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:30a2a62f-de0d-414e-a69c-4fc9f16458ee ;
-		    align:entity2 vocab:\?tema\=317 ;
+		    align:entity2 cbsid:317 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1251,7 +1252,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3178e2a9-48be-4214-9d7a-6b1249b99ff6 ;
-		    align:entity2 vocab:\?tema\=2444 ;
+		    align:entity2 cbsid:2444 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1265,7 +1266,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3435e956-3339-457c-a24b-09ac84cfc777 ;
-		    align:entity2 vocab:\?tema\=1415 ;
+		    align:entity2 cbsid:1415 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1279,7 +1280,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3481618d-ee5c-459d-9105-1da20c27cf67 ;
-		    align:entity2 vocab:\?tema\=4191 ;
+		    align:entity2 cbsid:4191 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1293,7 +1294,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:001169ea-4b4c-43a1-a37d-dcaee6713d7d ;
-		    align:entity2 vocab:\?tema\=467 ;
+		    align:entity2 cbsid:467 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1307,7 +1308,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3499d5c3-99a7-45ee-b8aa-113e153b6727 ;
-		    align:entity2 vocab:\?tema\=3259 ;
+		    align:entity2 cbsid:3259 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1321,7 +1322,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:349f63d3-5f8b-4f47-b06d-0102a9d713fb ;
-		    align:entity2 vocab:\?tema\=5047 ;
+		    align:entity2 cbsid:5047 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1335,7 +1336,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:34a27a87-99db-429e-9eee-fef0bc736a02 ;
-		    align:entity2 vocab:\?tema\=4185 ;
+		    align:entity2 cbsid:4185 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1349,7 +1350,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:35470103-8d3b-420f-b6e9-e8d1d73ee9cc ;
-		    align:entity2 vocab:\?tema\=4650 ;
+		    align:entity2 cbsid:4650 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1363,7 +1364,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3588ac1d-a993-49f8-a043-f5bc9a534697 ;
-		    align:entity2 vocab:\?tema\=1106 ;
+		    align:entity2 cbsid:1106 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1377,7 +1378,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:36344a4a-4e5f-40e5-ac81-0abed76c2309 ;
-		    align:entity2 vocab:\?tema\=3664 ;
+		    align:entity2 cbsid:3664 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1391,7 +1392,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:37eec82e-e16e-431e-804f-524948b8f551 ;
-		    align:entity2 vocab:\?tema\=2751 ;
+		    align:entity2 cbsid:2751 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1405,7 +1406,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:37f9cae8-97af-49e5-8481-2c47575744ab ;
-		    align:entity2 vocab:\?tema\=4148 ;
+		    align:entity2 cbsid:4148 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1419,7 +1420,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:38604daa-75cd-4996-a27f-808664f4d540 ;
-		    align:entity2 vocab:\?tema\=2677 ;
+		    align:entity2 cbsid:2677 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1433,7 +1434,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:38854495-5f8e-4a5f-aed7-8819d1b14473 ;
-		    align:entity2 vocab:\?tema\=1431 ;
+		    align:entity2 cbsid:1431 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1447,7 +1448,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:022b5ae6-2bca-44dc-9c62-a41293a3fcc3 ;
-		    align:entity2 vocab:\?tema\=1494 ;
+		    align:entity2 cbsid:1494 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1461,7 +1462,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:39ad3565-7d9d-4e6f-91b0-9414da714e3c ;
-		    align:entity2 vocab:\?tema\=3465 ;
+		    align:entity2 cbsid:3465 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1475,7 +1476,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3af38d35-d05f-45a2-912c-48db5d0f546b ;
-		    align:entity2 vocab:\?tema\=424 ;
+		    align:entity2 cbsid:424 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1489,7 +1490,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3af6b774-a733-46d6-9aa4-8d0dffea7628 ;
-		    align:entity2 vocab:\?tema\=1217 ;
+		    align:entity2 cbsid:1217 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1503,7 +1504,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3b58eac5-38a9-4a8f-b50a-9c86ed21c210 ;
-		    align:entity2 vocab:\?tema\=2 ;
+		    align:entity2 cbsid:2 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1517,7 +1518,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3d904b66-8ea8-451d-b65d-a08c929227be ;
-		    align:entity2 vocab:\?tema\=2083 ;
+		    align:entity2 cbsid:2083 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1531,7 +1532,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3e983fd3-344a-4d3b-b10b-158a0af34ae8 ;
-		    align:entity2 vocab:\?tema\=1129 ;
+		    align:entity2 cbsid:1129 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1545,7 +1546,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3e98cbb0-c53e-4bf3-84a8-791ab5257c52 ;
-		    align:entity2 vocab:\?tema\=4641 ;
+		    align:entity2 cbsid:4641 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1559,7 +1560,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3f10df3d-ac2e-4362-929c-e88a4dbb3b37 ;
-		    align:entity2 vocab:\?tema\=2229 ;
+		    align:entity2 cbsid:2229 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1573,7 +1574,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3f4bc184-2457-4e53-9362-9fa7521a00d2 ;
-		    align:entity2 vocab:\?tema\=2285 ;
+		    align:entity2 cbsid:2285 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1587,7 +1588,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:3f61cbd7-8107-4d96-91a2-63cb787ebeb7 ;
-		    align:entity2 vocab:\?tema\=3804 ;
+		    align:entity2 cbsid:3804 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1601,7 +1602,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0258963d-21b3-430a-ba63-53cc3b45d18e ;
-		    align:entity2 vocab:\?tema\=4189 ;
+		    align:entity2 cbsid:4189 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1615,7 +1616,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4235c3b9-ee00-4fc6-b97a-d6098c27a6ad ;
-		    align:entity2 vocab:\?tema\=2272 ;
+		    align:entity2 cbsid:2272 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1629,7 +1630,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:42bd7b71-08bc-4a2e-9593-552bc3cabf97 ;
-		    align:entity2 vocab:\?tema\=28 ;
+		    align:entity2 cbsid:28 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1643,7 +1644,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:45863692-f281-4171-ad28-38e389aa0ecb ;
-		    align:entity2 vocab:\?tema\=657 ;
+		    align:entity2 cbsid:657 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1657,7 +1658,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:45c64d75-cf68-42d8-831e-94855bb4bfaa ;
-		    align:entity2 vocab:\?tema\=3683 ;
+		    align:entity2 cbsid:3683 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1671,7 +1672,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4665e593-9649-4334-85fa-e63596729ef0 ;
-		    align:entity2 vocab:\?tema\=3466 ;
+		    align:entity2 cbsid:3466 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1685,7 +1686,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4735eb3a-7da3-4410-8589-b9cf787ad7e6 ;
-		    align:entity2 vocab:\?tema\=1345 ;
+		    align:entity2 cbsid:1345 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1699,7 +1700,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:477c5b2b-de05-422b-9477-fb02ef085605 ;
-		    align:entity2 vocab:\?tema\=587 ;
+		    align:entity2 cbsid:587 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1713,7 +1714,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:498de90d-7d1e-4f94-b283-181b7edb3ebf ;
-		    align:entity2 vocab:\?tema\=731 ;
+		    align:entity2 cbsid:731 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1727,7 +1728,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4a2028b2-3ce5-4607-92ff-a54a2d403bdf ;
-		    align:entity2 vocab:\?tema\=3922 ;
+		    align:entity2 cbsid:3922 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1741,7 +1742,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4a214e4f-e0f4-43ce-b078-9e92ffd522a5 ;
-		    align:entity2 vocab:\?tema\=630 ;
+		    align:entity2 cbsid:630 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1755,7 +1756,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:04e50b0c-8ca1-460d-a903-dbc630841d8c ;
-		    align:entity2 vocab:\?tema\=516 ;
+		    align:entity2 cbsid:516 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1769,7 +1770,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4d00ab41-eb51-488a-b346-e1ebb8cd34c7 ;
-		    align:entity2 vocab:\?tema\=836 ;
+		    align:entity2 cbsid:836 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1783,7 +1784,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4e5b4a2d-2416-4ef3-8384-7ef15e3ebc32 ;
-		    align:entity2 vocab:\?tema\=4342 ;
+		    align:entity2 cbsid:4342 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1797,7 +1798,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4e70e1ed-adcc-41ec-a64f-4775b25ec294 ;
-		    align:entity2 vocab:\?tema\=4546 ;
+		    align:entity2 cbsid:4546 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1811,7 +1812,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4ea208aa-a59c-4edf-9cfd-54ec61923a11 ;
-		    align:entity2 vocab:\?tema\=4243 ;
+		    align:entity2 cbsid:4243 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1825,7 +1826,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:4fefe95c-aeff-475c-b8c3-19f2fe6d59f3 ;
-		    align:entity2 vocab:\?tema\=763 ;
+		    align:entity2 cbsid:763 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1839,7 +1840,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:508dd0b7-8cb3-4455-9406-c9f6e0ee2faf ;
-		    align:entity2 vocab:\?tema\=2874 ;
+		    align:entity2 cbsid:2874 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1853,7 +1854,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5119ba2d-0b56-4771-b12c-bf0ff73ea70b ;
-		    align:entity2 vocab:\?tema\=3572 ;
+		    align:entity2 cbsid:3572 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1867,7 +1868,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:529f142d-fb1b-443b-99c6-8a0d8d87ce0e ;
-		    align:entity2 vocab:\?tema\=704 ;
+		    align:entity2 cbsid:704 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1881,7 +1882,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:532e2026-d631-4e6f-b808-2625cad8e55d ;
-		    align:entity2 vocab:\?tema\=209 ;
+		    align:entity2 cbsid:209 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1895,7 +1896,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:53617a23-ffaa-4da0-9efe-8819180522f1 ;
-		    align:entity2 vocab:\?tema\=218 ;
+		    align:entity2 cbsid:218 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1909,7 +1910,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:05b420dd-c3d9-492e-ae2e-d860216d8fdd ;
-		    align:entity2 vocab:\?tema\=191 ;
+		    align:entity2 cbsid:191 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1923,7 +1924,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:569a46d8-b049-47f9-9f1a-9fd78293cd4c ;
-		    align:entity2 vocab:\?tema\=2634 ;
+		    align:entity2 cbsid:2634 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1937,7 +1938,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:57415cdf-bec3-453c-a4ff-865f04fa3858 ;
-		    align:entity2 vocab:\?tema\=2521 ;
+		    align:entity2 cbsid:2521 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1951,7 +1952,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:57ee4ccc-d457-4b06-9f56-2c4f85772525 ;
-		    align:entity2 vocab:\?tema\=1103 ;
+		    align:entity2 cbsid:1103 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1965,7 +1966,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5804b1d9-844e-4af3-bc45-2e0e34e8e5f0 ;
-		    align:entity2 vocab:\?tema\=853 ;
+		    align:entity2 cbsid:853 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1979,7 +1980,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:58879a9f-cdc0-4ab0-8080-5915c74d9793 ;
-		    align:entity2 vocab:\?tema\=2206 ;
+		    align:entity2 cbsid:2206 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -1993,7 +1994,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:59a5894a-c0ae-4943-be51-fe4f870fb126 ;
-		    align:entity2 vocab:\?tema\=2183 ;
+		    align:entity2 cbsid:2183 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2007,7 +2008,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:59a933e8-4949-4f67-bdcf-47309a217d83 ;
-		    align:entity2 vocab:\?tema\=2480 ;
+		    align:entity2 cbsid:2480 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2021,7 +2022,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5a549b7e-b9f6-4779-ad31-44a7b63ce2d1 ;
-		    align:entity2 vocab:\?tema\=1825 ;
+		    align:entity2 cbsid:1825 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2035,7 +2036,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5a5ed6c9-9d0c-490d-96c3-4fbb83376534 ;
-		    align:entity2 vocab:\?tema\=1074 ;
+		    align:entity2 cbsid:1074 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2049,7 +2050,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5dca9d00-26d0-4171-b9a2-eb414a4b0cbd ;
-		    align:entity2 vocab:\?tema\=4152 ;
+		    align:entity2 cbsid:4152 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2063,7 +2064,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:06575042-7ce5-4e2a-93aa-bb71c9285726 ;
-		    align:entity2 vocab:\?tema\=2773 ;
+		    align:entity2 cbsid:2773 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2077,7 +2078,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5deabad3-7724-4657-a431-fb7a577ce40b ;
-		    align:entity2 vocab:\?tema\=1412 ;
+		    align:entity2 cbsid:1412 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2091,7 +2092,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5e3bf2e1-2a52-4345-9cb5-7638a1120a0f ;
-		    align:entity2 vocab:\?tema\=3411 ;
+		    align:entity2 cbsid:3411 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2105,7 +2106,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5e868e71-e887-4487-b79e-11cda0b34eff ;
-		    align:entity2 vocab:\?tema\=784 ;
+		    align:entity2 cbsid:784 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2119,7 +2120,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5ec00f13-659d-4a07-9f79-c852e92a9261 ;
-		    align:entity2 vocab:\?tema\=3731 ;
+		    align:entity2 cbsid:3731 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2133,7 +2134,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:5ef92df1-78c4-4e28-9779-8d5ddc7b4d12 ;
-		    align:entity2 vocab:\?tema\=1690 ;
+		    align:entity2 cbsid:1690 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2147,7 +2148,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6015ba2a-c3d6-44e5-929a-b6fd89226d12 ;
-		    align:entity2 vocab:\?tema\=4302 ;
+		    align:entity2 cbsid:4302 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2161,7 +2162,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:60691b31-15c7-4dc2-bfb2-2bc4e57400cb ;
-		    align:entity2 vocab:\?tema\=540 ;
+		    align:entity2 cbsid:540 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2175,7 +2176,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:614371c5-e275-48e5-8b8e-356e10d33859 ;
-		    align:entity2 vocab:\?tema\=90 ;
+		    align:entity2 cbsid:90 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2189,7 +2190,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:61c70581-9ff5-4e6c-b559-3c0fcf9739bf ;
-		    align:entity2 vocab:\?tema\=2925 ;
+		    align:entity2 cbsid:2925 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2203,7 +2204,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6265aafe-f68b-4bc1-a225-5f7f8f47420f ;
-		    align:entity2 vocab:\?tema\=4337 ;
+		    align:entity2 cbsid:4337 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2217,7 +2218,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:06b09611-0f44-4364-8c7d-05af926811c3 ;
-		    align:entity2 vocab:\?tema\=1417 ;
+		    align:entity2 cbsid:1417 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2231,7 +2232,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:64015128-8f31-44cf-b7bf-e8a2333a9803 ;
-		    align:entity2 vocab:\?tema\=15 ;
+		    align:entity2 cbsid:15 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2245,7 +2246,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:645aff27-ddb1-4a6f-8884-b039e60d6fc6 ;
-		    align:entity2 vocab:\?tema\=1367 ;
+		    align:entity2 cbsid:1367 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2259,7 +2260,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:64c7a52f-a521-4e95-9022-ad3ed91807ff ;
-		    align:entity2 vocab:\?tema\=2526 ;
+		    align:entity2 cbsid:2526 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2273,7 +2274,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:65c58459-14cb-430d-aa5e-8bd61b75bd53 ;
-		    align:entity2 vocab:\?tema\=441 ;
+		    align:entity2 cbsid:441 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2287,7 +2288,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:661b31f0-6f2e-49a1-beca-4dde87fd57b9 ;
-		    align:entity2 vocab:\?tema\=3379 ;
+		    align:entity2 cbsid:3379 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2301,7 +2302,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:668d073a-2a89-450d-9559-8d7a75c5b64f ;
-		    align:entity2 vocab:\?tema\=3640 ;
+		    align:entity2 cbsid:3640 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2315,7 +2316,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:680eb21e-edb7-4fe6-9957-3d99dd216cc7 ;
-		    align:entity2 vocab:\?tema\=1643 ;
+		    align:entity2 cbsid:1643 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2329,7 +2330,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:68f6c40b-12c1-471a-9104-386c3d44c1dc ;
-		    align:entity2 vocab:\?tema\=472 ;
+		    align:entity2 cbsid:472 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2343,7 +2344,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:69ab1ccd-0f9f-42de-9db7-d512f82f93d3 ;
-		    align:entity2 vocab:\?tema\=4336 ;
+		    align:entity2 cbsid:4336 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2357,7 +2358,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:69d189c5-6375-45fe-9d72-43bd07bbea13 ;
-		    align:entity2 vocab:\?tema\=2700 ;
+		    align:entity2 cbsid:2700 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2371,7 +2372,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0750553b-8718-4550-ab62-e45ee72f751e ;
-		    align:entity2 vocab:\?tema\=3828 ;
+		    align:entity2 cbsid:3828 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2385,7 +2386,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:69d605d4-1a74-4921-90ee-7de858f635a1 ;
-		    align:entity2 vocab:\?tema\=2401 ;
+		    align:entity2 cbsid:2401 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2399,7 +2400,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6b5a54e6-3729-4868-95b2-cc980831d252 ;
-		    align:entity2 vocab:\?tema\=3273 ;
+		    align:entity2 cbsid:3273 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2413,7 +2414,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6ba88846-1026-411d-a460-cdbb6070824b ;
-		    align:entity2 vocab:\?tema\=3762 ;
+		    align:entity2 cbsid:3762 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2427,7 +2428,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6c54d388-e5b5-4c2b-bd4e-9f9872e4b602 ;
-		    align:entity2 vocab:\?tema\=1191 ;
+		    align:entity2 cbsid:1191 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2441,7 +2442,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6cf5a38e-d0cc-4b06-9917-659c66adadf1 ;
-		    align:entity2 vocab:\?tema\=751 ;
+		    align:entity2 cbsid:751 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2455,7 +2456,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6d652043-f751-4966-8ec7-9194ea072a40 ;
-		    align:entity2 vocab:\?tema\=1559 ;
+		    align:entity2 cbsid:1559 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2469,7 +2470,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6dcfac8b-d4fc-4c0e-8c74-1f16b8ec3df4 ;
-		    align:entity2 vocab:\?tema\=49 ;
+		    align:entity2 cbsid:49 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2483,7 +2484,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6e203c3b-5e54-407c-8bd3-b7ab941e755a ;
-		    align:entity2 vocab:\?tema\=1660 ;
+		    align:entity2 cbsid:1660 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2497,7 +2498,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6efbd6c8-09b6-4110-8814-cc94aea0caf8 ;
-		    align:entity2 vocab:\?tema\=1155 ;
+		    align:entity2 cbsid:1155 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2511,7 +2512,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6f007060-750b-4359-899c-dbd3a0d0cd99 ;
-		    align:entity2 vocab:\?tema\=1476 ;
+		    align:entity2 cbsid:1476 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2525,7 +2526,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:07b7e948-08f1-48db-bb42-e0fa4bbd0ed6 ;
-		    align:entity2 vocab:\?tema\=1344 ;
+		    align:entity2 cbsid:1344 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2539,7 +2540,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6f66120a-7896-4891-b562-e00db6e1da5d ;
-		    align:entity2 vocab:\?tema\=1881 ;
+		    align:entity2 cbsid:1881 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2553,7 +2554,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:6f6941b4-e2bd-4ce5-b82c-75ff2e2f04f9 ;
-		    align:entity2 vocab:\?tema\=2593 ;
+		    align:entity2 cbsid:2593 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2567,7 +2568,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:71cf8e6b-f2f3-4e9a-8261-b97a4af15d1b ;
-		    align:entity2 vocab:\?tema\=1337 ;
+		    align:entity2 cbsid:1337 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2581,7 +2582,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:73e8d66e-b5af-4e89-80e0-f22209321976 ;
-		    align:entity2 vocab:\?tema\=175 ;
+		    align:entity2 cbsid:175 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2595,7 +2596,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:74995900-ee52-4ad6-9a47-3306ad7cac63 ;
-		    align:entity2 vocab:\?tema\=5059 ;
+		    align:entity2 cbsid:5059 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2609,7 +2610,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:751dcc93-d475-4126-b2f5-510d748a06e6 ;
-		    align:entity2 vocab:\?tema\=1166 ;
+		    align:entity2 cbsid:1166 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2623,7 +2624,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:769d710e-e68b-4496-90a8-4fa2d4c27d79 ;
-		    align:entity2 vocab:\?tema\=3362 ;
+		    align:entity2 cbsid:3362 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2637,7 +2638,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7710d45d-9591-4513-a140-ffdb28e2254d ;
-		    align:entity2 vocab:\?tema\=3408 ;
+		    align:entity2 cbsid:3408 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2651,7 +2652,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:77d7d145-5bd6-4aee-bf40-a69438cce58e ;
-		    align:entity2 vocab:\?tema\=1128 ;
+		    align:entity2 cbsid:1128 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2665,7 +2666,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:794a5e8e-5d59-4662-86e4-622d30479b60 ;
-		    align:entity2 vocab:\?tema\=2086 ;
+		    align:entity2 cbsid:2086 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2679,7 +2680,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:09e44b31-8c93-4f3d-a2aa-da975175dd97 ;
-		    align:entity2 vocab:\?tema\=2416 ;
+		    align:entity2 cbsid:2416 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2693,7 +2694,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7a6eeee2-53ae-4c00-989d-821074ba9e27 ;
-		    align:entity2 vocab:\?tema\=89 ;
+		    align:entity2 cbsid:89 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2707,7 +2708,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7a9d1086-91ba-49c4-9cfc-f05a10a781df ;
-		    align:entity2 vocab:\?tema\=4739 ;
+		    align:entity2 cbsid:4739 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2721,7 +2722,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7ae97171-e0d9-4bbe-bc1b-f4a388788ad2 ;
-		    align:entity2 vocab:\?tema\=1230 ;
+		    align:entity2 cbsid:1230 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2735,7 +2736,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7b390ac4-bdcb-45a9-8c21-3fbf4c765111 ;
-		    align:entity2 vocab:\?tema\=1056 ;
+		    align:entity2 cbsid:1056 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2749,7 +2750,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7b39e5f4-5a43-4e1b-a630-0bdd1e249234 ;
-		    align:entity2 vocab:\?tema\=4766 ;
+		    align:entity2 cbsid:4766 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2763,7 +2764,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7b49c54b-a9fd-4300-b637-0dd59d62d022 ;
-		    align:entity2 vocab:\?tema\=883 ;
+		    align:entity2 cbsid:883 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2777,7 +2778,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7b97948d-8304-4e9a-86c8-6bc9445e5ccf ;
-		    align:entity2 vocab:\?tema\=482 ;
+		    align:entity2 cbsid:482 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2791,7 +2792,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7c7eb4bb-0113-4754-9834-4dabc5f2dfab ;
-		    align:entity2 vocab:\?tema\=4586 ;
+		    align:entity2 cbsid:4586 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2805,7 +2806,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7cad3334-7b03-4883-845f-4e67b2b86646 ;
-		    align:entity2 vocab:\?tema\=1695 ;
+		    align:entity2 cbsid:1695 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2819,7 +2820,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7cc2e451-3dfb-48db-8c40-3913f37c3620 ;
-		    align:entity2 vocab:\?tema\=2057 ;
+		    align:entity2 cbsid:2057 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2833,7 +2834,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0a08d14b-cf21-4ae2-b448-12a4d8208449 ;
-		    align:entity2 vocab:\?tema\=4535 ;
+		    align:entity2 cbsid:4535 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2847,7 +2848,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7ced7f1e-e766-4559-93fc-cfa0d9e37629 ;
-		    align:entity2 vocab:\?tema\=2530 ;
+		    align:entity2 cbsid:2530 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2861,7 +2862,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7e8e7c56-c1e1-4837-8b8b-8a36f97286b4 ;
-		    align:entity2 vocab:\?tema\=1395 ;
+		    align:entity2 cbsid:1395 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2875,7 +2876,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:7ed93828-d374-4dd3-b3ab-8f5dcdc7623a ;
-		    align:entity2 vocab:\?tema\=4224 ;
+		    align:entity2 cbsid:4224 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2889,7 +2890,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:81bcd0a4-9517-4b29-b237-3c860d0db7de ;
-		    align:entity2 vocab:\?tema\=117 ;
+		    align:entity2 cbsid:117 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2903,7 +2904,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:828c7854-b213-4590-a892-799779dc3416 ;
-		    align:entity2 vocab:\?tema\=3721 ;
+		    align:entity2 cbsid:3721 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2917,7 +2918,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8326e504-3d38-4ae8-931e-f1ff481f25d9 ;
-		    align:entity2 vocab:\?tema\=1084 ;
+		    align:entity2 cbsid:1084 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2931,7 +2932,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:842d1098-3f00-4ada-ad3d-447b2108fce2 ;
-		    align:entity2 vocab:\?tema\=783 ;
+		    align:entity2 cbsid:783 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2945,7 +2946,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:85da29cc-4be8-4a49-99e0-295a10345e23 ;
-		    align:entity2 vocab:\?tema\=5001 ;
+		    align:entity2 cbsid:5001 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2959,7 +2960,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:863e24ba-e4d9-432a-8cb8-2c140f1cb16a ;
-		    align:entity2 vocab:\?tema\=4813 ;
+		    align:entity2 cbsid:4813 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2973,7 +2974,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8655e5d6-2f83-4c7e-b304-1158e39869a7 ;
-		    align:entity2 vocab:\?tema\=1427 ;
+		    align:entity2 cbsid:1427 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -2987,7 +2988,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0a0a07e6-1644-45f5-a2ca-9f95c87c866b ;
-		    align:entity2 vocab:\?tema\=3332 ;
+		    align:entity2 cbsid:3332 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3001,7 +3002,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:87cb170b-4146-4d4a-ba38-81e9942aecc7 ;
-		    align:entity2 vocab:\?tema\=1949 ;
+		    align:entity2 cbsid:1949 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3015,7 +3016,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:88353622-c99c-4c1f-b74e-9167ff5528a7 ;
-		    align:entity2 vocab:\?tema\=1378 ;
+		    align:entity2 cbsid:1378 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3029,7 +3030,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:88700dad-fbed-4c6a-9bc9-8b3280cb0310 ;
-		    align:entity2 vocab:\?tema\=8523 ;
+		    align:entity2 cbsid:8523 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3043,7 +3044,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:89f80731-2537-45dd-8e0a-332aedceee9c ;
-		    align:entity2 vocab:\?tema\=374 ;
+		    align:entity2 cbsid:374 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3057,7 +3058,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8a1205b5-f75f-40bb-8c50-1d6f5fe905af ;
-		    align:entity2 vocab:\?tema\=1533 ;
+		    align:entity2 cbsid:1533 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3071,7 +3072,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8a80f878-851c-4f47-a451-a8fe75b81aad ;
-		    align:entity2 vocab:\?tema\=650 ;
+		    align:entity2 cbsid:650 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3085,7 +3086,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8ceb646e-d9f9-48d4-954b-53c04ab3c78f ;
-		    align:entity2 vocab:\?tema\=625 ;
+		    align:entity2 cbsid:625 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3099,7 +3100,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8d4c7d28-fb30-48a5-8ffc-63d2c154e17c ;
-		    align:entity2 vocab:\?tema\=4809 ;
+		    align:entity2 cbsid:4809 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3113,7 +3114,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:8d7101be-eb1c-4028-b122-d69c240280e8 ;
-		    align:entity2 vocab:\?tema\=526 ;
+		    align:entity2 cbsid:526 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3127,7 +3128,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9066341c-d3d8-4ed4-ad78-69c77e5945da ;
-		    align:entity2 vocab:\?tema\=538 ;
+		    align:entity2 cbsid:538 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3141,7 +3142,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0a72d503-00dd-49da-9197-e317e9c60ab7 ;
-		    align:entity2 vocab:\?tema\=1394 ;
+		    align:entity2 cbsid:1394 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3155,7 +3156,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9110f672-af58-4bac-9986-0fafaa2c8d90 ;
-		    align:entity2 vocab:\?tema\=3520 ;
+		    align:entity2 cbsid:3520 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3169,7 +3170,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9122d2b0-e46c-402d-8d0d-85d3f84191e7 ;
-		    align:entity2 vocab:\?tema\=4411 ;
+		    align:entity2 cbsid:4411 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3183,7 +3184,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9159a8f9-b6de-4a5f-891a-cb4a97b9ec71 ;
-		    align:entity2 vocab:\?tema\=2570 ;
+		    align:entity2 cbsid:2570 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3197,7 +3198,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:91c1b36f-85ff-4345-9678-86a4950fe57a ;
-		    align:entity2 vocab:\?tema\=1315 ;
+		    align:entity2 cbsid:1315 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3211,7 +3212,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:922502a1-a2c0-42bb-8cbc-a0160dd5dfa6 ;
-		    align:entity2 vocab:\?tema\=3613 ;
+		    align:entity2 cbsid:3613 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3225,7 +3226,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:92b0f05d-3f8d-4789-a3c0-0306dddce08d ;
-		    align:entity2 vocab:\?tema\=3271 ;
+		    align:entity2 cbsid:3271 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3239,7 +3240,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:930def21-62a3-4de2-8f5c-daea496c9b22 ;
-		    align:entity2 vocab:\?tema\=814 ;
+		    align:entity2 cbsid:814 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3253,7 +3254,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:939eb487-2b48-41dc-a132-e0218969d653 ;
-		    align:entity2 vocab:\?tema\=8516 ;
+		    align:entity2 cbsid:8516 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3267,7 +3268,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:95e906b7-b3a0-48f2-b6c8-5a236b7a4e73 ;
-		    align:entity2 vocab:\?tema\=3694 ;
+		    align:entity2 cbsid:3694 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3281,7 +3282,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:97841e21-83f1-49d1-9818-04959e78f5e3 ;
-		    align:entity2 vocab:\?tema\=4654 ;
+		    align:entity2 cbsid:4654 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3295,7 +3296,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0ab9b6fb-5eef-476b-9005-68f6ef566caa ;
-		    align:entity2 vocab:\?tema\=596 ;
+		    align:entity2 cbsid:596 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3309,7 +3310,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:97948a5b-2cb8-48e3-9898-211145b210d1 ;
-		    align:entity2 vocab:\?tema\=2071 ;
+		    align:entity2 cbsid:2071 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3323,7 +3324,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:983bf0e2-9b8e-45db-ac35-18e90ede73a4 ;
-		    align:entity2 vocab:\?tema\=1143 ;
+		    align:entity2 cbsid:1143 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3337,7 +3338,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:99f97752-b483-4723-9f6d-ec6235e813e0 ;
-		    align:entity2 vocab:\?tema\=39 ;
+		    align:entity2 cbsid:39 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3351,7 +3352,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9a6dfe11-88fc-4640-bdd6-842e39265d39 ;
-		    align:entity2 vocab:\?tema\=773 ;
+		    align:entity2 cbsid:773 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3365,7 +3366,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9b4284c9-72b8-421f-9f84-818a0bc50ad9 ;
-		    align:entity2 vocab:\?tema\=3586 ;
+		    align:entity2 cbsid:3586 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3379,7 +3380,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9c6a01c1-2fe1-43e4-adcb-8ae90c50d0c2 ;
-		    align:entity2 vocab:\?tema\=106 ;
+		    align:entity2 cbsid:106 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3393,7 +3394,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9d0dc1cc-172b-4961-ab06-032daea17285 ;
-		    align:entity2 vocab:\?tema\=1826 ;
+		    align:entity2 cbsid:1826 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3407,7 +3408,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9eca9c03-c900-44d9-806f-3acec00f8fc2 ;
-		    align:entity2 vocab:\?tema\=724 ;
+		    align:entity2 cbsid:724 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3421,7 +3422,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9ff94892-861e-4a67-8e6a-53247ef0a0fe ;
-		    align:entity2 vocab:\?tema\=1390 ;
+		    align:entity2 cbsid:1390 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3435,7 +3436,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:9ff97a0f-31be-4f72-b959-d962c2a695a4 ;
-		    align:entity2 vocab:\?tema\=2388 ;
+		    align:entity2 cbsid:2388 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3449,7 +3450,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0b24efb1-d22c-407f-8111-30eb1eadcaf2 ;
-		    align:entity2 vocab:\?tema\=802 ;
+		    align:entity2 cbsid:802 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3463,7 +3464,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a0de2383-d76d-4585-9bd9-c16a4b5ce0ff ;
-		    align:entity2 vocab:\?tema\=2109 ;
+		    align:entity2 cbsid:2109 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3477,7 +3478,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a373ad2a-82e6-4d86-adf8-7e3261826e15 ;
-		    align:entity2 vocab:\?tema\=2580 ;
+		    align:entity2 cbsid:2580 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3491,7 +3492,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a5005764-b3f3-47fe-9c3f-3cb25a8a0431 ;
-		    align:entity2 vocab:\?tema\=3410 ;
+		    align:entity2 cbsid:3410 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3505,7 +3506,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a5de5aff-4b1c-4f78-bd1d-7e20330342df ;
-		    align:entity2 vocab:\?tema\=2209 ;
+		    align:entity2 cbsid:2209 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3519,7 +3520,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a73741d5-0872-48bc-9e2f-5ecc8767d96d ;
-		    align:entity2 vocab:\?tema\=4240 ;
+		    align:entity2 cbsid:4240 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3533,7 +3534,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a74cd285-d1c6-4e55-8c0d-faf0fe94399f ;
-		    align:entity2 vocab:\?tema\=2242 ;
+		    align:entity2 cbsid:2242 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3547,7 +3548,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a773ee42-9a96-4695-a379-fa8670f539c5 ;
-		    align:entity2 vocab:\?tema\=807 ;
+		    align:entity2 cbsid:807 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3561,7 +3562,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a7cefe39-75a4-4ce7-a608-253632400750 ;
-		    align:entity2 vocab:\?tema\=1899 ;
+		    align:entity2 cbsid:1899 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3575,7 +3576,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a8081962-d122-4db7-a7a3-d9b36587be31 ;
-		    align:entity2 vocab:\?tema\=1776 ;
+		    align:entity2 cbsid:1776 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3589,7 +3590,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a81eaf28-ba91-4bb7-a44f-41bb5e73cd8f ;
-		    align:entity2 vocab:\?tema\=4670 ;
+		    align:entity2 cbsid:4670 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3603,7 +3604,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0b4544e6-6aac-427b-9c2b-6f775233b599 ;
-		    align:entity2 vocab:\?tema\=412 ;
+		    align:entity2 cbsid:412 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3617,7 +3618,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:a84f47bf-1be8-4380-bd6d-3c3d843714a6 ;
-		    align:entity2 vocab:\?tema\=2845 ;
+		    align:entity2 cbsid:2845 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3631,7 +3632,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:aa0ddef6-51fa-4eee-bcb5-2b64c41a4818 ;
-		    align:entity2 vocab:\?tema\=20 ;
+		    align:entity2 cbsid:20 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3645,7 +3646,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ab82f3f1-f526-4e80-a699-e194459fbad3 ;
-		    align:entity2 vocab:\?tema\=710 ;
+		    align:entity2 cbsid:710 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3659,7 +3660,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:aba40691-6f80-4b3c-ae9b-0eb4d1f56602 ;
-		    align:entity2 vocab:\?tema\=3200 ;
+		    align:entity2 cbsid:3200 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3673,7 +3674,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:abcac2a6-67a3-46cc-8fb4-0d484020aade ;
-		    align:entity2 vocab:\?tema\=2718 ;
+		    align:entity2 cbsid:2718 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3687,7 +3688,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b09257e4-b304-4368-bad0-bf5d47d2b952 ;
-		    align:entity2 vocab:\?tema\=2541 ;
+		    align:entity2 cbsid:2541 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3701,7 +3702,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b1053d77-e845-4882-8ee4-b5b444fb2b30 ;
-		    align:entity2 vocab:\?tema\=3348 ;
+		    align:entity2 cbsid:3348 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3715,7 +3716,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b37cc12f-0019-4df4-a0cf-a85df1dcc8e0 ;
-		    align:entity2 vocab:\?tema\=1235 ;
+		    align:entity2 cbsid:1235 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3729,7 +3730,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b39702c0-b51e-41f0-b868-1b9233bf7e5e ;
-		    align:entity2 vocab:\?tema\=4613 ;
+		    align:entity2 cbsid:4613 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3743,7 +3744,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b3e69bd1-6b47-45a1-bfc2-4f91ca664b54 ;
-		    align:entity2 vocab:\?tema\=2546 ;
+		    align:entity2 cbsid:2546 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3757,7 +3758,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0b5f1ffc-9c0e-4df6-b68e-fafc6790b247 ;
-		    align:entity2 vocab:\?tema\=3098 ;
+		    align:entity2 cbsid:3098 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3771,7 +3772,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b3fb51f0-f7c8-4a13-a15f-a9d3e4d75c77 ;
-		    align:entity2 vocab:\?tema\=4294 ;
+		    align:entity2 cbsid:4294 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3785,7 +3786,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b6ae478f-85d6-43c2-9d0d-05862c83d62c ;
-		    align:entity2 vocab:\?tema\=4309 ;
+		    align:entity2 cbsid:4309 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3799,7 +3800,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b6ecd144-cb0e-4db6-8660-b838098b6412 ;
-		    align:entity2 vocab:\?tema\=1338 ;
+		    align:entity2 cbsid:1338 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3813,7 +3814,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b75621fc-56f7-4372-87e6-eb1c0813679f ;
-		    align:entity2 vocab:\?tema\=1353 ;
+		    align:entity2 cbsid:1353 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3827,7 +3828,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:b7ddc071-e3cb-4b6e-86fb-8ebef2d5b099 ;
-		    align:entity2 vocab:\?tema\=3258 ;
+		    align:entity2 cbsid:3258 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3841,7 +3842,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ba3e1900-c8c4-4a8f-9440-a08f68c7f044 ;
-		    align:entity2 vocab:\?tema\=517 ;
+		    align:entity2 cbsid:517 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3855,7 +3856,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ba79040a-dc40-4d19-9280-0d8b790ad1b3 ;
-		    align:entity2 vocab:\?tema\=3801 ;
+		    align:entity2 cbsid:3801 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3869,7 +3870,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ba8fc117-55ff-4646-9663-e32dbebc6d6d ;
-		    align:entity2 vocab:\?tema\=319 ;
+		    align:entity2 cbsid:319 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3883,7 +3884,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bab872f6-7c62-41d3-bcaa-c092366b1cc6 ;
-		    align:entity2 vocab:\?tema\=4053 ;
+		    align:entity2 cbsid:4053 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3897,7 +3898,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bb31f672-6ada-4adc-9a94-82ed3dbbcdab ;
-		    align:entity2 vocab:\?tema\=1691 ;
+		    align:entity2 cbsid:1691 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3911,7 +3912,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0c47bd05-f399-4df3-a69d-184088955a2b ;
-		    align:entity2 vocab:\?tema\=1610 ;
+		    align:entity2 cbsid:1610 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3925,7 +3926,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bb3c3cfc-7f8c-4752-b313-e2612bdd45da ;
-		    align:entity2 vocab:\?tema\=1702 ;
+		    align:entity2 cbsid:1702 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3939,7 +3940,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bb4d28a7-7855-4053-bda5-99e7c476e78b ;
-		    align:entity2 vocab:\?tema\=3150 ;
+		    align:entity2 cbsid:3150 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3953,7 +3954,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bcc92d60-be42-4858-9376-03c83e4ba52e ;
-		    align:entity2 vocab:\?tema\=543 ;
+		    align:entity2 cbsid:543 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3967,7 +3968,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bcd41d96-7e0d-45dd-b2ae-5354a1672e23 ;
-		    align:entity2 vocab:\?tema\=3671 ;
+		    align:entity2 cbsid:3671 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3981,7 +3982,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bcf72f65-2b5f-4f9e-a13a-03460aebd84a ;
-		    align:entity2 vocab:\?tema\=816 ;
+		    align:entity2 cbsid:816 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -3995,7 +3996,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bd5b9a6b-c499-4a31-bb03-42448825d1e5 ;
-		    align:entity2 vocab:\?tema\=2892 ;
+		    align:entity2 cbsid:2892 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4009,7 +4010,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:be579bf5-0c2a-4002-ac92-5e1be62c6c7a ;
-		    align:entity2 vocab:\?tema\=4232 ;
+		    align:entity2 cbsid:4232 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4023,7 +4024,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:be8c0538-3bf4-423a-8189-56a12eed4462 ;
-		    align:entity2 vocab:\?tema\=1409 ;
+		    align:entity2 cbsid:1409 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4037,7 +4038,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bee3f71f-4142-4c4d-82dc-fb999fd8fb6d ;
-		    align:entity2 vocab:\?tema\=3811 ;
+		    align:entity2 cbsid:3811 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4051,7 +4052,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:bf55a74c-1a23-4912-8234-90bcd18d5859 ;
-		    align:entity2 vocab:\?tema\=12 ;
+		    align:entity2 cbsid:12 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4065,7 +4066,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0c7156cf-48cc-4b83-a572-2bc35f9dcc16 ;
-		    align:entity2 vocab:\?tema\=2909 ;
+		    align:entity2 cbsid:2909 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4079,7 +4080,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c069cf3f-eb4d-495c-8a50-9aa4d35a8eef ;
-		    align:entity2 vocab:\?tema\=2871 ;
+		    align:entity2 cbsid:2871 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4093,7 +4094,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c08e0571-9fee-4e25-954a-d4198c9de868 ;
-		    align:entity2 vocab:\?tema\=3488 ;
+		    align:entity2 cbsid:3488 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4107,7 +4108,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c0a1971f-1459-43cf-81a5-12fc81d45b00 ;
-		    align:entity2 vocab:\?tema\=8 ;
+		    align:entity2 cbsid:8 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4121,7 +4122,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c10707b2-5abe-4d7f-a398-7b3330ef3774 ;
-		    align:entity2 vocab:\?tema\=4352 ;
+		    align:entity2 cbsid:4352 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4135,7 +4136,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c1561f24-0cc7-464c-82c9-e8d820060494 ;
-		    align:entity2 vocab:\?tema\=2843 ;
+		    align:entity2 cbsid:2843 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4149,7 +4150,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c1b6701f-2eac-47eb-98a7-445ef68d9431 ;
-		    align:entity2 vocab:\?tema\=772 ;
+		    align:entity2 cbsid:772 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4163,7 +4164,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c242cd31-fe9b-4995-b955-5da107c42a44 ;
-		    align:entity2 vocab:\?tema\=448 ;
+		    align:entity2 cbsid:448 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4177,7 +4178,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c3c7f8b8-1a6b-4075-aee6-a2e436c14309 ;
-		    align:entity2 vocab:\?tema\=1700 ;
+		    align:entity2 cbsid:1700 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4191,7 +4192,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c4e2ba1d-c5f8-45b4-b8e0-a5d7d2775dcd ;
-		    align:entity2 vocab:\?tema\=1157 ;
+		    align:entity2 cbsid:1157 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4205,7 +4206,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c53f6421-9ec2-4b6a-84d8-7157066c068e ;
-		    align:entity2 vocab:\?tema\=1339 ;
+		    align:entity2 cbsid:1339 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4219,7 +4220,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0cf8c816-2471-4472-a9f2-98a85a248ad7 ;
-		    align:entity2 vocab:\?tema\=2947 ;
+		    align:entity2 cbsid:2947 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4233,7 +4234,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c581d431-4c99-41be-9147-b32be5b0bfa4 ;
-		    align:entity2 vocab:\?tema\=2274 ;
+		    align:entity2 cbsid:2274 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4247,7 +4248,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c5e10948-0e42-4060-b6f5-3e175757a622 ;
-		    align:entity2 vocab:\?tema\=1220 ;
+		    align:entity2 cbsid:1220 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4261,7 +4262,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c7af8942-7ed9-458d-a437-376d3edfb867 ;
-		    align:entity2 vocab:\?tema\=2891 ;
+		    align:entity2 cbsid:2891 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4275,7 +4276,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:c7c78ddd-3ca4-4b9d-8445-2a14bfa6205d ;
-		    align:entity2 vocab:\?tema\=3377 ;
+		    align:entity2 cbsid:3377 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4289,7 +4290,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cb4b2738-09f8-4e06-9e0b-71cff6df7791 ;
-		    align:entity2 vocab:\?tema\=1231 ;
+		    align:entity2 cbsid:1231 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4303,7 +4304,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cc03c59f-ff50-47d5-9fcc-cbd2ecd4088b ;
-		    align:entity2 vocab:\?tema\=1161 ;
+		    align:entity2 cbsid:1161 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4317,7 +4318,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ce7343fe-8c33-4cb4-9303-003ad2abab73 ;
-		    align:entity2 vocab:\?tema\=2195 ;
+		    align:entity2 cbsid:2195 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4331,7 +4332,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ceaf6b32-6df7-454d-9548-7b05a13c9216 ;
-		    align:entity2 vocab:\?tema\=3454 ;
+		    align:entity2 cbsid:3454 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4345,7 +4346,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cf189005-9c46-4259-b887-e00c60d1ac78 ;
-		    align:entity2 vocab:\?tema\=1670 ;
+		    align:entity2 cbsid:1670 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4359,7 +4360,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cf211371-c057-4878-a7fa-f526c57fe9f3 ;
-		    align:entity2 vocab:\?tema\=1334 ;
+		    align:entity2 cbsid:1334 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4373,7 +4374,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0d088060-b858-4e45-a0d1-77f890b4aecd ;
-		    align:entity2 vocab:\?tema\=4510 ;
+		    align:entity2 cbsid:4510 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4387,7 +4388,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:cf7d9c00-73ad-46f2-baa5-a083e6bb3f35 ;
-		    align:entity2 vocab:\?tema\=2312 ;
+		    align:entity2 cbsid:2312 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4401,7 +4402,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d0517be4-3862-4ee4-ac46-c2fef348c529 ;
-		    align:entity2 vocab:\?tema\=2684 ;
+		    align:entity2 cbsid:2684 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4415,7 +4416,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d073ee94-f559-47c4-bae5-04d14af192dd ;
-		    align:entity2 vocab:\?tema\=103 ;
+		    align:entity2 cbsid:103 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4429,7 +4430,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d0983511-acac-4585-ae73-a5d3ae2b54c7 ;
-		    align:entity2 vocab:\?tema\=681 ;
+		    align:entity2 cbsid:681 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4443,7 +4444,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d30d229d-5cd1-458d-99e9-16edc4ea753f ;
-		    align:entity2 vocab:\?tema\=2515 ;
+		    align:entity2 cbsid:2515 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4457,7 +4458,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d313b496-cbe4-4364-8c1c-4267974bb85d ;
-		    align:entity2 vocab:\?tema\=2946 ;
+		    align:entity2 cbsid:2946 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4471,7 +4472,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d363d4ce-026d-4722-b9c2-45a19ad1d228 ;
-		    align:entity2 vocab:\?tema\=2840 ;
+		    align:entity2 cbsid:2840 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4485,7 +4486,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d38aacaa-fb46-44f5-b54d-8338eb2f9e25 ;
-		    align:entity2 vocab:\?tema\=1071 ;
+		    align:entity2 cbsid:1071 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4499,7 +4500,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d427ca2f-8309-4625-913f-e2985a71ac05 ;
-		    align:entity2 vocab:\?tema\=1276 ;
+		    align:entity2 cbsid:1276 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4513,7 +4514,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d43b174c-52bd-4529-a384-b8b9db232bfd ;
-		    align:entity2 vocab:\?tema\=1072 ;
+		    align:entity2 cbsid:1072 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4527,7 +4528,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0d629328-056e-4321-b54b-b06bebcd544b ;
-		    align:entity2 vocab:\?tema\=1829 ;
+		    align:entity2 cbsid:1829 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4541,7 +4542,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d4581dcb-ee62-483d-857b-7e6bca89f702 ;
-		    align:entity2 vocab:\?tema\=470 ;
+		    align:entity2 cbsid:470 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4555,7 +4556,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d56ba80c-606b-461d-8a0e-87018f44cf85 ;
-		    align:entity2 vocab:\?tema\=1008 ;
+		    align:entity2 cbsid:1008 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4569,7 +4570,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d571a82f-b913-4ab2-bfbc-b22d92746568 ;
-		    align:entity2 vocab:\?tema\=6 ;
+		    align:entity2 cbsid:6 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4583,7 +4584,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d5ad84c5-6736-4ae2-ae7e-e68e1ada2123 ;
-		    align:entity2 vocab:\?tema\=1105 ;
+		    align:entity2 cbsid:1105 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4597,7 +4598,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d5ce3767-f68d-44c6-8f2f-c9d66e3a2023 ;
-		    align:entity2 vocab:\?tema\=1582 ;
+		    align:entity2 cbsid:1582 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4611,7 +4612,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d76eb11c-0b88-458a-aa05-dae1d8405293 ;
-		    align:entity2 vocab:\?tema\=2236 ;
+		    align:entity2 cbsid:2236 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4625,7 +4626,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d7849497-6776-462d-baec-96f61933a340 ;
-		    align:entity2 vocab:\?tema\=2277 ;
+		    align:entity2 cbsid:2277 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4639,7 +4640,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d7b9db7e-34f9-4a11-bb11-734e9db7e67c ;
-		    align:entity2 vocab:\?tema\=8540 ;
+		    align:entity2 cbsid:8540 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4653,7 +4654,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:d966e9e4-29f0-4329-b4fc-40eb71a25201 ;
-		    align:entity2 vocab:\?tema\=2527 ;
+		    align:entity2 cbsid:2527 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4667,7 +4668,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:dab48525-c485-459b-bb41-730756f1dd65 ;
-		    align:entity2 vocab:\?tema\=1821 ;
+		    align:entity2 cbsid:1821 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4681,7 +4682,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0d71bbbb-0910-4dce-a740-8dc4043e9929 ;
-		    align:entity2 vocab:\?tema\=2866 ;
+		    align:entity2 cbsid:2866 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4695,7 +4696,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:db4fe317-a304-4c23-8524-10179cb8846a ;
-		    align:entity2 vocab:\?tema\=2804 ;
+		    align:entity2 cbsid:2804 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4709,7 +4710,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:dd390fc8-f11a-4f20-946a-47b66f04e0db ;
-		    align:entity2 vocab:\?tema\=2955 ;
+		    align:entity2 cbsid:2955 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4723,7 +4724,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:debb168f-2f44-412c-900f-bfcf5a74e847 ;
-		    align:entity2 vocab:\?tema\=476 ;
+		    align:entity2 cbsid:476 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4737,7 +4738,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:df3fb75d-399f-4e3d-842b-2aef8c4cf8ea ;
-		    align:entity2 vocab:\?tema\=324 ;
+		    align:entity2 cbsid:324 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4751,7 +4752,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:df4331f1-2261-47a3-924a-540b759b44b2 ;
-		    align:entity2 vocab:\?tema\=544 ;
+		    align:entity2 cbsid:544 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4765,7 +4766,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e0494036-d1de-4801-aa86-b4e9ed1ec479 ;
-		    align:entity2 vocab:\?tema\=2276 ;
+		    align:entity2 cbsid:2276 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4779,7 +4780,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e165a2b3-40ab-418e-a2ae-e7f9b9e8f1a9 ;
-		    align:entity2 vocab:\?tema\=639 ;
+		    align:entity2 cbsid:639 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4793,7 +4794,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e20db49e-ee26-4096-af7d-0169795b8373 ;
-		    align:entity2 vocab:\?tema\=2020 ;
+		    align:entity2 cbsid:2020 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4807,7 +4808,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e3291f51-99c6-4379-bf8b-e89f6b2051b8 ;
-		    align:entity2 vocab:\?tema\=397 ;
+		    align:entity2 cbsid:397 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4821,7 +4822,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e40c0c36-01f8-4d44-b510-dacd98bdd024 ;
-		    align:entity2 vocab:\?tema\=4847 ;
+		    align:entity2 cbsid:4847 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4835,7 +4836,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0e368373-4a90-4ccd-94a0-d971c3c52529 ;
-		    align:entity2 vocab:\?tema\=2467 ;
+		    align:entity2 cbsid:2467 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4849,7 +4850,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e57c810a-1500-40d9-ae79-f8c1811476bd ;
-		    align:entity2 vocab:\?tema\=4368 ;
+		    align:entity2 cbsid:4368 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4863,7 +4864,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e5dd3267-fa57-48f0-952d-303b27c3ca87 ;
-		    align:entity2 vocab:\?tema\=3418 ;
+		    align:entity2 cbsid:3418 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4877,7 +4878,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e67b63bc-a155-4743-baad-8f7fabedb15f ;
-		    align:entity2 vocab:\?tema\=1755 ;
+		    align:entity2 cbsid:1755 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4891,7 +4892,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e85bfd7a-67ed-4eea-9e46-bf991e034aea ;
-		    align:entity2 vocab:\?tema\=3101 ;
+		    align:entity2 cbsid:3101 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4905,7 +4906,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e86b78c8-7f45-4576-93f4-86944c5dc7a0 ;
-		    align:entity2 vocab:\?tema\=2490 ;
+		    align:entity2 cbsid:2490 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4919,7 +4920,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e87d9670-eed0-42af-9e19-bdbee14ed633 ;
-		    align:entity2 vocab:\?tema\=3431 ;
+		    align:entity2 cbsid:3431 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4933,7 +4934,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e8a605f5-03e8-4fc0-8345-27bb0ff57a1d ;
-		    align:entity2 vocab:\?tema\=4740 ;
+		    align:entity2 cbsid:4740 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4947,7 +4948,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e911ed12-88af-41ec-8ba7-98cb029cf5c7 ;
-		    align:entity2 vocab:\?tema\=809 ;
+		    align:entity2 cbsid:809 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4961,7 +4962,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:e96ca5bb-f34a-44da-8497-1b41935046a2 ;
-		    align:entity2 vocab:\?tema\=1050 ;
+		    align:entity2 cbsid:1050 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4975,7 +4976,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ebf35305-df80-4770-8bfe-2311389c5331 ;
-		    align:entity2 vocab:\?tema\=786 ;
+		    align:entity2 cbsid:786 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -4989,7 +4990,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:0e3aa668-5423-4117-a4c0-46d6c4fd4ee4 ;
-		    align:entity2 vocab:\?tema\=3919 ;
+		    align:entity2 cbsid:3919 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -5003,7 +5004,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ebf6f18f-16ec-45dc-97f3-5d15415adbfc ;
-		    align:entity2 vocab:\?tema\=504 ;
+		    align:entity2 cbsid:504 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -5017,7 +5018,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:ec5fdae7-ef3d-4736-985f-d630037b274e ;
-		    align:entity2 vocab:\?tema\=846 ;
+		    align:entity2 cbsid:846 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -5031,7 +5032,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:eeca9b3a-bded-48f3-81e0-994b5b70dc21 ;
-		    align:entity2 vocab:\?tema\=577 ;
+		    align:entity2 cbsid:577 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -5045,7 +5046,7 @@
 		  ] ,
 		  [ a align:Cell ;
 		    align:entity1 id:eeee1de9-1dcb-488f-a60a-8c4b0a002094 ;
-		    align:entity2 vocab:\?tema\=81 ;
+		    align:entity2 cbsid:81 ;
 		    align:relation skos:exactMatch ;
 		    amalgame:evidence [ align:relation skos:exactMatch ;
 					amalgame:comment "" ;
@@ -5066,7 +5067,7 @@
 id:001169ea-4b4c-43a1-a37d-dcaee6713d7d
 	skos:prefLabel "LENINGEN"@nl .
 
-vocab:\?tema\=467
+cbsid:467
 	skos:prefLabel "leningen"@nl .
 }
 
@@ -5077,7 +5078,7 @@ vocab:\?tema\=467
 id:022b5ae6-2bca-44dc-9c62-a41293a3fcc3
 	skos:prefLabel "PATIËNTEN"@nl .
 
-vocab:\?tema\=1494
+cbsid:1494
 	skos:prefLabel "patiënten"@nl .
 }
 
@@ -5088,7 +5089,7 @@ vocab:\?tema\=1494
 id:0258963d-21b3-430a-ba63-53cc3b45d18e
 	skos:prefLabel "DEPRESSIE"@nl .
 
-vocab:\?tema\=4189
+cbsid:4189
 	skos:prefLabel "depressie"@nl .
 }
 
@@ -5099,7 +5100,7 @@ vocab:\?tema\=4189
 id:04e50b0c-8ca1-460d-a903-dbc630841d8c
 	skos:prefLabel "FINANCIËLE DIENSTEN"@nl .
 
-vocab:\?tema\=516
+cbsid:516
 	skos:prefLabel "financiële diensten"@nl .
 }
 
@@ -5110,7 +5111,7 @@ vocab:\?tema\=516
 id:05b420dd-c3d9-492e-ae2e-d860216d8fdd
 	skos:prefLabel "BEROEPEN"@nl .
 
-vocab:\?tema\=191
+cbsid:191
 	skos:prefLabel "beroepen"@nl .
 }
 
@@ -5121,7 +5122,7 @@ vocab:\?tema\=191
 id:06575042-7ce5-4e2a-93aa-bb71c9285726
 	skos:prefLabel "RAMPENBESTRIJDING"@nl .
 
-vocab:\?tema\=2773
+cbsid:2773
 	skos:prefLabel "rampenbestrijding"@nl .
 }
 
@@ -5132,7 +5133,7 @@ vocab:\?tema\=2773
 id:06b09611-0f44-4364-8c7d-05af926811c3
 	skos:prefLabel "KWALITEIT VAN LEVEN"@nl .
 
-vocab:\?tema\=1417
+cbsid:1417
 	skos:prefLabel "kwaliteit van leven"@nl .
 }
 
@@ -5143,7 +5144,7 @@ vocab:\?tema\=1417
 id:0750553b-8718-4550-ab62-e45ee72f751e
 	skos:prefLabel "WETENSCHAPPELIJK ONDERZOEK"@nl .
 
-vocab:\?tema\=3828
+cbsid:3828
 	skos:prefLabel "wetenschappelijk onderzoek"@nl .
 }
 
@@ -5154,7 +5155,7 @@ vocab:\?tema\=3828
 id:07b7e948-08f1-48db-bb42-e0fa4bbd0ed6
 	skos:prefLabel "MIDDELENGEBRUIK"@nl .
 
-vocab:\?tema\=1344
+cbsid:1344
 	skos:prefLabel "middelengebruik"@nl .
 }
 
@@ -5165,7 +5166,7 @@ vocab:\?tema\=1344
 id:09e44b31-8c93-4f3d-a2aa-da975175dd97
 	skos:prefLabel "VOGELS"@nl .
 
-vocab:\?tema\=2416
+cbsid:2416
 	skos:prefLabel "vogels"@nl .
 }
 
@@ -5176,7 +5177,7 @@ vocab:\?tema\=2416
 id:0a08d14b-cf21-4ae2-b448-12a4d8208449
 	skos:prefLabel "EXAMENS"@nl .
 
-vocab:\?tema\=4535
+cbsid:4535
 	skos:prefLabel "examens"@nl .
 }
 
@@ -5187,7 +5188,7 @@ vocab:\?tema\=4535
 id:0a0a07e6-1644-45f5-a2ca-9f95c87c866b
 	skos:prefLabel "AFPERSING"@nl .
 
-vocab:\?tema\=3332
+cbsid:3332
 	skos:prefLabel "afpersing"@nl .
 }
 
@@ -5198,7 +5199,7 @@ vocab:\?tema\=3332
 id:0a72d503-00dd-49da-9197-e317e9c60ab7
 	skos:prefLabel "PSORIASIS"@nl .
 
-vocab:\?tema\=1394
+cbsid:1394
 	skos:prefLabel "psoriasis"@nl .
 }
 
@@ -5209,7 +5210,7 @@ vocab:\?tema\=1394
 id:0ab9b6fb-5eef-476b-9005-68f6ef566caa
 	skos:prefLabel "LEVENSVERWACHTING"@nl .
 
-vocab:\?tema\=596
+cbsid:596
 	skos:prefLabel "levensverwachting"@nl .
 }
 
@@ -5220,7 +5221,7 @@ vocab:\?tema\=596
 id:0b24efb1-d22c-407f-8111-30eb1eadcaf2
 	skos:prefLabel "OUDERS"@nl .
 
-vocab:\?tema\=802
+cbsid:802
 	skos:prefLabel "ouders"@nl .
 }
 
@@ -5231,7 +5232,7 @@ vocab:\?tema\=802
 id:0b4544e6-6aac-427b-9c2b-6f775233b599
 	skos:prefLabel "OMZET"@nl .
 
-vocab:\?tema\=412
+cbsid:412
 	skos:prefLabel "omzet"@nl .
 }
 
@@ -5242,7 +5243,7 @@ vocab:\?tema\=412
 id:0b5f1ffc-9c0e-4df6-b68e-fafc6790b247
 	skos:prefLabel "STRAF"@nl .
 
-vocab:\?tema\=3098
+cbsid:3098
 	skos:prefLabel "straf"@nl .
 }
 
@@ -5253,7 +5254,7 @@ vocab:\?tema\=3098
 id:0c47bd05-f399-4df3-a69d-184088955a2b
 	skos:prefLabel "ENERGIE"@nl .
 
-vocab:\?tema\=1610
+cbsid:1610
 	skos:prefLabel "energie"@nl .
 }
 
@@ -5264,7 +5265,7 @@ vocab:\?tema\=1610
 id:0c7156cf-48cc-4b83-a572-2bc35f9dcc16
 	skos:prefLabel "PRIJZEN"@nl .
 
-vocab:\?tema\=2909
+cbsid:2909
 	skos:prefLabel "prijzen"@nl .
 }
 
@@ -5275,7 +5276,7 @@ vocab:\?tema\=2909
 id:0cf8c816-2471-4472-a9f2-98a85a248ad7
 	skos:prefLabel "DEFLATIE"@nl .
 
-vocab:\?tema\=2947
+cbsid:2947
 	skos:prefLabel "deflatie"@nl .
 }
 
@@ -5286,7 +5287,7 @@ vocab:\?tema\=2947
 id:0d088060-b858-4e45-a0d1-77f890b4aecd
 	skos:prefLabel "WEER"@nl .
 
-vocab:\?tema\=4510
+cbsid:4510
 	skos:prefLabel "weer"@nl .
 }
 
@@ -5297,7 +5298,7 @@ vocab:\?tema\=4510
 id:0d629328-056e-4321-b54b-b06bebcd544b
 	skos:prefLabel "CONSUMPTIE"@nl .
 
-vocab:\?tema\=1829
+cbsid:1829
 	skos:prefLabel "consumptie"@nl .
 }
 
@@ -5308,7 +5309,7 @@ vocab:\?tema\=1829
 id:0d71bbbb-0910-4dce-a740-8dc4043e9929
 	skos:prefLabel "EUROPEES PARLEMENT"@nl .
 
-vocab:\?tema\=2866
+cbsid:2866
 	skos:prefLabel "Europees parlement"@nl .
 }
 
@@ -5319,7 +5320,7 @@ vocab:\?tema\=2866
 id:0e368373-4a90-4ccd-94a0-d971c3c52529
 	skos:prefLabel "OPENBARE SCHOLEN"@nl .
 
-vocab:\?tema\=2467
+cbsid:2467
 	skos:prefLabel "openbare scholen"@nl .
 }
 
@@ -5330,7 +5331,7 @@ vocab:\?tema\=2467
 id:0e3aa668-5423-4117-a4c0-46d6c4fd4ee4
 	skos:prefLabel "JOURNALISTEN"@nl .
 
-vocab:\?tema\=3919
+cbsid:3919
 	skos:prefLabel "journalisten"@nl .
 }
 
@@ -5341,7 +5342,7 @@ vocab:\?tema\=3919
 id:0e4f8939-36df-4845-b8f9-1f475febd309
 	skos:prefLabel "LEVENSVERZEKERING"@nl .
 
-vocab:\?tema\=475
+cbsid:475
 	skos:prefLabel "levensverzekering"@nl .
 }
 
@@ -5352,7 +5353,7 @@ vocab:\?tema\=475
 id:0fb0e673-9b59-47b4-b9a7-ae8cbc7c89b9
 	skos:prefLabel "ELEKTRISCHE AUTO'S"@nl .
 
-vocab:\?tema\=4217
+cbsid:4217
 	skos:prefLabel "elektrische auto's"@nl .
 }
 
@@ -5363,7 +5364,7 @@ vocab:\?tema\=4217
 id:101da3ba-0ede-4e67-939e-6996477dcdc0
 	skos:prefLabel "NATIONALITEIT"@nl .
 
-vocab:\?tema\=738
+cbsid:738
 	skos:prefLabel "nationaliteit"@nl .
 }
 
@@ -5374,7 +5375,7 @@ vocab:\?tema\=738
 id:106aa3af-ac75-4786-8b2d-3c8a1aa53384
 	skos:prefLabel "GEESTELIJKE GEZONDHEID"@nl .
 
-vocab:\?tema\=1332
+cbsid:1332
 	skos:prefLabel "geestelijke gezondheid"@nl .
 }
 
@@ -5385,7 +5386,7 @@ vocab:\?tema\=1332
 id:107ac6a0-6944-4843-8aec-3268ae51e71d
 	skos:prefLabel "BOUWKOSTEN"@nl .
 
-vocab:\?tema\=907
+cbsid:907
 	skos:prefLabel "bouwkosten"@nl .
 }
 
@@ -5396,7 +5397,7 @@ vocab:\?tema\=907
 id:113c8edb-f1a2-4246-86d9-7bb79b75553d
 	skos:prefLabel "BEROEPSBEVOLKING"@nl .
 
-vocab:\?tema\=201
+cbsid:201
 	skos:prefLabel "beroepsbevolking"@nl .
 }
 
@@ -5407,7 +5408,7 @@ vocab:\?tema\=201
 id:114ca5c7-579e-4159-8b21-e0b8800407fc
 	skos:prefLabel "MISDRIJVEN"@nl .
 
-vocab:\?tema\=3324
+cbsid:3324
 	skos:prefLabel "misdrijven"@nl .
 }
 
@@ -5418,7 +5419,7 @@ vocab:\?tema\=3324
 id:114f68e1-80bc-4498-b14d-bda3632a20f7
 	skos:prefLabel "LANDBOUWSUBSIDIES"@nl .
 
-vocab:\?tema\=2019
+cbsid:2019
 	skos:prefLabel "landbouwsubsidies"@nl .
 }
 
@@ -5429,7 +5430,7 @@ vocab:\?tema\=2019
 id:11bda8be-5d8a-4e2c-9d7d-9cb26b4460e9
 	skos:prefLabel "SCHULDEN"@nl .
 
-vocab:\?tema\=1940
+cbsid:1940
 	skos:prefLabel "schulden"@nl .
 }
 
@@ -5440,7 +5441,7 @@ vocab:\?tema\=1940
 id:13d01f0e-44ed-4f28-9ef6-7046a6fe0322
 	skos:prefLabel "KANKER"@nl .
 
-vocab:\?tema\=1404
+cbsid:1404
 	skos:prefLabel "kanker"@nl .
 }
 
@@ -5451,7 +5452,7 @@ vocab:\?tema\=1404
 id:14642f43-4500-447a-a849-dbbf10b52290
 	skos:prefLabel "ECONOMISCHE GROEI"@nl .
 
-vocab:\?tema\=2174
+cbsid:2174
 	skos:prefLabel "economische groei"@nl .
 }
 
@@ -5462,7 +5463,7 @@ vocab:\?tema\=2174
 id:15563384-f500-4e29-8794-e7488ac7353f
 	skos:prefLabel "LEZINGEN"@nl .
 
-vocab:\?tema\=4055
+cbsid:4055
 	skos:prefLabel "lezingen"@nl .
 }
 
@@ -5473,7 +5474,7 @@ vocab:\?tema\=4055
 id:168e4e99-7cc0-4f3c-bf9f-66f3950c1375
 	skos:prefLabel "CULTUURBELEID"@nl .
 
-vocab:\?tema\=1085
+cbsid:1085
 	skos:prefLabel "cultuurbeleid"@nl .
 }
 
@@ -5484,7 +5485,7 @@ vocab:\?tema\=1085
 id:16deddc9-d8b6-4232-9eab-594df5068a30
 	skos:prefLabel "ENERGIEVERBRUIK"@nl .
 
-vocab:\?tema\=1619
+cbsid:1619
 	skos:prefLabel "energieverbruik"@nl .
 }
 
@@ -5495,7 +5496,7 @@ vocab:\?tema\=1619
 id:173b36c1-c94a-4337-a7eb-b3d43d3164b2
 	skos:prefLabel "SPORTERS"@nl .
 
-vocab:\?tema\=3863
+cbsid:3863
 	skos:prefLabel "sporters"@nl .
 }
 
@@ -5506,7 +5507,7 @@ vocab:\?tema\=3863
 id:1745b7a0-e28f-48fe-a60a-df78e9e7a022
 	skos:prefLabel "PLOEGENDIENST"@nl .
 
-vocab:\?tema\=184
+cbsid:184
 	skos:prefLabel "ploegendienst"@nl .
 }
 
@@ -5517,7 +5518,7 @@ vocab:\?tema\=184
 id:17f4fd0e-b6cd-4583-a0a5-ed33fa21f8e4
 	skos:prefLabel "GESCHIEDENIS"@nl .
 
-vocab:\?tema\=4000
+cbsid:4000
 	skos:prefLabel "geschiedenis"@nl .
 }
 
@@ -5528,7 +5529,7 @@ vocab:\?tema\=4000
 id:18c14083-25a3-4dbd-a76a-e5eba476cc97
 	skos:prefLabel "SOCIALE VEILIGHEID"@nl .
 
-vocab:\?tema\=3430
+cbsid:3430
 	skos:prefLabel "sociale veiligheid"@nl .
 }
 
@@ -5539,7 +5540,7 @@ vocab:\?tema\=3430
 id:19a3da32-8c7c-46b2-88b0-79d82587be5f
 	skos:prefLabel "BURGERLIJK RECHT"@nl .
 
-vocab:\?tema\=3237
+cbsid:3237
 	skos:prefLabel "burgerlijk recht"@nl .
 }
 
@@ -5550,7 +5551,7 @@ vocab:\?tema\=3237
 id:1a4d880a-120d-4a8d-b15c-9037e61b775c
 	skos:prefLabel "LICHAMELIJKE BEPERKINGEN"@nl .
 
-vocab:\?tema\=1421
+cbsid:1421
 	skos:prefLabel "lichamelijke beperkingen"@nl .
 }
 
@@ -5561,7 +5562,7 @@ vocab:\?tema\=1421
 id:1b603067-708b-4aed-af7a-0fb6b56c0224
 	skos:prefLabel "BEBOUWDE KOM"@nl .
 
-vocab:\?tema\=4802
+cbsid:4802
 	skos:prefLabel "bebouwde kom"@nl .
 }
 
@@ -5572,7 +5573,7 @@ vocab:\?tema\=4802
 id:1c341304-ba4c-451f-95eb-54de3f8f0d95
 	skos:prefLabel "ENERGIEBELEID"@nl .
 
-vocab:\?tema\=1629
+cbsid:1629
 	skos:prefLabel "energiebeleid"@nl .
 }
 
@@ -5583,7 +5584,7 @@ vocab:\?tema\=1629
 id:1d7005cb-5980-482a-861c-ad5c011f6d5b
 	skos:prefLabel "EUTHANASIE"@nl .
 
-vocab:\?tema\=861
+cbsid:861
 	skos:prefLabel "euthanasie"@nl .
 }
 
@@ -5594,7 +5595,7 @@ vocab:\?tema\=861
 id:1d721a48-48d9-4543-b198-d61f61f94481
 	skos:prefLabel "KINDERMISHANDELING"@nl .
 
-vocab:\?tema\=4216
+cbsid:4216
 	skos:prefLabel "kindermishandeling"@nl .
 }
 
@@ -5605,7 +5606,7 @@ vocab:\?tema\=4216
 id:1da2d4ba-9722-4443-8f82-b40a14f42abd
 	skos:prefLabel "VERKEERSVEILIGHEID"@nl .
 
-vocab:\?tema\=3453
+cbsid:3453
 	skos:prefLabel "verkeersveiligheid"@nl .
 }
 
@@ -5616,7 +5617,7 @@ vocab:\?tema\=3453
 id:1e3ef047-f875-4412-a98f-e7e0596c678c
 	skos:prefLabel "FYSIOTHERAPIE"@nl .
 
-vocab:\?tema\=1504
+cbsid:1504
 	skos:prefLabel "fysiotherapie"@nl .
 }
 
@@ -5627,7 +5628,7 @@ vocab:\?tema\=1504
 id:1e5b0f64-fea0-4c40-9e8c-a8f6dae4034b
 	skos:prefLabel "SOCIALE VOORZIENINGEN"@nl .
 
-vocab:\?tema\=340
+cbsid:340
 	skos:prefLabel "sociale voorzieningen"@nl .
 }
 
@@ -5638,7 +5639,7 @@ vocab:\?tema\=340
 id:1ea77ae0-361b-46fb-855d-5120708b130e
 	skos:prefLabel "KATHOLICISME"@nl .
 
-vocab:\?tema\=4688
+cbsid:4688
 	skos:prefLabel "katholicisme"@nl .
 }
 
@@ -5649,7 +5650,7 @@ vocab:\?tema\=4688
 id:1eeeff13-eaea-4f74-b169-9ccc8479c545
 	skos:prefLabel "NATIONALE IDENTITEIT"@nl .
 
-vocab:\?tema\=2906
+cbsid:2906
 	skos:prefLabel "nationale identiteit"@nl .
 }
 
@@ -5660,7 +5661,7 @@ vocab:\?tema\=2906
 id:2105205d-9b9d-4c25-a66d-b633c6cb3d45
 	skos:prefLabel "ANALFABETISME"@nl .
 
-vocab:\?tema\=4157
+cbsid:4157
 	skos:prefLabel "analfabetisme"@nl .
 }
 
@@ -5671,7 +5672,7 @@ vocab:\?tema\=4157
 id:220504b2-1da1-4e67-851e-6b656ed63913
 	skos:prefLabel "MUSEA"@nl .
 
-vocab:\?tema\=1079
+cbsid:1079
 	skos:prefLabel "musea"@nl .
 }
 
@@ -5682,7 +5683,7 @@ vocab:\?tema\=1079
 id:22a3d3e0-6e09-4f9a-aec4-bb08e3e76f98
 	skos:prefLabel "ONDERZOEKERS"@nl .
 
-vocab:\?tema\=3923
+cbsid:3923
 	skos:prefLabel "onderzoekers"@nl .
 }
 
@@ -5693,7 +5694,7 @@ vocab:\?tema\=3923
 id:23732518-60f9-4da7-ae92-e11a8f311922
 	skos:prefLabel "INSECTEN"@nl .
 
-vocab:\?tema\=4563
+cbsid:4563
 	skos:prefLabel "insecten"@nl .
 }
 
@@ -5704,7 +5705,7 @@ vocab:\?tema\=4563
 id:23906f8c-e5ff-437b-9d8e-5878554f9053
 	skos:prefLabel "WERKLOOSHEID"@nl .
 
-vocab:\?tema\=96
+cbsid:96
 	skos:prefLabel "werkloosheid"@nl .
 }
 
@@ -5715,7 +5716,7 @@ vocab:\?tema\=96
 id:23adb3ec-41ef-4c00-b4d5-36bd1266d100
 	skos:prefLabel "DIEFSTAL"@nl .
 
-vocab:\?tema\=3361
+cbsid:3361
 	skos:prefLabel "diefstal"@nl .
 }
 
@@ -5726,7 +5727,7 @@ vocab:\?tema\=3361
 id:23f19013-53d7-48f8-846c-c14cd0093947
 	skos:prefLabel "VOEDSELVEILIGHEID"@nl .
 
-vocab:\?tema\=2072
+cbsid:2072
 	skos:prefLabel "voedselveiligheid"@nl .
 }
 
@@ -5737,7 +5738,7 @@ vocab:\?tema\=2072
 id:2640c4e1-53a3-40be-8562-0998eb3a1b2f
 	skos:prefLabel "ANTICONCEPTIE"@nl .
 
-vocab:\?tema\=1441
+cbsid:1441
 	skos:prefLabel "anticonceptie"@nl .
 }
 
@@ -5748,7 +5749,7 @@ vocab:\?tema\=1441
 id:268a64fb-9a64-4bac-91ad-50a52875ca9b
 	skos:prefLabel "HETEROSEKSUALITEIT"@nl .
 
-vocab:\?tema\=4139
+cbsid:4139
 	skos:prefLabel "heteroseksualiteit"@nl .
 }
 
@@ -5759,7 +5760,7 @@ vocab:\?tema\=4139
 id:26f43a57-b2ac-41e3-8626-e3d6ceb104f7
 	skos:prefLabel "FIETSEN"@nl .
 
-vocab:\?tema\=3634
+cbsid:3634
 	skos:prefLabel "fietsen"@nl .
 }
 
@@ -5770,7 +5771,7 @@ vocab:\?tema\=3634
 id:27282e9b-1714-4810-910f-e7616718325a
 	skos:prefLabel "WINKELEN"@nl .
 
-vocab:\?tema\=1857
+cbsid:1857
 	skos:prefLabel "winkelen"@nl .
 }
 
@@ -5781,7 +5782,7 @@ vocab:\?tema\=1857
 id:277df823-938b-40a6-b000-b21540cf930c
 	skos:prefLabel "FISCAAL BELEID"@nl .
 
-vocab:\?tema\=460
+cbsid:460
 	skos:prefLabel "fiscaal beleid"@nl .
 }
 
@@ -5792,7 +5793,7 @@ vocab:\?tema\=460
 id:2884bafb-6782-421d-982d-84684d718745
 	skos:prefLabel "VOLKSGEZONDHEID"@nl .
 
-vocab:\?tema\=1369
+cbsid:1369
 	skos:prefLabel "volksgezondheid"@nl .
 }
 
@@ -5803,7 +5804,7 @@ vocab:\?tema\=1369
 id:28e2d994-4be2-459e-912d-2a4c0a9d2100
 	skos:prefLabel "PRODUCTIVITEIT"@nl .
 
-vocab:\?tema\=481
+cbsid:481
 	skos:prefLabel "productiviteit"@nl .
 }
 
@@ -5814,7 +5815,7 @@ vocab:\?tema\=481
 id:2a3757a5-3fff-4c52-a9a1-64467398851b
 	skos:prefLabel "POLITIEK"@nl .
 
-vocab:\?tema\=2839
+cbsid:2839
 	skos:prefLabel "politiek"@nl .
 }
 
@@ -5825,7 +5826,7 @@ vocab:\?tema\=2839
 id:2b652e65-3aa2-4ef8-89a4-1fc27e0ab1b1
 	skos:prefLabel "NATUURGEBIEDEN"@nl .
 
-vocab:\?tema\=2442
+cbsid:2442
 	skos:prefLabel "natuurgebieden"@nl .
 }
 
@@ -5836,7 +5837,7 @@ vocab:\?tema\=2442
 id:2b903700-e9de-4957-b7fb-69e9eafb7a79
 	skos:prefLabel "MOORD"@nl .
 
-vocab:\?tema\=3347
+cbsid:3347
 	skos:prefLabel "moord"@nl .
 }
 
@@ -5847,7 +5848,7 @@ vocab:\?tema\=3347
 id:2c7545d0-e32a-48cc-a3d0-47fb45bb11a9
 	skos:prefLabel "INNOVATIE"@nl .
 
-vocab:\?tema\=3737
+cbsid:3737
 	skos:prefLabel "innovatie"@nl .
 }
 
@@ -5858,7 +5859,7 @@ vocab:\?tema\=3737
 id:2fefa2b9-a87f-429e-ad90-6d5db701bd9b
 	skos:prefLabel "BIOBRANDSTOFFEN"@nl .
 
-vocab:\?tema\=1719
+cbsid:1719
 	skos:prefLabel "biobrandstoffen"@nl .
 }
 
@@ -5869,7 +5870,7 @@ vocab:\?tema\=1719
 id:304646e2-b29e-4a00-9463-38101b9956ad
 	skos:prefLabel "FESTIVALS"@nl .
 
-vocab:\?tema\=1141
+cbsid:1141
 	skos:prefLabel "festivals"@nl .
 }
 
@@ -5880,7 +5881,7 @@ vocab:\?tema\=1141
 id:3074492c-7bc6-48b9-8292-d8de611cae53
 	skos:prefLabel "OUTSOURCING"@nl .
 
-vocab:\?tema\=479
+cbsid:479
 	skos:prefLabel "outsourcing"@nl .
 }
 
@@ -5891,7 +5892,7 @@ vocab:\?tema\=479
 id:309e2f2c-c707-447a-8625-e714d6d046a7
 	skos:prefLabel "SOCIAALECONOMISCHE STATUS"@nl .
 
-vocab:\?tema\=1818
+cbsid:1818
 	skos:prefLabel "sociaaleconomische status"@nl .
 }
 
@@ -5902,7 +5903,7 @@ vocab:\?tema\=1818
 id:30a2a62f-de0d-414e-a69c-4fc9f16458ee
 	skos:prefLabel "OUDERSCHAPSVERLOF"@nl .
 
-vocab:\?tema\=317
+cbsid:317
 	skos:prefLabel "ouderschapsverlof"@nl .
 }
 
@@ -5913,7 +5914,7 @@ vocab:\?tema\=317
 id:3178e2a9-48be-4214-9d7a-6b1249b99ff6
 	skos:prefLabel "CURRICULUM"@nl .
 
-vocab:\?tema\=2444
+cbsid:2444
 	skos:prefLabel "curriculum"@nl .
 }
 
@@ -5924,7 +5925,7 @@ vocab:\?tema\=2444
 id:3435e956-3339-457c-a24b-09ac84cfc777
 	skos:prefLabel "VERSLAVING"@nl .
 
-vocab:\?tema\=1415
+cbsid:1415
 	skos:prefLabel "verslaving"@nl .
 }
 
@@ -5935,7 +5936,7 @@ vocab:\?tema\=1415
 id:3481618d-ee5c-459d-9105-1da20c27cf67
 	skos:prefLabel "EENZAAMHEID"@nl .
 
-vocab:\?tema\=4191
+cbsid:4191
 	skos:prefLabel "eenzaamheid"@nl .
 }
 
@@ -5946,7 +5947,7 @@ vocab:\?tema\=4191
 id:3499d5c3-99a7-45ee-b8aa-113e153b6727
 	skos:prefLabel "KINDERALIMENTATIE"@nl .
 
-vocab:\?tema\=3259
+cbsid:3259
 	skos:prefLabel "kinderalimentatie"@nl .
 }
 
@@ -5957,7 +5958,7 @@ vocab:\?tema\=3259
 id:349f63d3-5f8b-4f47-b06d-0102a9d713fb
 	skos:prefLabel "SOCIALE UITSLUITING"@nl .
 
-vocab:\?tema\=5047
+cbsid:5047
 	skos:prefLabel "sociale uitsluiting"@nl .
 }
 
@@ -5968,7 +5969,7 @@ vocab:\?tema\=5047
 id:34a27a87-99db-429e-9eee-fef0bc736a02
 	skos:prefLabel "CANNABIS"@nl .
 
-vocab:\?tema\=4185
+cbsid:4185
 	skos:prefLabel "cannabis"@nl .
 }
 
@@ -5979,7 +5980,7 @@ vocab:\?tema\=4185
 id:35470103-8d3b-420f-b6e9-e8d1d73ee9cc
 	skos:prefLabel "KRIJGSMACHT"@nl .
 
-vocab:\?tema\=4650
+cbsid:4650
 	skos:prefLabel "krijgsmacht"@nl .
 }
 
@@ -5990,7 +5991,7 @@ vocab:\?tema\=4650
 id:3588ac1d-a993-49f8-a043-f5bc9a534697
 	skos:prefLabel "OPERA"@nl .
 
-vocab:\?tema\=1106
+cbsid:1106
 	skos:prefLabel "opera"@nl .
 }
 
@@ -6001,7 +6002,7 @@ vocab:\?tema\=1106
 id:36344a4a-4e5f-40e5-ac81-0abed76c2309
 	skos:prefLabel "VEERBOTEN"@nl .
 
-vocab:\?tema\=3664
+cbsid:3664
 	skos:prefLabel "veerboten"@nl .
 }
 
@@ -6012,7 +6013,7 @@ vocab:\?tema\=3664
 id:37eec82e-e16e-431e-804f-524948b8f551
 	skos:prefLabel "GEMEENTEBEGROTINGEN"@nl .
 
-vocab:\?tema\=2751
+cbsid:2751
 	skos:prefLabel "gemeentebegrotingen"@nl .
 }
 
@@ -6023,7 +6024,7 @@ vocab:\?tema\=2751
 id:37f9cae8-97af-49e5-8481-2c47575744ab
 	skos:prefLabel "DEMENTIE"@nl .
 
-vocab:\?tema\=4148
+cbsid:4148
 	skos:prefLabel "dementie"@nl .
 }
 
@@ -6034,7 +6035,7 @@ vocab:\?tema\=4148
 id:38604daa-75cd-4996-a27f-808664f4d540
 	skos:prefLabel "ONDERWIJZEND PERSONEEL"@nl .
 
-vocab:\?tema\=2677
+cbsid:2677
 	skos:prefLabel "onderwijzend personeel"@nl .
 }
 
@@ -6045,7 +6046,7 @@ vocab:\?tema\=2677
 id:38854495-5f8e-4a5f-aed7-8819d1b14473
 	skos:prefLabel "GEZONDHEIDSZORG"@nl .
 
-vocab:\?tema\=1431
+cbsid:1431
 	skos:prefLabel "gezondheidszorg"@nl .
 }
 
@@ -6056,7 +6057,7 @@ vocab:\?tema\=1431
 id:39ad3565-7d9d-4e6f-91b0-9414da714e3c
 	skos:prefLabel "KUNSTWERKEN"@nl .
 
-vocab:\?tema\=3465
+cbsid:3465
 	skos:prefLabel "kunstwerken"@nl .
 }
 
@@ -6067,7 +6068,7 @@ vocab:\?tema\=3465
 id:3af38d35-d05f-45a2-912c-48db5d0f546b
 	skos:prefLabel "WINST"@nl .
 
-vocab:\?tema\=424
+cbsid:424
 	skos:prefLabel "winst"@nl .
 }
 
@@ -6078,7 +6079,7 @@ vocab:\?tema\=424
 id:3af6b774-a733-46d6-9aa4-8d0dffea7628
 	skos:prefLabel "SPORTPARTICIPATIE"@nl .
 
-vocab:\?tema\=1217
+cbsid:1217
 	skos:prefLabel "sportparticipatie"@nl .
 }
 
@@ -6089,7 +6090,7 @@ vocab:\?tema\=1217
 id:3b58eac5-38a9-4a8f-b50a-9c86ed21c210
 	skos:prefLabel "ARBEIDSMARKT"@nl .
 
-vocab:\?tema\=2
+cbsid:2
 	skos:prefLabel "arbeidsmarkt"@nl .
 }
 
@@ -6100,7 +6101,7 @@ vocab:\?tema\=2
 id:3d904b66-8ea8-451d-b65d-a08c929227be
 	skos:prefLabel "PAARDEN"@nl .
 
-vocab:\?tema\=2083
+cbsid:2083
 	skos:prefLabel "paarden"@nl .
 }
 
@@ -6111,7 +6112,7 @@ vocab:\?tema\=2083
 id:3e983fd3-344a-4d3b-b10b-158a0af34ae8
 	skos:prefLabel "MUZIEKONDERWIJS"@nl .
 
-vocab:\?tema\=1129
+cbsid:1129
 	skos:prefLabel "muziekonderwijs"@nl .
 }
 
@@ -6122,7 +6123,7 @@ vocab:\?tema\=1129
 id:3e98cbb0-c53e-4bf3-84a8-791ab5257c52
 	skos:prefLabel "GEITEN"@nl .
 
-vocab:\?tema\=4641
+cbsid:4641
 	skos:prefLabel "geiten"@nl .
 }
 
@@ -6133,7 +6134,7 @@ vocab:\?tema\=4641
 id:3f10df3d-ac2e-4362-929c-e88a4dbb3b37
 	skos:prefLabel "NATIONALE REKENINGEN"@nl .
 
-vocab:\?tema\=2229
+cbsid:2229
 	skos:prefLabel "nationale rekeningen"@nl .
 }
 
@@ -6144,7 +6145,7 @@ vocab:\?tema\=2229
 id:3f4bc184-2457-4e53-9362-9fa7521a00d2
 	skos:prefLabel "MILIEUBELEID"@nl .
 
-vocab:\?tema\=2285
+cbsid:2285
 	skos:prefLabel "milieubeleid"@nl .
 }
 
@@ -6155,7 +6156,7 @@ vocab:\?tema\=2285
 id:3f61cbd7-8107-4d96-91a2-63cb787ebeb7
 	skos:prefLabel "INTERNET"@nl .
 
-vocab:\?tema\=3804
+cbsid:3804
 	skos:prefLabel "internet"@nl .
 }
 
@@ -6166,7 +6167,7 @@ vocab:\?tema\=3804
 id:4235c3b9-ee00-4fc6-b97a-d6098c27a6ad
 	skos:prefLabel "MEREN"@nl .
 
-vocab:\?tema\=2272
+cbsid:2272
 	skos:prefLabel "meren"@nl .
 }
 
@@ -6177,7 +6178,7 @@ vocab:\?tema\=2272
 id:42bd7b71-08bc-4a2e-9593-552bc3cabf97
 	skos:prefLabel "VACATURES"@nl .
 
-vocab:\?tema\=28
+cbsid:28
 	skos:prefLabel "vacatures"@nl .
 }
 
@@ -6188,7 +6189,7 @@ vocab:\?tema\=28
 id:45863692-f281-4171-ad28-38e389aa0ecb
 	skos:prefLabel "EENPERSOONSHUISHOUDENS"@nl .
 
-vocab:\?tema\=657
+cbsid:657
 	skos:prefLabel "eenpersoonshuishoudens"@nl .
 }
 
@@ -6199,7 +6200,7 @@ vocab:\?tema\=657
 id:45c64d75-cf68-42d8-831e-94855bb4bfaa
 	skos:prefLabel "LANDBOUWVOERTUIGEN"@nl .
 
-vocab:\?tema\=3683
+cbsid:3683
 	skos:prefLabel "landbouwvoertuigen"@nl .
 }
 
@@ -6210,7 +6211,7 @@ vocab:\?tema\=3683
 id:4665e593-9649-4334-85fa-e63596729ef0
 	skos:prefLabel "BRUGGEN"@nl .
 
-vocab:\?tema\=3466
+cbsid:3466
 	skos:prefLabel "bruggen"@nl .
 }
 
@@ -6221,7 +6222,7 @@ vocab:\?tema\=3466
 id:4735eb3a-7da3-4410-8589-b9cf787ad7e6
 	skos:prefLabel "ALCOHOLGEBRUIK"@nl .
 
-vocab:\?tema\=1345
+cbsid:1345
 	skos:prefLabel "alcoholgebruik"@nl .
 }
 
@@ -6232,7 +6233,7 @@ vocab:\?tema\=1345
 id:477c5b2b-de05-422b-9477-fb02ef085605
 	skos:prefLabel "BEVOLKINGSPROGNOSE"@nl .
 
-vocab:\?tema\=587
+cbsid:587
 	skos:prefLabel "bevolkingsprognose"@nl .
 }
 
@@ -6243,7 +6244,7 @@ vocab:\?tema\=587
 id:498de90d-7d1e-4f94-b283-181b7edb3ebf
 	skos:prefLabel "OUDEREN"@nl .
 
-vocab:\?tema\=731
+cbsid:731
 	skos:prefLabel "ouderen"@nl .
 }
 
@@ -6254,7 +6255,7 @@ vocab:\?tema\=731
 id:4a2028b2-3ce5-4607-92ff-a54a2d403bdf
 	skos:prefLabel "PUBLIEK"@nl .
 
-vocab:\?tema\=3922
+cbsid:3922
 	skos:prefLabel "publiek"@nl .
 }
 
@@ -6265,7 +6266,7 @@ vocab:\?tema\=3922
 id:4a214e4f-e0f4-43ce-b078-9e92ffd522a5
 	skos:prefLabel "BUITENECHTELIJKE GEBOORTEN"@nl .
 
-vocab:\?tema\=630
+cbsid:630
 	skos:prefLabel "buitenechtelijke geboorten"@nl .
 }
 
@@ -6276,7 +6277,7 @@ vocab:\?tema\=630
 id:4d00ab41-eb51-488a-b346-e1ebb8cd34c7
 	skos:prefLabel "GEREGISTREERDE PARTNERSCHAPPEN"@nl .
 
-vocab:\?tema\=836
+cbsid:836
 	skos:prefLabel "geregistreerde partnerschappen"@nl .
 }
 
@@ -6287,7 +6288,7 @@ vocab:\?tema\=836
 id:4e5b4a2d-2416-4ef3-8384-7ef15e3ebc32
 	skos:prefLabel "ENTERTAINMENT"@nl .
 
-vocab:\?tema\=4342
+cbsid:4342
 	skos:prefLabel "entertainment"@nl .
 }
 
@@ -6298,7 +6299,7 @@ vocab:\?tema\=4342
 id:4e70e1ed-adcc-41ec-a64f-4775b25ec294
 	skos:prefLabel "ANTIBIOTICA"@nl .
 
-vocab:\?tema\=4546
+cbsid:4546
 	skos:prefLabel "antibiotica"@nl .
 }
 
@@ -6309,7 +6310,7 @@ vocab:\?tema\=4546
 id:4ea208aa-a59c-4edf-9cfd-54ec61923a11
 	skos:prefLabel "ONDERVOEDING"@nl .
 
-vocab:\?tema\=4243
+cbsid:4243
 	skos:prefLabel "ondervoeding"@nl .
 }
 
@@ -6320,7 +6321,7 @@ vocab:\?tema\=4243
 id:4fefe95c-aeff-475c-b8c3-19f2fe6d59f3
 	skos:prefLabel "SEKSUELE GEAARDHEID"@nl .
 
-vocab:\?tema\=763
+cbsid:763
 	skos:prefLabel "seksuele geaardheid"@nl .
 }
 
@@ -6331,7 +6332,7 @@ vocab:\?tema\=763
 id:508dd0b7-8cb3-4455-9406-c9f6e0ee2faf
 	skos:prefLabel "BURGERPARTICIPATIE"@nl .
 
-vocab:\?tema\=2874
+cbsid:2874
 	skos:prefLabel "burgerparticipatie"@nl .
 }
 
@@ -6342,7 +6343,7 @@ vocab:\?tema\=2874
 id:5119ba2d-0b56-4771-b12c-bf0ff73ea70b
 	skos:prefLabel "OPENBAAR VERVOER"@nl .
 
-vocab:\?tema\=3572
+cbsid:3572
 	skos:prefLabel "openbaar vervoer"@nl .
 }
 
@@ -6353,7 +6354,7 @@ vocab:\?tema\=3572
 id:529f142d-fb1b-443b-99c6-8a0d8d87ce0e
 	skos:prefLabel "ETNISCHE MINDERHEDEN"@nl .
 
-vocab:\?tema\=704
+cbsid:704
 	skos:prefLabel "etnische minderheden"@nl .
 }
 
@@ -6364,7 +6365,7 @@ vocab:\?tema\=704
 id:532e2026-d631-4e6f-b808-2625cad8e55d
 	skos:prefLabel "SOCIALE ZEKERHEID"@nl .
 
-vocab:\?tema\=209
+cbsid:209
 	skos:prefLabel "sociale zekerheid"@nl .
 }
 
@@ -6375,7 +6376,7 @@ vocab:\?tema\=209
 id:53617a23-ffaa-4da0-9efe-8819180522f1
 	skos:prefLabel "PENSIOENEN"@nl .
 
-vocab:\?tema\=218
+cbsid:218
 	skos:prefLabel "pensioenen"@nl .
 }
 
@@ -6386,7 +6387,7 @@ vocab:\?tema\=218
 id:569a46d8-b049-47f9-9f1a-9fd78293cd4c
 	skos:prefLabel "TERTIAIR ONDERWIJS"@nl .
 
-vocab:\?tema\=2634
+cbsid:2634
 	skos:prefLabel "tertiair onderwijs"@nl .
 }
 
@@ -6397,7 +6398,7 @@ vocab:\?tema\=2634
 id:57415cdf-bec3-453c-a4ff-865f04fa3858
 	skos:prefLabel "STUDIEFINANCIERING"@nl .
 
-vocab:\?tema\=2521
+cbsid:2521
 	skos:prefLabel "studiefinanciering"@nl .
 }
 
@@ -6408,7 +6409,7 @@ vocab:\?tema\=2521
 id:57ee4ccc-d457-4b06-9f56-2c4f85772525
 	skos:prefLabel "DANS"@nl .
 
-vocab:\?tema\=1103
+cbsid:1103
 	skos:prefLabel "dans"@nl .
 }
 
@@ -6419,7 +6420,7 @@ vocab:\?tema\=1103
 id:5804b1d9-844e-4af3-bc45-2e0e34e8e5f0
 	skos:prefLabel "DOODSOORZAKEN"@nl .
 
-vocab:\?tema\=853
+cbsid:853
 	skos:prefLabel "doodsoorzaken"@nl .
 }
 
@@ -6430,7 +6431,7 @@ vocab:\?tema\=853
 id:58879a9f-cdc0-4ab0-8080-5915c74d9793
 	skos:prefLabel "NATIONAAL INKOMEN"@nl .
 
-vocab:\?tema\=2206
+cbsid:2206
 	skos:prefLabel "nationaal inkomen"@nl .
 }
 
@@ -6441,7 +6442,7 @@ vocab:\?tema\=2206
 id:59a5894a-c0ae-4943-be51-fe4f870fb126
 	skos:prefLabel "FINANCIËLE MARKTEN"@nl .
 
-vocab:\?tema\=2183
+cbsid:2183
 	skos:prefLabel "financiële markten"@nl .
 }
 
@@ -6452,7 +6453,7 @@ vocab:\?tema\=2183
 id:59a933e8-4949-4f67-bdcf-47309a217d83
 	skos:prefLabel "AFGESTUDEERDEN"@nl .
 
-vocab:\?tema\=2480
+cbsid:2480
 	skos:prefLabel "afgestudeerden"@nl .
 }
 
@@ -6463,7 +6464,7 @@ vocab:\?tema\=2480
 id:5a549b7e-b9f6-4779-ad31-44a7b63ce2d1
 	skos:prefLabel "SOCIALE ONGELIJKHEID"@nl .
 
-vocab:\?tema\=1825
+cbsid:1825
 	skos:prefLabel "sociale ongelijkheid"@nl .
 }
 
@@ -6474,7 +6475,7 @@ vocab:\?tema\=1825
 id:5a5ed6c9-9d0c-490d-96c3-4fbb83376534
 	skos:prefLabel "OPENBARE BIBLIOTHEKEN"@nl .
 
-vocab:\?tema\=1074
+cbsid:1074
 	skos:prefLabel "openbare bibliotheken"@nl .
 }
 
@@ -6485,7 +6486,7 @@ vocab:\?tema\=1074
 id:5dca9d00-26d0-4171-b9a2-eb414a4b0cbd
 	skos:prefLabel "AMBTENAREN"@nl .
 
-vocab:\?tema\=4152
+cbsid:4152
 	skos:prefLabel "ambtenaren"@nl .
 }
 
@@ -6496,7 +6497,7 @@ vocab:\?tema\=4152
 id:5deabad3-7724-4657-a431-fb7a577ce40b
 	skos:prefLabel "LONGONTSTEKING"@nl .
 
-vocab:\?tema\=1412
+cbsid:1412
 	skos:prefLabel "longontsteking"@nl .
 }
 
@@ -6507,7 +6508,7 @@ vocab:\?tema\=1412
 id:5e3bf2e1-2a52-4345-9cb5-7638a1120a0f
 	skos:prefLabel "BRANDWEER"@nl .
 
-vocab:\?tema\=3411
+cbsid:3411
 	skos:prefLabel "brandweer"@nl .
 }
 
@@ -6518,7 +6519,7 @@ vocab:\?tema\=3411
 id:5e868e71-e887-4487-b79e-11cda0b34eff
 	skos:prefLabel "EMIGRATIE"@nl .
 
-vocab:\?tema\=784
+cbsid:784
 	skos:prefLabel "emigratie"@nl .
 }
 
@@ -6529,7 +6530,7 @@ vocab:\?tema\=784
 id:5ec00f13-659d-4a07-9f79-c852e92a9261
 	skos:prefLabel "LUCHTHAVENS"@nl .
 
-vocab:\?tema\=3731
+cbsid:3731
 	skos:prefLabel "luchthavens"@nl .
 }
 
@@ -6540,7 +6541,7 @@ vocab:\?tema\=3731
 id:5ef92df1-78c4-4e28-9779-8d5ddc7b4d12
 	skos:prefLabel "WATERKRACHT"@nl .
 
-vocab:\?tema\=1690
+cbsid:1690
 	skos:prefLabel "waterkracht"@nl .
 }
 
@@ -6551,7 +6552,7 @@ vocab:\?tema\=1690
 id:6015ba2a-c3d6-44e5-929a-b6fd89226d12
 	skos:prefLabel "HUIDZIEKTEN"@nl .
 
-vocab:\?tema\=4302
+cbsid:4302
 	skos:prefLabel "huidziekten"@nl .
 }
 
@@ -6562,7 +6563,7 @@ vocab:\?tema\=4302
 id:60691b31-15c7-4dc2-bfb2-2bc4e57400cb
 	skos:prefLabel "CAFÉS"@nl .
 
-vocab:\?tema\=540
+cbsid:540
 	skos:prefLabel "cafés"@nl .
 }
 
@@ -6573,7 +6574,7 @@ vocab:\?tema\=540
 id:614371c5-e275-48e5-8b8e-356e10d33859
 	skos:prefLabel "ZELFSTANDIGEN"@nl .
 
-vocab:\?tema\=90
+cbsid:90
 	skos:prefLabel "zelfstandigen"@nl .
 }
 
@@ -6584,7 +6585,7 @@ vocab:\?tema\=90
 id:61c70581-9ff5-4e6c-b559-3c0fcf9739bf
 	skos:prefLabel "ENERGIEPRIJZEN"@nl .
 
-vocab:\?tema\=2925
+cbsid:2925
 	skos:prefLabel "energieprijzen"@nl .
 }
 
@@ -6595,7 +6596,7 @@ vocab:\?tema\=2925
 id:6265aafe-f68b-4bc1-a225-5f7f8f47420f
 	skos:prefLabel "TELEVISIE"@nl .
 
-vocab:\?tema\=4337
+cbsid:4337
 	skos:prefLabel "televisie"@nl .
 }
 
@@ -6606,7 +6607,7 @@ vocab:\?tema\=4337
 id:64015128-8f31-44cf-b7bf-e8a2333a9803
 	skos:prefLabel "VAKBONDEN"@nl .
 
-vocab:\?tema\=15
+cbsid:15
 	skos:prefLabel "vakbonden"@nl .
 }
 
@@ -6617,7 +6618,7 @@ vocab:\?tema\=15
 id:645aff27-ddb1-4a6f-8884-b039e60d6fc6
 	skos:prefLabel "ORGAANDONATIE"@nl .
 
-vocab:\?tema\=1367
+cbsid:1367
 	skos:prefLabel "orgaandonatie"@nl .
 }
 
@@ -6628,7 +6629,7 @@ vocab:\?tema\=1367
 id:64c7a52f-a521-4e95-9022-ad3ed91807ff
 	skos:prefLabel "ONDERWIJSINSTELLINGEN"@nl .
 
-vocab:\?tema\=2526
+cbsid:2526
 	skos:prefLabel "onderwijsinstellingen"@nl .
 }
 
@@ -6639,7 +6640,7 @@ vocab:\?tema\=2526
 id:65c58459-14cb-430d-aa5e-8bd61b75bd53
 	skos:prefLabel "PERSONEEL"@nl .
 
-vocab:\?tema\=441
+cbsid:441
 	skos:prefLabel "personeel"@nl .
 }
 
@@ -6650,7 +6651,7 @@ vocab:\?tema\=441
 id:661b31f0-6f2e-49a1-beca-4dde87fd57b9
 	skos:prefLabel "UITLEVERING"@nl .
 
-vocab:\?tema\=3379
+cbsid:3379
 	skos:prefLabel "uitlevering"@nl .
 }
 
@@ -6661,7 +6662,7 @@ vocab:\?tema\=3379
 id:668d073a-2a89-450d-9559-8d7a75c5b64f
 	skos:prefLabel "VLIEGTUIGEN"@nl .
 
-vocab:\?tema\=3640
+cbsid:3640
 	skos:prefLabel "vliegtuigen"@nl .
 }
 
@@ -6672,7 +6673,7 @@ vocab:\?tema\=3640
 id:680eb21e-edb7-4fe6-9957-3d99dd216cc7
 	skos:prefLabel "ENERGIETRANSITIE"@nl .
 
-vocab:\?tema\=1643
+cbsid:1643
 	skos:prefLabel "energietransitie"@nl .
 }
 
@@ -6683,7 +6684,7 @@ vocab:\?tema\=1643
 id:68f6c40b-12c1-471a-9104-386c3d44c1dc
 	skos:prefLabel "OBLIGATIES"@nl .
 
-vocab:\?tema\=472
+cbsid:472
 	skos:prefLabel "obligaties"@nl .
 }
 
@@ -6694,7 +6695,7 @@ vocab:\?tema\=472
 id:69ab1ccd-0f9f-42de-9db7-d512f82f93d3
 	skos:prefLabel "RADIO"@nl .
 
-vocab:\?tema\=4336
+cbsid:4336
 	skos:prefLabel "radio"@nl .
 }
 
@@ -6705,7 +6706,7 @@ vocab:\?tema\=4336
 id:69d189c5-6375-45fe-9d72-43bd07bbea13
 	skos:prefLabel "SCHOOLJAAR"@nl .
 
-vocab:\?tema\=2700
+cbsid:2700
 	skos:prefLabel "schooljaar"@nl .
 }
 
@@ -6716,7 +6717,7 @@ vocab:\?tema\=2700
 id:69d605d4-1a74-4921-90ee-7de858f635a1
 	skos:prefLabel "BIODIVERSITEIT"@nl .
 
-vocab:\?tema\=2401
+cbsid:2401
 	skos:prefLabel "biodiversiteit"@nl .
 }
 
@@ -6727,7 +6728,7 @@ vocab:\?tema\=2401
 id:6b5a54e6-3729-4868-95b2-cc980831d252
 	skos:prefLabel "STRAFRECHT"@nl .
 
-vocab:\?tema\=3273
+cbsid:3273
 	skos:prefLabel "strafrecht"@nl .
 }
 
@@ -6738,7 +6739,7 @@ vocab:\?tema\=3273
 id:6ba88846-1026-411d-a460-cdbb6070824b
 	skos:prefLabel "BIOTECHNOLOGIE"@nl .
 
-vocab:\?tema\=3762
+cbsid:3762
 	skos:prefLabel "biotechnologie"@nl .
 }
 
@@ -6749,7 +6750,7 @@ vocab:\?tema\=3762
 id:6c54d388-e5b5-4c2b-bd4e-9f9872e4b602
 	skos:prefLabel "ZWEMBADEN"@nl .
 
-vocab:\?tema\=1191
+cbsid:1191
 	skos:prefLabel "zwembaden"@nl .
 }
 
@@ -6760,7 +6761,7 @@ vocab:\?tema\=1191
 id:6cf5a38e-d0cc-4b06-9917-659c66adadf1
 	skos:prefLabel "RELIGIE"@nl .
 
-vocab:\?tema\=751
+cbsid:751
 	skos:prefLabel "religie"@nl .
 }
 
@@ -6771,7 +6772,7 @@ vocab:\?tema\=751
 id:6d652043-f751-4966-8ec7-9194ea072a40
 	skos:prefLabel "APOTHEKEN"@nl .
 
-vocab:\?tema\=1559
+cbsid:1559
 	skos:prefLabel "apotheken"@nl .
 }
 
@@ -6782,7 +6783,7 @@ vocab:\?tema\=1559
 id:6dcfac8b-d4fc-4c0e-8c74-1f16b8ec3df4
 	skos:prefLabel "BUITENLANDSE WERKNEMERS"@nl .
 
-vocab:\?tema\=49
+cbsid:49
 	skos:prefLabel "buitenlandse werknemers"@nl .
 }
 
@@ -6793,7 +6794,7 @@ vocab:\?tema\=49
 id:6e203c3b-5e54-407c-8bd3-b7ab941e755a
 	skos:prefLabel "STEENKOOL"@nl .
 
-vocab:\?tema\=1660
+cbsid:1660
 	skos:prefLabel "steenkool"@nl .
 }
 
@@ -6804,7 +6805,7 @@ vocab:\?tema\=1660
 id:6efbd6c8-09b6-4110-8814-cc94aea0caf8
 	skos:prefLabel "LOTERIJEN"@nl .
 
-vocab:\?tema\=1155
+cbsid:1155
 	skos:prefLabel "loterijen"@nl .
 }
 
@@ -6815,7 +6816,7 @@ vocab:\?tema\=1155
 id:6f007060-750b-4359-899c-dbd3a0d0cd99
 	skos:prefLabel "OUDERENZORG"@nl .
 
-vocab:\?tema\=1476
+cbsid:1476
 	skos:prefLabel "ouderenzorg"@nl .
 }
 
@@ -6826,7 +6827,7 @@ vocab:\?tema\=1476
 id:6f66120a-7896-4891-b562-e00db6e1da5d
 	skos:prefLabel "INKOMSTENBELASTING"@nl .
 
-vocab:\?tema\=1881
+cbsid:1881
 	skos:prefLabel "inkomstenbelasting"@nl .
 }
 
@@ -6837,7 +6838,7 @@ vocab:\?tema\=1881
 id:6f6941b4-e2bd-4ce5-b82c-75ff2e2f04f9
 	skos:prefLabel "BASISONDERWIJS"@nl .
 
-vocab:\?tema\=2593
+cbsid:2593
 	skos:prefLabel "basisonderwijs"@nl .
 }
 
@@ -6848,7 +6849,7 @@ vocab:\?tema\=2593
 id:71cf8e6b-f2f3-4e9a-8261-b97a4af15d1b
 	skos:prefLabel "BORSTVOEDING"@nl .
 
-vocab:\?tema\=1337
+cbsid:1337
 	skos:prefLabel "borstvoeding"@nl .
 }
 
@@ -6859,7 +6860,7 @@ vocab:\?tema\=1337
 id:73e8d66e-b5af-4e89-80e0-f22209321976
 	skos:prefLabel "MINIMUMLONEN"@nl .
 
-vocab:\?tema\=175
+cbsid:175
 	skos:prefLabel "minimumlonen"@nl .
 }
 
@@ -6870,7 +6871,7 @@ vocab:\?tema\=175
 id:74995900-ee52-4ad6-9a47-3306ad7cac63
 	skos:prefLabel "KANTINES"@nl .
 
-vocab:\?tema\=5059
+cbsid:5059
 	skos:prefLabel "kantines"@nl .
 }
 
@@ -6881,7 +6882,7 @@ vocab:\?tema\=5059
 id:751dcc93-d475-4126-b2f5-510d748a06e6
 	skos:prefLabel "SCHAATSEN"@nl .
 
-vocab:\?tema\=1166
+cbsid:1166
 	skos:prefLabel "schaatsen"@nl .
 }
 
@@ -6892,7 +6893,7 @@ vocab:\?tema\=1166
 id:769d710e-e68b-4496-90a8-4fa2d4c27d79
 	skos:prefLabel "INBRAAK"@nl .
 
-vocab:\?tema\=3362
+cbsid:3362
 	skos:prefLabel "inbraak"@nl .
 }
 
@@ -6903,7 +6904,7 @@ vocab:\?tema\=3362
 id:7710d45d-9591-4513-a140-ffdb28e2254d
 	skos:prefLabel "HULPDIENSTEN"@nl .
 
-vocab:\?tema\=3408
+cbsid:3408
 	skos:prefLabel "hulpdiensten"@nl .
 }
 
@@ -6914,7 +6915,7 @@ vocab:\?tema\=3408
 id:77d7d145-5bd6-4aee-bf40-a69438cce58e
 	skos:prefLabel "LITERATUUR"@nl .
 
-vocab:\?tema\=1128
+cbsid:1128
 	skos:prefLabel "literatuur"@nl .
 }
 
@@ -6925,7 +6926,7 @@ vocab:\?tema\=1128
 id:794a5e8e-5d59-4662-86e4-622d30479b60
 	skos:prefLabel "VEESTAPEL"@nl .
 
-vocab:\?tema\=2086
+cbsid:2086
 	skos:prefLabel "veestapel"@nl .
 }
 
@@ -6936,7 +6937,7 @@ vocab:\?tema\=2086
 id:7a6eeee2-53ae-4c00-989d-821074ba9e27
 	skos:prefLabel "WERKENDE MOEDERS"@nl .
 
-vocab:\?tema\=89
+cbsid:89
 	skos:prefLabel "werkende moeders"@nl .
 }
 
@@ -6947,7 +6948,7 @@ vocab:\?tema\=89
 id:7a9d1086-91ba-49c4-9cfc-f05a10a781df
 	skos:prefLabel "KIESDISTRICTEN"@nl .
 
-vocab:\?tema\=4739
+cbsid:4739
 	skos:prefLabel "kiesdistricten"@nl .
 }
 
@@ -6958,7 +6959,7 @@ vocab:\?tema\=4739
 id:7ae97171-e0d9-4bbe-bc1b-f4a388788ad2
 	skos:prefLabel "SOCIALE NETWERKEN"@nl .
 
-vocab:\?tema\=1230
+cbsid:1230
 	skos:prefLabel "sociale netwerken"@nl .
 }
 
@@ -6969,7 +6970,7 @@ vocab:\?tema\=1230
 id:7b390ac4-bdcb-45a9-8c21-3fbf4c765111
 	skos:prefLabel "CULTUUR"@nl .
 
-vocab:\?tema\=1056
+cbsid:1056
 	skos:prefLabel "cultuur"@nl .
 }
 
@@ -6980,7 +6981,7 @@ vocab:\?tema\=1056
 id:7b39e5f4-5a43-4e1b-a630-0bdd1e249234
 	skos:prefLabel "PARTICULIERE SCHOLEN"@nl .
 
-vocab:\?tema\=4766
+cbsid:4766
 	skos:prefLabel "particuliere scholen"@nl .
 }
 
@@ -6991,7 +6992,7 @@ vocab:\?tema\=4766
 id:7b49c54b-a9fd-4300-b637-0dd59d62d022
 	skos:prefLabel "MOEDERSTERFTE"@nl .
 
-vocab:\?tema\=883
+cbsid:883
 	skos:prefLabel "moedersterfte"@nl .
 }
 
@@ -7002,7 +7003,7 @@ vocab:\?tema\=883
 id:7b97948d-8304-4e9a-86c8-6bc9445e5ccf
 	skos:prefLabel "ARBEIDSPRODUCTIVITEIT"@nl .
 
-vocab:\?tema\=482
+cbsid:482
 	skos:prefLabel "arbeidsproductiviteit"@nl .
 }
 
@@ -7013,7 +7014,7 @@ vocab:\?tema\=482
 id:7c7eb4bb-0113-4754-9834-4dabc5f2dfab
 	skos:prefLabel "SEIZOENEN"@nl .
 
-vocab:\?tema\=4586
+cbsid:4586
 	skos:prefLabel "seizoenen"@nl .
 }
 
@@ -7024,7 +7025,7 @@ vocab:\?tema\=4586
 id:7cad3334-7b03-4883-845f-4e67b2b86646
 	skos:prefLabel "ZONNE-ENERGIE"@nl .
 
-vocab:\?tema\=1695
+cbsid:1695
 	skos:prefLabel "zonne-energie"@nl .
 }
 
@@ -7035,7 +7036,7 @@ vocab:\?tema\=1695
 id:7cc2e451-3dfb-48db-8c40-3913f37c3620
 	skos:prefLabel "LANDBOUWBELEID"@nl .
 
-vocab:\?tema\=2057
+cbsid:2057
 	skos:prefLabel "landbouwbeleid"@nl .
 }
 
@@ -7046,7 +7047,7 @@ vocab:\?tema\=2057
 id:7ced7f1e-e766-4559-93fc-cfa0d9e37629
 	skos:prefLabel "BASISSCHOLEN"@nl .
 
-vocab:\?tema\=2530
+cbsid:2530
 	skos:prefLabel "basisscholen"@nl .
 }
 
@@ -7057,7 +7058,7 @@ vocab:\?tema\=2530
 id:7e8e7c56-c1e1-4837-8b8b-8a36f97286b4
 	skos:prefLabel "REUMATISCHE AANDOENINGEN"@nl .
 
-vocab:\?tema\=1395
+cbsid:1395
 	skos:prefLabel "reumatische aandoeningen"@nl .
 }
 
@@ -7068,7 +7069,7 @@ vocab:\?tema\=1395
 id:7ed93828-d374-4dd3-b3ab-8f5dcdc7623a
 	skos:prefLabel "DOODSTRAF"@nl .
 
-vocab:\?tema\=4224
+cbsid:4224
 	skos:prefLabel "doodstraf"@nl .
 }
 
@@ -7079,7 +7080,7 @@ vocab:\?tema\=4224
 id:81bcd0a4-9517-4b29-b237-3c860d0db7de
 	skos:prefLabel "ARBEIDSONGEVALLEN"@nl .
 
-vocab:\?tema\=117
+cbsid:117
 	skos:prefLabel "arbeidsongevallen"@nl .
 }
 
@@ -7090,7 +7091,7 @@ vocab:\?tema\=117
 id:828c7854-b213-4590-a892-799779dc3416
 	skos:prefLabel "HAVENS"@nl .
 
-vocab:\?tema\=3721
+cbsid:3721
 	skos:prefLabel "havens"@nl .
 }
 
@@ -7101,7 +7102,7 @@ vocab:\?tema\=3721
 id:8326e504-3d38-4ae8-931e-f1ff481f25d9
 	skos:prefLabel "THEATERS"@nl .
 
-vocab:\?tema\=1084
+cbsid:1084
 	skos:prefLabel "theaters"@nl .
 }
 
@@ -7112,7 +7113,7 @@ vocab:\?tema\=1084
 id:842d1098-3f00-4ada-ad3d-447b2108fce2
 	skos:prefLabel "VLUCHTELINGEN"@nl .
 
-vocab:\?tema\=783
+cbsid:783
 	skos:prefLabel "vluchtelingen"@nl .
 }
 
@@ -7123,7 +7124,7 @@ vocab:\?tema\=783
 id:85da29cc-4be8-4a49-99e0-295a10345e23
 	skos:prefLabel "WERKGEVERS"@nl .
 
-vocab:\?tema\=5001
+cbsid:5001
 	skos:prefLabel "werkgevers"@nl .
 }
 
@@ -7134,7 +7135,7 @@ vocab:\?tema\=5001
 id:863e24ba-e4d9-432a-8cb8-2c140f1cb16a
 	skos:prefLabel "LANDBOUWPRODUCTEN"@nl .
 
-vocab:\?tema\=4813
+cbsid:4813
 	skos:prefLabel "landbouwproducten"@nl .
 }
 
@@ -7145,7 +7146,7 @@ vocab:\?tema\=4813
 id:8655e5d6-2f83-4c7e-b304-1158e39869a7
 	skos:prefLabel "TEVREDENHEID"@nl .
 
-vocab:\?tema\=1427
+cbsid:1427
 	skos:prefLabel "tevredenheid"@nl .
 }
 
@@ -7156,7 +7157,7 @@ vocab:\?tema\=1427
 id:87cb170b-4146-4d4a-ba38-81e9942aecc7
 	skos:prefLabel "INTERNATIONALE HANDEL"@nl .
 
-vocab:\?tema\=1949
+cbsid:1949
 	skos:prefLabel "internationale handel"@nl .
 }
 
@@ -7167,7 +7168,7 @@ vocab:\?tema\=1949
 id:88353622-c99c-4c1f-b74e-9167ff5528a7
 	skos:prefLabel "ZIEKTEN"@nl .
 
-vocab:\?tema\=1378
+cbsid:1378
 	skos:prefLabel "ziekten"@nl .
 }
 
@@ -7178,7 +7179,7 @@ vocab:\?tema\=1378
 id:88700dad-fbed-4c6a-9bc9-8b3280cb0310
 	skos:prefLabel "AARDOLIEPRODUCTEN"@nl .
 
-vocab:\?tema\=8523
+cbsid:8523
 	skos:prefLabel "aardolieproducten"@nl .
 }
 
@@ -7189,7 +7190,7 @@ vocab:\?tema\=8523
 id:89f80731-2537-45dd-8e0a-332aedceee9c
 	skos:prefLabel "BEDRIJVEN"@nl .
 
-vocab:\?tema\=374
+cbsid:374
 	skos:prefLabel "bedrijven"@nl .
 }
 
@@ -7200,7 +7201,7 @@ vocab:\?tema\=374
 id:8a1205b5-f75f-40bb-8c50-1d6f5fe905af
 	skos:prefLabel "HUISELIJK GEWELD"@nl .
 
-vocab:\?tema\=1533
+cbsid:1533
 	skos:prefLabel "huiselijk geweld"@nl .
 }
 
@@ -7211,7 +7212,7 @@ vocab:\?tema\=1533
 id:8a80f878-851c-4f47-a451-a8fe75b81aad
 	skos:prefLabel "HUISHOUDENS"@nl .
 
-vocab:\?tema\=650
+cbsid:650
 	skos:prefLabel "huishoudens"@nl .
 }
 
@@ -7222,7 +7223,7 @@ vocab:\?tema\=650
 id:8ceb646e-d9f9-48d4-954b-53c04ab3c78f
 	skos:prefLabel "GEBOORTEGEWICHT"@nl .
 
-vocab:\?tema\=625
+cbsid:625
 	skos:prefLabel "geboortegewicht"@nl .
 }
 
@@ -7233,7 +7234,7 @@ vocab:\?tema\=625
 id:8d4c7d28-fb30-48a5-8ffc-63d2c154e17c
 	skos:prefLabel "SCHEIDiNGSRECHT"@nl .
 
-vocab:\?tema\=4809
+cbsid:4809
 	skos:prefLabel "scheidingsrecht"@nl .
 }
 
@@ -7244,7 +7245,7 @@ vocab:\?tema\=4809
 id:8d7101be-eb1c-4028-b122-d69c240280e8
 	skos:prefLabel "HANDEL"@nl .
 
-vocab:\?tema\=526
+cbsid:526
 	skos:prefLabel "handel"@nl .
 }
 
@@ -7255,7 +7256,7 @@ vocab:\?tema\=526
 id:9066341c-d3d8-4ed4-ad78-69c77e5945da
 	skos:prefLabel "GROOTHANDEL"@nl .
 
-vocab:\?tema\=538
+cbsid:538
 	skos:prefLabel "groothandel"@nl .
 }
 
@@ -7266,7 +7267,7 @@ vocab:\?tema\=538
 id:9110f672-af58-4bac-9986-0fafaa2c8d90
 	skos:prefLabel "WEGVERKEER"@nl .
 
-vocab:\?tema\=3520
+cbsid:3520
 	skos:prefLabel "wegverkeer"@nl .
 }
 
@@ -7277,7 +7278,7 @@ vocab:\?tema\=3520
 id:9122d2b0-e46c-402d-8d0d-85d3f84191e7
 	skos:prefLabel "INSTANT MESSAGING"@nl .
 
-vocab:\?tema\=4411
+cbsid:4411
 	skos:prefLabel "instant messaging"@nl .
 }
 
@@ -7288,7 +7289,7 @@ vocab:\?tema\=4411
 id:9159a8f9-b6de-4a5f-891a-cb4a97b9ec71
 	skos:prefLabel "STUDENTEN"@nl .
 
-vocab:\?tema\=2570
+cbsid:2570
 	skos:prefLabel "studenten"@nl .
 }
 
@@ -7299,7 +7300,7 @@ vocab:\?tema\=2570
 id:91c1b36f-85ff-4345-9678-86a4950fe57a
 	skos:prefLabel "GEZONDHEID"@nl .
 
-vocab:\?tema\=1315
+cbsid:1315
 	skos:prefLabel "gezondheid"@nl .
 }
 
@@ -7310,7 +7311,7 @@ vocab:\?tema\=1315
 id:922502a1-a2c0-42bb-8cbc-a0160dd5dfa6
 	skos:prefLabel "ZEEVAART"@nl .
 
-vocab:\?tema\=3613
+cbsid:3613
 	skos:prefLabel "zeevaart"@nl .
 }
 
@@ -7321,7 +7322,7 @@ vocab:\?tema\=3613
 id:92b0f05d-3f8d-4789-a3c0-0306dddce08d
 	skos:prefLabel "INTERNATIONAAL RECHT"@nl .
 
-vocab:\?tema\=3271
+cbsid:3271
 	skos:prefLabel "internationaal recht"@nl .
 }
 
@@ -7332,7 +7333,7 @@ vocab:\?tema\=3271
 id:930def21-62a3-4de2-8f5c-daea496c9b22
 	skos:prefLabel "GESCHEIDEN"@nl .
 
-vocab:\?tema\=814
+cbsid:814
 	skos:prefLabel "gescheiden"@nl .
 }
 
@@ -7343,7 +7344,7 @@ vocab:\?tema\=814
 id:939eb487-2b48-41dc-a132-e0218969d653
 	skos:prefLabel "LIQUIDITEIT"@nl .
 
-vocab:\?tema\=8516
+cbsid:8516
 	skos:prefLabel "liquiditeit"@nl .
 }
 
@@ -7354,7 +7355,7 @@ vocab:\?tema\=8516
 id:95e906b7-b3a0-48f2-b6c8-5a236b7a4e73
 	skos:prefLabel "MOTORFIETSEN"@nl .
 
-vocab:\?tema\=3694
+cbsid:3694
 	skos:prefLabel "motorfietsen"@nl .
 }
 
@@ -7365,7 +7366,7 @@ vocab:\?tema\=3694
 id:97841e21-83f1-49d1-9818-04959e78f5e3
 	skos:prefLabel "DIENSTPLICHT"@nl .
 
-vocab:\?tema\=4654
+cbsid:4654
 	skos:prefLabel "dienstplicht"@nl .
 }
 
@@ -7376,7 +7377,7 @@ vocab:\?tema\=4654
 id:97948a5b-2cb8-48e3-9898-211145b210d1
 	skos:prefLabel "PLATTELANDSONTWIKKELING"@nl .
 
-vocab:\?tema\=2071
+cbsid:2071
 	skos:prefLabel "plattelandsontwikkeling"@nl .
 }
 
@@ -7387,7 +7388,7 @@ vocab:\?tema\=2071
 id:983bf0e2-9b8e-45db-ac35-18e90ede73a4
 	skos:prefLabel "TENTOONSTELLINGEN"@nl .
 
-vocab:\?tema\=1143
+cbsid:1143
 	skos:prefLabel "tentoonstellingen"@nl .
 }
 
@@ -7398,7 +7399,7 @@ vocab:\?tema\=1143
 id:99f97752-b483-4723-9f6d-ec6235e813e0
 	skos:prefLabel "ARBEIDSVOORWAARDEN"@nl .
 
-vocab:\?tema\=39
+cbsid:39
 	skos:prefLabel "arbeidsvoorwaarden"@nl .
 }
 
@@ -7409,7 +7410,7 @@ vocab:\?tema\=39
 id:9a6dfe11-88fc-4640-bdd6-842e39265d39
 	skos:prefLabel "EXPATS"@nl .
 
-vocab:\?tema\=773
+cbsid:773
 	skos:prefLabel "expats"@nl .
 }
 
@@ -7420,7 +7421,7 @@ vocab:\?tema\=773
 id:9b4284c9-72b8-421f-9f84-818a0bc50ad9
 	skos:prefLabel "REIZEN"@nl .
 
-vocab:\?tema\=3586
+cbsid:3586
 	skos:prefLabel "reizen"@nl .
 }
 
@@ -7431,7 +7432,7 @@ vocab:\?tema\=3586
 id:9c6a01c1-2fe1-43e4-adcb-8ae90c50d0c2
 	skos:prefLabel "ARBEIDSOMSTANDIGHEDEN"@nl .
 
-vocab:\?tema\=106
+cbsid:106
 	skos:prefLabel "arbeidsomstandigheden"@nl .
 }
 
@@ -7442,7 +7443,7 @@ vocab:\?tema\=106
 id:9d0dc1cc-172b-4961-ab06-032daea17285
 	skos:prefLabel "CONSUMENTEN"@nl .
 
-vocab:\?tema\=1826
+cbsid:1826
 	skos:prefLabel "consumenten"@nl .
 }
 
@@ -7453,7 +7454,7 @@ vocab:\?tema\=1826
 id:9eca9c03-c900-44d9-806f-3acec00f8fc2
 	skos:prefLabel "KINDEREN"@nl .
 
-vocab:\?tema\=724
+cbsid:724
 	skos:prefLabel "kinderen"@nl .
 }
 
@@ -7464,7 +7465,7 @@ vocab:\?tema\=724
 id:9ff94892-861e-4a67-8e6a-53247ef0a0fe
 	skos:prefLabel "DIABETES"@nl .
 
-vocab:\?tema\=1390
+cbsid:1390
 	skos:prefLabel "diabetes"@nl .
 }
 
@@ -7475,7 +7476,7 @@ vocab:\?tema\=1390
 id:9ff97a0f-31be-4f72-b959-d962c2a695a4
 	skos:prefLabel "WATERVERONTREINIGING"@nl .
 
-vocab:\?tema\=2388
+cbsid:2388
 	skos:prefLabel "waterverontreiniging"@nl .
 }
 
@@ -7486,7 +7487,7 @@ vocab:\?tema\=2388
 id:a0de2383-d76d-4585-9bd9-c16a4b5ce0ff
 	skos:prefLabel "PESTICIDEN"@nl .
 
-vocab:\?tema\=2109
+cbsid:2109
 	skos:prefLabel "pesticiden"@nl .
 }
 
@@ -7497,7 +7498,7 @@ vocab:\?tema\=2109
 id:a373ad2a-82e6-4d86-adf8-7e3261826e15
 	skos:prefLabel "BEROEPSONDERWIJS"@nl .
 
-vocab:\?tema\=2580
+cbsid:2580
 	skos:prefLabel "beroepsonderwijs"@nl .
 }
 
@@ -7508,7 +7509,7 @@ vocab:\?tema\=2580
 id:a5005764-b3f3-47fe-9c3f-3cb25a8a0431
 	skos:prefLabel "AMBULANCEDIENSTEN"@nl .
 
-vocab:\?tema\=3410
+cbsid:3410
 	skos:prefLabel "ambulancediensten"@nl .
 }
 
@@ -7519,7 +7520,7 @@ vocab:\?tema\=3410
 id:a5de5aff-4b1c-4f78-bd1d-7e20330342df
 	skos:prefLabel "BETALINGSBALANS"@nl .
 
-vocab:\?tema\=2209
+cbsid:2209
 	skos:prefLabel "betalingsbalans"@nl .
 }
 
@@ -7530,7 +7531,7 @@ vocab:\?tema\=2209
 id:a73741d5-0872-48bc-9e2f-5ecc8767d96d
 	skos:prefLabel "ISLAM"@nl .
 
-vocab:\?tema\=4240
+cbsid:4240
 	skos:prefLabel "islam"@nl .
 }
 
@@ -7541,7 +7542,7 @@ vocab:\?tema\=4240
 id:a74cd285-d1c6-4e55-8c0d-faf0fe94399f
 	skos:prefLabel "MILIEU"@nl .
 
-vocab:\?tema\=2242
+cbsid:2242
 	skos:prefLabel "milieu"@nl .
 }
 
@@ -7552,7 +7553,7 @@ vocab:\?tema\=2242
 id:a773ee42-9a96-4695-a379-fa8670f539c5
 	skos:prefLabel "MOEDERS"@nl .
 
-vocab:\?tema\=807
+cbsid:807
 	skos:prefLabel "moeders"@nl .
 }
 
@@ -7563,7 +7564,7 @@ vocab:\?tema\=807
 id:a7cefe39-75a4-4ce7-a608-253632400750
 	skos:prefLabel "INKOMENSBELEID"@nl .
 
-vocab:\?tema\=1899
+cbsid:1899
 	skos:prefLabel "inkomensbeleid"@nl .
 }
 
@@ -7574,7 +7575,7 @@ vocab:\?tema\=1899
 id:a8081962-d122-4db7-a7a3-d9b36587be31
 	skos:prefLabel "INDUSTRIËLE PRODUCTIE"@nl .
 
-vocab:\?tema\=1776
+cbsid:1776
 	skos:prefLabel "industriële productie"@nl .
 }
 
@@ -7585,7 +7586,7 @@ vocab:\?tema\=1776
 id:a81eaf28-ba91-4bb7-a44f-41bb5e73cd8f
 	skos:prefLabel "INTERNATIONALE ORGANISATIES"@nl .
 
-vocab:\?tema\=4670
+cbsid:4670
 	skos:prefLabel "internationale organisaties"@nl .
 }
 
@@ -7596,7 +7597,7 @@ vocab:\?tema\=4670
 id:a84f47bf-1be8-4380-bd6d-3c3d843714a6
 	skos:prefLabel "VERKIEZINGEN"@nl .
 
-vocab:\?tema\=2845
+cbsid:2845
 	skos:prefLabel "verkiezingen"@nl .
 }
 
@@ -7607,7 +7608,7 @@ vocab:\?tema\=2845
 id:aa0ddef6-51fa-4eee-bcb5-2b64c41a4818
 	skos:prefLabel "WERKGELEGENHEID"@nl .
 
-vocab:\?tema\=20
+cbsid:20
 	skos:prefLabel "werkgelegenheid"@nl .
 }
 
@@ -7618,7 +7619,7 @@ vocab:\?tema\=20
 id:ab82f3f1-f526-4e80-a699-e194459fbad3
 	skos:prefLabel "LEEFTIJDSGROEPEN"@nl .
 
-vocab:\?tema\=710
+cbsid:710
 	skos:prefLabel "leeftijdsgroepen"@nl .
 }
 
@@ -7629,7 +7630,7 @@ vocab:\?tema\=710
 id:aba40691-6f80-4b3c-ae9b-0eb4d1f56602
 	skos:prefLabel "OPENBAAR MINISTERIE"@nl .
 
-vocab:\?tema\=3200
+cbsid:3200
 	skos:prefLabel "Openbaar Ministerie"@nl .
 }
 
@@ -7640,7 +7641,7 @@ vocab:\?tema\=3200
 id:abcac2a6-67a3-46cc-8fb4-0d484020aade
 	skos:prefLabel "EUROPESE UNIE"@nl .
 
-vocab:\?tema\=2718
+cbsid:2718
 	skos:prefLabel "Europese Unie"@nl .
 }
 
@@ -7651,7 +7652,7 @@ vocab:\?tema\=2718
 id:b09257e4-b304-4368-bad0-bf5d47d2b952
 	skos:prefLabel "ONDERWIJSPOPULATIE"@nl .
 
-vocab:\?tema\=2541
+cbsid:2541
 	skos:prefLabel "onderwijspopulatie"@nl .
 }
 
@@ -7662,7 +7663,7 @@ vocab:\?tema\=2541
 id:b1053d77-e845-4882-8ee4-b5b444fb2b30
 	skos:prefLabel "DOODSLAG"@nl .
 
-vocab:\?tema\=3348
+cbsid:3348
 	skos:prefLabel "doodslag"@nl .
 }
 
@@ -7673,7 +7674,7 @@ vocab:\?tema\=3348
 id:b37cc12f-0019-4df4-a0cf-a85df1dcc8e0
 	skos:prefLabel "TOERISME"@nl .
 
-vocab:\?tema\=1235
+cbsid:1235
 	skos:prefLabel "toerisme"@nl .
 }
 
@@ -7684,7 +7685,7 @@ vocab:\?tema\=1235
 id:b39702c0-b51e-41f0-b868-1b9233bf7e5e
 	skos:prefLabel "CONSUMPTIEGOEDEREN"@nl .
 
-vocab:\?tema\=4613
+cbsid:4613
 	skos:prefLabel "consumptiegoederen"@nl .
 }
 
@@ -7695,7 +7696,7 @@ vocab:\?tema\=4613
 id:b3e69bd1-6b47-45a1-bfc2-4f91ca664b54
 	skos:prefLabel "LEERLINGEN"@nl .
 
-vocab:\?tema\=2546
+cbsid:2546
 	skos:prefLabel "leerlingen"@nl .
 }
 
@@ -7706,7 +7707,7 @@ vocab:\?tema\=2546
 id:b3fb51f0-f7c8-4a13-a15f-a9d3e4d75c77
 	skos:prefLabel "PUBLIEKE SECTOR"@nl .
 
-vocab:\?tema\=4294
+cbsid:4294
 	skos:prefLabel "publieke sector"@nl .
 }
 
@@ -7717,7 +7718,7 @@ vocab:\?tema\=4294
 id:b6ae478f-85d6-43c2-9d0d-05862c83d62c
 	skos:prefLabel "POSTORDERBEDRIJVEN"@nl .
 
-vocab:\?tema\=4309
+cbsid:4309
 	skos:prefLabel "postorderbedrijven"@nl .
 }
 
@@ -7728,7 +7729,7 @@ vocab:\?tema\=4309
 id:b6ecd144-cb0e-4db6-8660-b838098b6412
 	skos:prefLabel "EETGEWOONTEN"@nl .
 
-vocab:\?tema\=1338
+cbsid:1338
 	skos:prefLabel "eetgewoonten"@nl .
 }
 
@@ -7739,7 +7740,7 @@ vocab:\?tema\=1338
 id:b75621fc-56f7-4372-87e6-eb1c0813679f
 	skos:prefLabel "DRUGSGEBRUIK"@nl .
 
-vocab:\?tema\=1353
+cbsid:1353
 	skos:prefLabel "drugsgebruik"@nl .
 }
 
@@ -7750,7 +7751,7 @@ vocab:\?tema\=1353
 id:b7ddc071-e3cb-4b6e-86fb-8ebef2d5b099
 	skos:prefLabel "ALIMENTATIE"@nl .
 
-vocab:\?tema\=3258
+cbsid:3258
 	skos:prefLabel "alimentatie"@nl .
 }
 
@@ -7761,7 +7762,7 @@ vocab:\?tema\=3258
 id:ba3e1900-c8c4-4a8f-9440-a08f68c7f044
 	skos:prefLabel "BANKEN"@nl .
 
-vocab:\?tema\=517
+cbsid:517
 	skos:prefLabel "banken"@nl .
 }
 
@@ -7772,7 +7773,7 @@ vocab:\?tema\=517
 id:ba79040a-dc40-4d19-9280-0d8b790ad1b3
 	skos:prefLabel "TELECOMMUNICATIE"@nl .
 
-vocab:\?tema\=3801
+cbsid:3801
 	skos:prefLabel "telecommunicatie"@nl .
 }
 
@@ -7783,7 +7784,7 @@ vocab:\?tema\=3801
 id:ba8fc117-55ff-4646-9663-e32dbebc6d6d
 	skos:prefLabel "MANTELZORG"@nl .
 
-vocab:\?tema\=319
+cbsid:319
 	skos:prefLabel "mantelzorg"@nl .
 }
 
@@ -7794,7 +7795,7 @@ vocab:\?tema\=319
 id:bab872f6-7c62-41d3-bcaa-c092366b1cc6
 	skos:prefLabel "SEMINARS"@nl .
 
-vocab:\?tema\=4053
+cbsid:4053
 	skos:prefLabel "seminars"@nl .
 }
 
@@ -7805,7 +7806,7 @@ vocab:\?tema\=4053
 id:bb31f672-6ada-4adc-9a94-82ed3dbbcdab
 	skos:prefLabel "WINDENERGIE"@nl .
 
-vocab:\?tema\=1691
+cbsid:1691
 	skos:prefLabel "windenergie"@nl .
 }
 
@@ -7816,7 +7817,7 @@ vocab:\?tema\=1691
 id:bb3c3cfc-7f8c-4752-b313-e2612bdd45da
 	skos:prefLabel "BENZINE"@nl .
 
-vocab:\?tema\=1702
+cbsid:1702
 	skos:prefLabel "benzine"@nl .
 }
 
@@ -7827,7 +7828,7 @@ vocab:\?tema\=1702
 id:bb4d28a7-7855-4053-bda5-99e7c476e78b
 	skos:prefLabel "KINDERBESCHERMING"@nl .
 
-vocab:\?tema\=3150
+cbsid:3150
 	skos:prefLabel "kinderbescherming"@nl .
 }
 
@@ -7838,7 +7839,7 @@ vocab:\?tema\=3150
 id:bcc92d60-be42-4858-9376-03c83e4ba52e
 	skos:prefLabel "HOTELS"@nl .
 
-vocab:\?tema\=543
+cbsid:543
 	skos:prefLabel "hotels"@nl .
 }
 
@@ -7849,7 +7850,7 @@ vocab:\?tema\=543
 id:bcd41d96-7e0d-45dd-b2ae-5354a1672e23
 	skos:prefLabel "MOTORVOERTUIGEN"@nl .
 
-vocab:\?tema\=3671
+cbsid:3671
 	skos:prefLabel "motorvoertuigen"@nl .
 }
 
@@ -7860,7 +7861,7 @@ vocab:\?tema\=3671
 id:bcf72f65-2b5f-4f9e-a13a-03460aebd84a
 	skos:prefLabel "VERWEDUWD"@nl .
 
-vocab:\?tema\=816
+cbsid:816
 	skos:prefLabel "verweduwd"@nl .
 }
 
@@ -7871,7 +7872,7 @@ vocab:\?tema\=816
 id:bd5b9a6b-c499-4a31-bb03-42448825d1e5
 	skos:prefLabel "DEFENSIE"@nl .
 
-vocab:\?tema\=2892
+cbsid:2892
 	skos:prefLabel "defensie"@nl .
 }
 
@@ -7882,7 +7883,7 @@ vocab:\?tema\=2892
 id:be579bf5-0c2a-4002-ac92-5e1be62c6c7a
 	skos:prefLabel "PROSTITUTIE"@nl .
 
-vocab:\?tema\=4232
+cbsid:4232
 	skos:prefLabel "prostitutie"@nl .
 }
 
@@ -7893,7 +7894,7 @@ vocab:\?tema\=4232
 id:be8c0538-3bf4-423a-8189-56a12eed4462
 	skos:prefLabel "LONGKANKER"@nl .
 
-vocab:\?tema\=1409
+cbsid:1409
 	skos:prefLabel "longkanker"@nl .
 }
 
@@ -7904,7 +7905,7 @@ vocab:\?tema\=1409
 id:bee3f71f-4142-4c4d-82dc-fb999fd8fb6d
 	skos:prefLabel "INTERNETTOEGANG"@nl .
 
-vocab:\?tema\=3811
+cbsid:3811
 	skos:prefLabel "internettoegang"@nl .
 }
 
@@ -7915,7 +7916,7 @@ vocab:\?tema\=3811
 id:bf55a74c-1a23-4912-8234-90bcd18d5859
 	skos:prefLabel "STAKINGEN"@nl .
 
-vocab:\?tema\=12
+cbsid:12
 	skos:prefLabel "stakingen"@nl .
 }
 
@@ -7926,7 +7927,7 @@ vocab:\?tema\=12
 id:c069cf3f-eb4d-495c-8a50-9aa4d35a8eef
 	skos:prefLabel "TWEEDE KAMER"@nl .
 
-vocab:\?tema\=2871
+cbsid:2871
 	skos:prefLabel "Tweede Kamer"@nl .
 }
 
@@ -7937,7 +7938,7 @@ vocab:\?tema\=2871
 id:c08e0571-9fee-4e25-954a-d4198c9de868
 	skos:prefLabel "PASSAGIERS"@nl .
 
-vocab:\?tema\=3488
+cbsid:3488
 	skos:prefLabel "passagiers"@nl .
 }
 
@@ -7948,7 +7949,7 @@ vocab:\?tema\=3488
 id:c0a1971f-1459-43cf-81a5-12fc81d45b00
 	skos:prefLabel "ARBEIDSRECHT"@nl .
 
-vocab:\?tema\=8
+cbsid:8
 	skos:prefLabel "arbeidsrecht"@nl .
 }
 
@@ -7959,7 +7960,7 @@ vocab:\?tema\=8
 id:c10707b2-5abe-4d7f-a398-7b3330ef3774
 	skos:prefLabel "BOEREN"@nl .
 
-vocab:\?tema\=4352
+cbsid:4352
 	skos:prefLabel "boeren"@nl .
 }
 
@@ -7970,7 +7971,7 @@ vocab:\?tema\=4352
 id:c1561f24-0cc7-464c-82c9-e8d820060494
 	skos:prefLabel "POLITIEKE PARTIJEN"@nl .
 
-vocab:\?tema\=2843
+cbsid:2843
 	skos:prefLabel "politieke partijen"@nl .
 }
 
@@ -7981,7 +7982,7 @@ vocab:\?tema\=2843
 id:c1b6701f-2eac-47eb-98a7-445ef68d9431
 	skos:prefLabel "ARBEIDSMIGRATIE"@nl .
 
-vocab:\?tema\=772
+cbsid:772
 	skos:prefLabel "arbeidsmigratie"@nl .
 }
 
@@ -7992,7 +7993,7 @@ vocab:\?tema\=772
 id:c242cd31-fe9b-4995-b955-5da107c42a44
 	skos:prefLabel "FUSIES"@nl .
 
-vocab:\?tema\=448
+cbsid:448
 	skos:prefLabel "fusies"@nl .
 }
 
@@ -8003,7 +8004,7 @@ vocab:\?tema\=448
 id:c3c7f8b8-1a6b-4075-aee6-a2e436c14309
 	skos:prefLabel "KERNENERGIE"@nl .
 
-vocab:\?tema\=1700
+cbsid:1700
 	skos:prefLabel "kernenergie"@nl .
 }
 
@@ -8014,7 +8015,7 @@ vocab:\?tema\=1700
 id:c4e2ba1d-c5f8-45b4-b8e0-a5d7d2775dcd
 	skos:prefLabel "SPORT"@nl .
 
-vocab:\?tema\=1157
+cbsid:1157
 	skos:prefLabel "sport"@nl .
 }
 
@@ -8025,7 +8026,7 @@ vocab:\?tema\=1157
 id:c53f6421-9ec2-4b6a-84d8-7157066c068e
 	skos:prefLabel "GOKKEN"@nl .
 
-vocab:\?tema\=1339
+cbsid:1339
 	skos:prefLabel "gokken"@nl .
 }
 
@@ -8036,7 +8037,7 @@ vocab:\?tema\=1339
 id:c581d431-4c99-41be-9147-b32be5b0bfa4
 	skos:prefLabel "RIVIEREN"@nl .
 
-vocab:\?tema\=2274
+cbsid:2274
 	skos:prefLabel "rivieren"@nl .
 }
 
@@ -8047,7 +8048,7 @@ vocab:\?tema\=2274
 id:c5e10948-0e42-4060-b6f5-3e175757a622
 	skos:prefLabel "TIJDSBESTEDING"@nl .
 
-vocab:\?tema\=1220
+cbsid:1220
 	skos:prefLabel "tijdsbesteding"@nl .
 }
 
@@ -8058,7 +8059,7 @@ vocab:\?tema\=1220
 id:c7af8942-7ed9-458d-a437-376d3edfb867
 	skos:prefLabel "BUITENLANDS BELEID"@nl .
 
-vocab:\?tema\=2891
+cbsid:2891
 	skos:prefLabel "buitenlands beleid"@nl .
 }
 
@@ -8069,7 +8070,7 @@ vocab:\?tema\=2891
 id:c7c78ddd-3ca4-4b9d-8445-2a14bfa6205d
 	skos:prefLabel "VERKEERSOVERTREDINGEN"@nl .
 
-vocab:\?tema\=3377
+cbsid:3377
 	skos:prefLabel "verkeersovertredingen"@nl .
 }
 
@@ -8080,7 +8081,7 @@ vocab:\?tema\=3377
 id:cb4b2738-09f8-4e06-9e0b-71cff6df7791
 	skos:prefLabel "VRIJWILLIGERSWERK"@nl .
 
-vocab:\?tema\=1231
+cbsid:1231
 	skos:prefLabel "vrijwilligerswerk"@nl .
 }
 
@@ -8091,7 +8092,7 @@ vocab:\?tema\=1231
 id:cc03c59f-ff50-47d5-9fcc-cbd2ecd4088b
 	skos:prefLabel "ZAALSPORT"@nl .
 
-vocab:\?tema\=1161
+cbsid:1161
 	skos:prefLabel "zaalsport"@nl .
 }
 
@@ -8102,7 +8103,7 @@ vocab:\?tema\=1161
 id:ce7343fe-8c33-4cb4-9303-003ad2abab73
 	skos:prefLabel "BESPARINGEN"@nl .
 
-vocab:\?tema\=2195
+cbsid:2195
 	skos:prefLabel "besparingen"@nl .
 }
 
@@ -8113,7 +8114,7 @@ vocab:\?tema\=2195
 id:ceaf6b32-6df7-454d-9548-7b05a13c9216
 	skos:prefLabel "VERKEER"@nl .
 
-vocab:\?tema\=3454
+cbsid:3454
 	skos:prefLabel "verkeer"@nl .
 }
 
@@ -8124,7 +8125,7 @@ vocab:\?tema\=3454
 id:cf189005-9c46-4259-b887-e00c60d1ac78
 	skos:prefLabel "TURF"@nl .
 
-vocab:\?tema\=1670
+cbsid:1670
 	skos:prefLabel "turf"@nl .
 }
 
@@ -8135,7 +8136,7 @@ vocab:\?tema\=1670
 id:cf211371-c057-4878-a7fa-f526c57fe9f3
 	skos:prefLabel "HANDICAPS"@nl .
 
-vocab:\?tema\=1334
+cbsid:1334
 	skos:prefLabel "handicaps"@nl .
 }
 
@@ -8146,7 +8147,7 @@ vocab:\?tema\=1334
 id:cf7d9c00-73ad-46f2-baa5-a083e6bb3f35
 	skos:prefLabel "KLIMAATVERANDERING"@nl .
 
-vocab:\?tema\=2312
+cbsid:2312
 	skos:prefLabel "klimaatverandering"@nl .
 }
 
@@ -8157,7 +8158,7 @@ vocab:\?tema\=2312
 id:d0517be4-3862-4ee4-ac46-c2fef348c529
 	skos:prefLabel "LERARENSALARISSEN"@nl .
 
-vocab:\?tema\=2684
+cbsid:2684
 	skos:prefLabel "lerarensalarissen"@nl .
 }
 
@@ -8168,7 +8169,7 @@ vocab:\?tema\=2684
 id:d073ee94-f559-47c4-bae5-04d14af192dd
 	skos:prefLabel "JEUGDWERKLOOSHEID"@nl .
 
-vocab:\?tema\=103
+cbsid:103
 	skos:prefLabel "jeugdwerkloosheid"@nl .
 }
 
@@ -8179,7 +8180,7 @@ vocab:\?tema\=103
 id:d0983511-acac-4585-ae73-a5d3ae2b54c7
 	skos:prefLabel "GESLACHT"@nl .
 
-vocab:\?tema\=681
+cbsid:681
 	skos:prefLabel "geslacht"@nl .
 }
 
@@ -8190,7 +8191,7 @@ vocab:\?tema\=681
 id:d30d229d-5cd1-458d-99e9-16edc4ea753f
 	skos:prefLabel "ONDERWIJSUITGAVEN"@nl .
 
-vocab:\?tema\=2515
+cbsid:2515
 	skos:prefLabel "onderwijsuitgaven"@nl .
 }
 
@@ -8201,7 +8202,7 @@ vocab:\?tema\=2515
 id:d313b496-cbe4-4364-8c1c-4267974bb85d
 	skos:prefLabel "FRUIT"@nl .
 
-vocab:\?tema\=2946
+cbsid:2946
 	skos:prefLabel "fruit"@nl .
 }
 
@@ -8212,7 +8213,7 @@ vocab:\?tema\=2946
 id:d363d4ce-026d-4722-b9c2-45a19ad1d228
 	skos:prefLabel "DEMOCRATIE"@nl .
 
-vocab:\?tema\=2840
+cbsid:2840
 	skos:prefLabel "democratie"@nl .
 }
 
@@ -8223,7 +8224,7 @@ vocab:\?tema\=2840
 id:d38aacaa-fb46-44f5-b54d-8338eb2f9e25
 	skos:prefLabel "CULTURELE VOORZIENINGEN"@nl .
 
-vocab:\?tema\=1071
+cbsid:1071
 	skos:prefLabel "culturele voorzieningen"@nl .
 }
 
@@ -8234,7 +8235,7 @@ vocab:\?tema\=1071
 id:d427ca2f-8309-4625-913f-e2985a71ac05
 	skos:prefLabel "BEZOEKERS"@nl .
 
-vocab:\?tema\=1276
+cbsid:1276
 	skos:prefLabel "bezoekers"@nl .
 }
 
@@ -8245,7 +8246,7 @@ vocab:\?tema\=1276
 id:d43b174c-52bd-4529-a384-b8b9db232bfd
 	skos:prefLabel "BIBLIOTHEKEN"@nl .
 
-vocab:\?tema\=1072
+cbsid:1072
 	skos:prefLabel "bibliotheken"@nl .
 }
 
@@ -8256,7 +8257,7 @@ vocab:\?tema\=1072
 id:d4581dcb-ee62-483d-857b-7e6bca89f702
 	skos:prefLabel "AANDELEN"@nl .
 
-vocab:\?tema\=470
+cbsid:470
 	skos:prefLabel "aandelen"@nl .
 }
 
@@ -8267,7 +8268,7 @@ vocab:\?tema\=470
 id:d56ba80c-606b-461d-8a0e-87018f44cf85
 	skos:prefLabel "WONINGBEZIT"@nl .
 
-vocab:\?tema\=1008
+cbsid:1008
 	skos:prefLabel "woningbezit"@nl .
 }
 
@@ -8278,7 +8279,7 @@ vocab:\?tema\=1008
 id:d571a82f-b913-4ab2-bfbc-b22d92746568
 	skos:prefLabel "ONTSLAG"@nl .
 
-vocab:\?tema\=6
+cbsid:6
 	skos:prefLabel "ontslag"@nl .
 }
 
@@ -8289,7 +8290,7 @@ vocab:\?tema\=6
 id:d5ad84c5-6736-4ae2-ae7e-e68e1ada2123
 	skos:prefLabel "MUZIEK"@nl .
 
-vocab:\?tema\=1105
+cbsid:1105
 	skos:prefLabel "muziek"@nl .
 }
 
@@ -8300,7 +8301,7 @@ vocab:\?tema\=1105
 id:d5ce3767-f68d-44c6-8f2f-c9d66e3a2023
 	skos:prefLabel "ZIEKENHUISOPNAMES"@nl .
 
-vocab:\?tema\=1582
+cbsid:1582
 	skos:prefLabel "ziekenhuisopnames"@nl .
 }
 
@@ -8311,7 +8312,7 @@ vocab:\?tema\=1582
 id:d76eb11c-0b88-458a-aa05-dae1d8405293
 	skos:prefLabel "EMISSIEHANDEL"@nl .
 
-vocab:\?tema\=2236
+cbsid:2236
 	skos:prefLabel "emissiehandel"@nl .
 }
 
@@ -8322,7 +8323,7 @@ vocab:\?tema\=2236
 id:d7849497-6776-462d-baec-96f61933a340
 	skos:prefLabel "DUURZAAMHEID"@nl .
 
-vocab:\?tema\=2277
+cbsid:2277
 	skos:prefLabel "duurzaamheid"@nl .
 }
 
@@ -8333,7 +8334,7 @@ vocab:\?tema\=2277
 id:d7b9db7e-34f9-4a11-bb11-734e9db7e67c
 	skos:prefLabel "WOONPLAATS"@nl .
 
-vocab:\?tema\=8540
+cbsid:8540
 	skos:prefLabel "woonplaats"@nl .
 }
 
@@ -8344,7 +8345,7 @@ vocab:\?tema\=8540
 id:d966e9e4-29f0-4329-b4fc-40eb71a25201
 	skos:prefLabel "SCHOLEN"@nl .
 
-vocab:\?tema\=2527
+cbsid:2527
 	skos:prefLabel "scholen"@nl .
 }
 
@@ -8355,7 +8356,7 @@ vocab:\?tema\=2527
 id:dab48525-c485-459b-bb41-730756f1dd65
 	skos:prefLabel "ARMOEDE"@nl .
 
-vocab:\?tema\=1821
+cbsid:1821
 	skos:prefLabel "armoede"@nl .
 }
 
@@ -8366,7 +8367,7 @@ vocab:\?tema\=1821
 id:db4fe317-a304-4c23-8524-10179cb8846a
 	skos:prefLabel "STAATSSCHULD"@nl .
 
-vocab:\?tema\=2804
+cbsid:2804
 	skos:prefLabel "staatsschuld"@nl .
 }
 
@@ -8377,7 +8378,7 @@ vocab:\?tema\=2804
 id:dd390fc8-f11a-4f20-946a-47b66f04e0db
 	skos:prefLabel "INFLATIE"@nl .
 
-vocab:\?tema\=2955
+cbsid:2955
 	skos:prefLabel "inflatie"@nl .
 }
 
@@ -8388,7 +8389,7 @@ vocab:\?tema\=2955
 id:debb168f-2f44-412c-900f-bfcf5a74e847
 	skos:prefLabel "PRODUCTIE"@nl .
 
-vocab:\?tema\=476
+cbsid:476
 	skos:prefLabel "productie"@nl .
 }
 
@@ -8399,7 +8400,7 @@ vocab:\?tema\=476
 id:df3fb75d-399f-4e3d-842b-2aef8c4cf8ea
 	skos:prefLabel "ZWANGERSCHAPSVERLOF"@nl .
 
-vocab:\?tema\=324
+cbsid:324
 	skos:prefLabel "zwangerschapsverlof"@nl .
 }
 
@@ -8410,7 +8411,7 @@ vocab:\?tema\=324
 id:df4331f1-2261-47a3-924a-540b759b44b2
 	skos:prefLabel "RESTAURANTS"@nl .
 
-vocab:\?tema\=544
+cbsid:544
 	skos:prefLabel "restaurants"@nl .
 }
 
@@ -8421,7 +8422,7 @@ vocab:\?tema\=544
 id:e0494036-d1de-4801-aa86-b4e9ed1ec479
 	skos:prefLabel "OPPERVLAKTEWATER"@nl .
 
-vocab:\?tema\=2276
+cbsid:2276
 	skos:prefLabel "oppervlaktewater"@nl .
 }
 
@@ -8432,7 +8433,7 @@ vocab:\?tema\=2276
 id:e165a2b3-40ab-418e-a2ae-e7f9b9e8f1a9
 	skos:prefLabel "ABORTUS"@nl .
 
-vocab:\?tema\=639
+cbsid:639
 	skos:prefLabel "abortus"@nl .
 }
 
@@ -8443,7 +8444,7 @@ vocab:\?tema\=639
 id:e20db49e-ee26-4096-af7d-0169795b8373
 	skos:prefLabel "SUBSIDIES"@nl .
 
-vocab:\?tema\=2020
+cbsid:2020
 	skos:prefLabel "subsidies"@nl .
 }
 
@@ -8454,7 +8455,7 @@ vocab:\?tema\=2020
 id:e3291f51-99c6-4379-bf8b-e89f6b2051b8
 	skos:prefLabel "AFSCHRIJVINGEN"@nl .
 
-vocab:\?tema\=397
+cbsid:397
 	skos:prefLabel "afschrijvingen"@nl .
 }
 
@@ -8465,7 +8466,7 @@ vocab:\?tema\=397
 id:e40c0c36-01f8-4d44-b510-dacd98bdd024
 	skos:prefLabel "DYSLEXIE"@nl .
 
-vocab:\?tema\=4847
+cbsid:4847
 	skos:prefLabel "dyslexie"@nl .
 }
 
@@ -8476,7 +8477,7 @@ vocab:\?tema\=4847
 id:e57c810a-1500-40d9-ae79-f8c1811476bd
 	skos:prefLabel "DORPEN"@nl .
 
-vocab:\?tema\=4368
+cbsid:4368
 	skos:prefLabel "dorpen"@nl .
 }
 
@@ -8487,7 +8488,7 @@ vocab:\?tema\=4368
 id:e5dd3267-fa57-48f0-952d-303b27c3ca87
 	skos:prefLabel "BRANDSCHADE"@nl .
 
-vocab:\?tema\=3418
+cbsid:3418
 	skos:prefLabel "brandschade"@nl .
 }
 
@@ -8498,7 +8499,7 @@ vocab:\?tema\=3418
 id:e67b63bc-a155-4743-baad-8f7fabedb15f
 	skos:prefLabel "STOOKOLIE"@nl .
 
-vocab:\?tema\=1755
+cbsid:1755
 	skos:prefLabel "stookolie"@nl .
 }
 
@@ -8509,7 +8510,7 @@ vocab:\?tema\=1755
 id:e85bfd7a-67ed-4eea-9e46-bf991e034aea
 	skos:prefLabel "GEVANGENISSTRAF"@nl .
 
-vocab:\?tema\=3101
+cbsid:3101
 	skos:prefLabel "gevangenisstraf"@nl .
 }
 
@@ -8520,7 +8521,7 @@ vocab:\?tema\=3101
 id:e86b78c8-7f45-4576-93f4-86944c5dc7a0
 	skos:prefLabel "ONDERWIJSBELEID"@nl .
 
-vocab:\?tema\=2490
+cbsid:2490
 	skos:prefLabel "onderwijsbeleid"@nl .
 }
 
@@ -8531,7 +8532,7 @@ vocab:\?tema\=2490
 id:e87d9670-eed0-42af-9e19-bdbee14ed633
 	skos:prefLabel "PESTEN"@nl .
 
-vocab:\?tema\=3431
+cbsid:3431
 	skos:prefLabel "pesten"@nl .
 }
 
@@ -8542,7 +8543,7 @@ vocab:\?tema\=3431
 id:e8a605f5-03e8-4fc0-8345-27bb0ff57a1d
 	skos:prefLabel "KOSTSCHOLEN"@nl .
 
-vocab:\?tema\=4740
+cbsid:4740
 	skos:prefLabel "kostscholen"@nl .
 }
 
@@ -8553,7 +8554,7 @@ vocab:\?tema\=4740
 id:e911ed12-88af-41ec-8ba7-98cb029cf5c7
 	skos:prefLabel "VADERS"@nl .
 
-vocab:\?tema\=809
+cbsid:809
 	skos:prefLabel "vaders"@nl .
 }
 
@@ -8564,7 +8565,7 @@ vocab:\?tema\=809
 id:e96ca5bb-f34a-44da-8497-1b41935046a2
 	skos:prefLabel "BUURTEN"@nl .
 
-vocab:\?tema\=1050
+cbsid:1050
 	skos:prefLabel "buurten"@nl .
 }
 
@@ -8575,7 +8576,7 @@ vocab:\?tema\=1050
 id:ebf35305-df80-4770-8bfe-2311389c5331
 	skos:prefLabel "IMMIGRATIE"@nl .
 
-vocab:\?tema\=786
+cbsid:786
 	skos:prefLabel "immigratie"@nl .
 }
 
@@ -8586,7 +8587,7 @@ vocab:\?tema\=786
 id:ebf6f18f-16ec-45dc-97f3-5d15415adbfc
 	skos:prefLabel "ONDERNEMERS"@nl .
 
-vocab:\?tema\=504
+cbsid:504
 	skos:prefLabel "ondernemers"@nl .
 }
 
@@ -8597,7 +8598,7 @@ vocab:\?tema\=504
 id:ec5fdae7-ef3d-4736-985f-d630037b274e
 	skos:prefLabel "GEMENGDE HUWELIJKEN"@nl .
 
-vocab:\?tema\=846
+cbsid:846
 	skos:prefLabel "gemengde huwelijken"@nl .
 }
 
@@ -8608,7 +8609,7 @@ vocab:\?tema\=846
 id:eeca9b3a-bded-48f3-81e0-994b5b70dc21
 	skos:prefLabel "BEVOLKINGSDICHTHEID"@nl .
 
-vocab:\?tema\=577
+cbsid:577
 	skos:prefLabel "bevolkingsdichtheid"@nl .
 }
 
@@ -8619,7 +8620,7 @@ vocab:\?tema\=577
 id:eeee1de9-1dcb-488f-a60a-8c4b0a002094
 	skos:prefLabel "THUISWERKERS"@nl .
 
-vocab:\?tema\=81
+cbsid:81
 	skos:prefLabel "thuiswerkers"@nl .
 }
 
@@ -8630,7 +8631,7 @@ vocab:\?tema\=81
 id:f03eddd7-a0d5-422b-896e-9e6c80ac9207
 	skos:prefLabel "OVERHEIDSBEDRIJVEN"@nl .
 
-vocab:\?tema\=4879
+cbsid:4879
 	skos:prefLabel "overheidsbedrijven"@nl .
 }
 
@@ -8641,7 +8642,7 @@ vocab:\?tema\=4879
 id:f0c23a85-46b7-4fbe-afdf-345818362649
 	skos:prefLabel "VRUCHTBAARHEID"@nl .
 
-vocab:\?tema\=633
+cbsid:633
 	skos:prefLabel "vruchtbaarheid"@nl .
 }
 
@@ -8652,7 +8653,7 @@ vocab:\?tema\=633
 id:f1b512ea-72cd-4834-9157-586155ba1147
 	skos:prefLabel "POLITICI"@nl .
 
-vocab:\?tema\=2844
+cbsid:2844
 	skos:prefLabel "politici"@nl .
 }
 
@@ -8663,7 +8664,7 @@ vocab:\?tema\=2844
 id:f1be4577-ef8a-4d37-81cc-0f349c3e87df
 	skos:prefLabel "THUISZORG"@nl .
 
-vocab:\?tema\=1539
+cbsid:1539
 	skos:prefLabel "thuiszorg"@nl .
 }
 
@@ -8674,7 +8675,7 @@ vocab:\?tema\=1539
 id:f33a59b3-1ce3-4b5e-bf35-0418302eef7d
 	skos:prefLabel "OVERHEIDSBELEID"@nl .
 
-vocab:\?tema\=2888
+cbsid:2888
 	skos:prefLabel "overheidsbeleid"@nl .
 }
 
@@ -8685,7 +8686,7 @@ vocab:\?tema\=2888
 id:f344fbd6-51ae-4e1f-97e7-4f91bf0a9ef0
 	skos:prefLabel "GASVERBRUIK"@nl .
 
-vocab:\?tema\=1621
+cbsid:1621
 	skos:prefLabel "gasverbruik"@nl .
 }
 
@@ -8696,7 +8697,7 @@ vocab:\?tema\=1621
 id:f3883755-4e0e-4219-9eaa-09b0c688b40c
 	skos:prefLabel "ONLINE WINKELEN"@nl .
 
-vocab:\?tema\=1858
+cbsid:1858
 	skos:prefLabel "online winkelen"@nl .
 }
 
@@ -8707,7 +8708,7 @@ vocab:\?tema\=1858
 id:f3ad3424-1ae3-4eb4-858e-3ccc3015ca08
 	skos:prefLabel "DISCRIMINATIE"@nl .
 
-vocab:\?tema\=3343
+cbsid:3343
 	skos:prefLabel "discriminatie"@nl .
 }
 
@@ -8718,7 +8719,7 @@ vocab:\?tema\=3343
 id:f516c72c-75cb-40d3-991f-2922f9ad98cb
 	skos:prefLabel "INTEGRATIE"@nl .
 
-vocab:\?tema\=707
+cbsid:707
 	skos:prefLabel "integratie"@nl .
 }
 
@@ -8729,7 +8730,7 @@ vocab:\?tema\=707
 id:f59772f6-bb3c-4384-abb7-d537e98b65cc
 	skos:prefLabel "CYBERPESTEN"@nl .
 
-vocab:\?tema\=3327
+cbsid:3327
 	skos:prefLabel "cyberpesten"@nl .
 }
 
@@ -8740,7 +8741,7 @@ vocab:\?tema\=3327
 id:f7e19663-e58b-4630-b8f1-82b1dc4649f7
 	skos:prefLabel "STAAR"@nl .
 
-vocab:\?tema\=1414
+cbsid:1414
 	skos:prefLabel "staar"@nl .
 }
 
@@ -8751,7 +8752,7 @@ vocab:\?tema\=1414
 id:f946d3ff-4f9d-42b6-9ee0-c269d02c2a19
 	skos:prefLabel "WERKLOOSHEIDSUITKERINGEN"@nl .
 
-vocab:\?tema\=253
+cbsid:253
 	skos:prefLabel "werkloosheidsuitkeringen"@nl .
 }
 
@@ -8762,7 +8763,7 @@ vocab:\?tema\=253
 id:f95d4a93-4490-4a87-99c1-2e56da67191f
 	skos:prefLabel "INKOMENSVERDELING"@nl .
 
-vocab:\?tema\=1918
+cbsid:1918
 	skos:prefLabel "inkomensverdeling"@nl .
 }
 
@@ -8773,7 +8774,7 @@ vocab:\?tema\=1918
 id:fa2ade19-7411-4333-bc75-56e935f38d9a
 	skos:prefLabel "STOPPEN MET ROKEN"@nl .
 
-vocab:\?tema\=1362
+cbsid:1362
 	skos:prefLabel "stoppen met roken"@nl .
 }
 
@@ -8784,7 +8785,7 @@ vocab:\?tema\=1362
 id:fbda3548-277a-43a0-bbe1-70bca5e88c51
 	skos:prefLabel "ZWEMMEN"@nl .
 
-vocab:\?tema\=1162
+cbsid:1162
 	skos:prefLabel "zwemmen"@nl .
 }
 
@@ -8795,7 +8796,7 @@ vocab:\?tema\=1162
 id:fbe772f6-d6de-4439-b7d9-94835f208acd
 	skos:prefLabel "KINDEROPVANG"@nl .
 
-vocab:\?tema\=1511
+cbsid:1511
 	skos:prefLabel "kinderopvang"@nl .
 }
 
@@ -8806,7 +8807,7 @@ vocab:\?tema\=1511
 id:fc074c96-3fbb-484b-a819-307902b1d741
 	skos:prefLabel "SOCIALE UITKERINGEN"@nl .
 
-vocab:\?tema\=239
+cbsid:239
 	skos:prefLabel "sociale uitkeringen"@nl .
 }
 
@@ -8817,7 +8818,7 @@ vocab:\?tema\=239
 id:fecc20f8-e33d-4fe3-b7fe-81264fc7223d
 	skos:prefLabel "PARTIJ-IDENTIFICATIE"@nl .
 
-vocab:\?tema\=2894
+cbsid:2894
 	skos:prefLabel "partij-identificatie"@nl .
 }
 
@@ -8828,6 +8829,6 @@ vocab:\?tema\=2894
 id:ff0a4ee9-7a77-4bac-8d63-415cf285b7b8
 	skos:prefLabel "KLIMAATREGELING"@nl .
 
-vocab:\?tema\=2123
+cbsid:2123
 	skos:prefLabel "klimaatregeling"@nl .
 }
