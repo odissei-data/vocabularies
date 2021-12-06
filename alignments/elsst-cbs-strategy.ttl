@@ -1,4 +1,4 @@
-@prefix vocab: <https://taxonomie.cbs.nl/vocab/> .
+@prefix cbs: <https://taxonomie.cbs.nl/> .
 @prefix align: <https://portal.odissei-data.nl/metadata/align/> .
 @prefix id: <https://elsst.cessda.eu/id/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
@@ -17,7 +17,7 @@ id: a core:ConceptScheme .
 align:dataset1 a amalgame:Mapping .
 align:dataset1 amalgame:nickname "A" .
 align:dataset1 amalgame:status amalgame:intermediate .
-align:dataset1 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator user:jrvosse ; terms:date "2021-12-03T13:00:16+00:00"^^xsd:dateTime ; amalgame:nickname "?" ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&source_language=nl&matchacross_lang=false&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source id: ; amalgame:status amalgame:intermediate ; amalgame:target vocab: ; rdfs:label "pref/pref nl" ] .
+align:dataset1 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator user:jrvosse ; terms:date "2021-12-03T13:00:16+00:00"^^xsd:dateTime ; amalgame:nickname "?" ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&source_language=nl&matchacross_lang=false&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source id: ; amalgame:status amalgame:intermediate ; amalgame:target cbs:vocab ; rdfs:label "pref/pref nl" ] .
 align:dataset1 rdfs:label "1-1 pref/pref nl" .
 
 align:dataset10 a amalgame:VirtualConceptScheme .
@@ -56,7 +56,7 @@ align:dataset15 amalgame:undecidedBy _:bn_12315532_0 .
 align:dataset2 a amalgame:Mapping .
 align:dataset2 amalgame:nickname "B" .
 align:dataset2 amalgame:status amalgame:intermediate .
-align:dataset2 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator user:jrvosse ; terms:date "2021-12-03T13:04:42+00:00"^^xsd:dateTime ; amalgame:nickname "?" ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23altLabel&source_language=nl&matchacross_lang=false&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source id: ; amalgame:status amalgame:intermediate ; amalgame:target vocab: ; rdfs:label "pref/alt nl" ] .
+align:dataset2 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator user:jrvosse ; terms:date "2021-12-03T13:04:42+00:00"^^xsd:dateTime ; amalgame:nickname "?" ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23altLabel&source_language=nl&matchacross_lang=false&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source id: ; amalgame:status amalgame:intermediate ; amalgame:target cbs:vocab ; rdfs:label "pref/alt nl" ] .
 align:dataset2 rdfs:label "pref/alt nl (ambiguous)" .
 
 align:dataset3 a amalgame:Mapping .
@@ -116,13 +116,13 @@ align:elsst_cbs_strategy a prov:Plan .
 align:elsst_cbs_strategy terms:creator user:jrvosse .
 align:elsst_cbs_strategy terms:date "2021-12-03T12:59:17+00:00"^^xsd:dateTime .
 align:elsst_cbs_strategy amalgame:includes id: .
-align:elsst_cbs_strategy amalgame:includes vocab: .
+align:elsst_cbs_strategy amalgame:includes cbs:vocab .
 align:elsst_cbs_strategy amalgame:nickname "?" .
 align:elsst_cbs_strategy amalgame:publish_ns align: .
 align:elsst_cbs_strategy rdfs:comment "ELSST to CBS mappings" .
 align:elsst_cbs_strategy rdfs:label "elsst-cbs" .
 
-vocab: a core:ConceptScheme .
+cbs:vocab a core:ConceptScheme .
 
 _:bn_5087804_0 a amalgame:AritySelect .
 _:bn_5087804_0 terms:creator user:jrvosse .
@@ -143,7 +143,7 @@ _:bn_10242119_0 rdfs:label "partition mapped/unmapped"@en .
 _:bn_15415195_0 a amalgame:VocExclude .
 _:bn_15415195_0 terms:creator user:jrvosse .
 _:bn_15415195_0 terms:date "2021-12-03T13:32:35+00:00"^^xsd:dateTime .
-_:bn_15415195_0 amalgame:input vocab: .
+_:bn_15415195_0 amalgame:input cbs:vocab .
 _:bn_15415195_0 amalgame:parameters "lastAction=secinput&type=target&mode=select" .
 _:bn_15415195_0 amalgame:secondary_input align:dataset1 .
 _:bn_15415195_0 amalgame:secondary_input align:dataset3 .

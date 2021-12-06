@@ -2,6 +2,7 @@
 *~
 
 # prolog/cliopatria/amalgame stuff
+cpack
 RDF-store
 config-enabled
 daemon.pl
