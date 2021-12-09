@@ -19,6 +19,18 @@
 
 <cbsvocabs>
   a void:Dataset ;
-  dcterms:title "CBS Thesaurus"@en ;
+  dcterms:title "CBS vocabularies used in the ODISSEI project" ;
+  void:subset <cbskeywords>, <cbstaxonomy> .
+
+<cbstaxonomy>
+  a void:Dataset ;
+  dcterms:title "CBS Taxonomy"@en ;
   lib:source <https://vocabs.cbs.nl> ;
   void:dataDump <cbs/cbs-taxonomie.ttl> .
+
+<cbskeywords>
+  a void:Dataset ;
+  dcterms:title "SKOS thesaurus constructed automatically from CBS microdata keywords "@en ;
+  lib:source <https://vocabs.cbs.nl> ;
+  void:dataDump <cbs/cbs_keywords_skos.ttl> .
+

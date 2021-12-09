@@ -1,0 +1,2512 @@
+@prefix cbs: <https://portal.odissei-data.nl/metadata/cbs/keywords/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+cbs:AKW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "AKW"@nl .
+
+cbs:Aaltjesbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Aaltjesbestrijding"@nl .
+
+cbs:Aangifte_Belastingdienst a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Aangifte (Belastingdienst)"@nl .
+
+cbs:Aangifte_juridisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Aangifte (juridisch)"@nl .
+
+cbs:Aardgas a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Aardgas"@nl .
+
+cbs:Aardgas_elektriciteit_particuliere_woningen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Aardgas, elektriciteit, particuliere woningen"@nl .
+
+cbs:Accountancy a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Accountancy"@nl .
+
+cbs:Activa a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Activa"@nl .
+
+cbs:Administratieve_correctie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Administratieve correctie"@nl .
+
+cbs:Adoptie_gewone_- a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Adoptie, gewone -"@nl .
+
+cbs:Adres a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Adres"@nl .
+
+cbs:Adresbewoning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Adresbewoning"@nl .
+
+cbs:Afschrijvingen_op_vaste_activa a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afschrijvingen op vaste activa"@nl .
+
+cbs:Afval a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afval"@nl .
+
+cbs:Afvalbeheer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afvalbeheer"@nl .
+
+cbs:Afvalstoffen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afvalstoffen"@nl .
+
+cbs:Afvalverwerking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afvalverwerking"@nl .
+
+cbs:Afvalwater a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Afvalwater"@nl .
+
+cbs:Agrarisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Agrarisch"@nl .
+
+cbs:Algemeen_Bedrijven_Register_ABR a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Algemeen Bedrijven Register (ABR)"@nl .
+
+cbs:Algemene_kinderbijslagwet a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Algemene kinderbijslagwet"@nl .
+
+cbs:Algemene_nabestaandenwet_ANW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Algemene nabestaandenwet (ANW)"@nl .
+
+cbs:Algemene_ouderdomswet_AOW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Algemene ouderdomswet (AOW)"@nl .
+
+cbs:Algemene_wet_bijzondere_ziektekosten_AWBZ a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Algemene wet bijzondere ziektekosten (AWBZ)"@nl .
+
+cbs:Alleenstaande_minderjarige_vreemdeling_AMV a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Alleenstaande minderjarige vreemdeling (AMV)"@nl .
+
+cbs:Ambulance a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ambulance"@nl .
+
+cbs:Arbeid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeid"@nl .
+
+cbs:Arbeidsjaar a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsjaar"@nl .
+
+cbs:Arbeidskosten_ako a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidskosten (ako)"@nl .
+
+cbs:Arbeidskracht a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidskracht"@nl .
+
+cbs:Arbeidsmarktpositie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsmarktpositie"@nl .
+
+cbs:Arbeidsmobiliteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsmobiliteit"@nl .
+
+cbs:Arbeidsongeschiktheidsuitkering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsongeschiktheidsuitkering"@nl .
+
+cbs:Arbeidsongeschiktheidswetten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsongeschiktheidswetten"@nl .
+
+cbs:Arbeidsparticipatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsparticipatie"@nl .
+
+cbs:Arbeidsproductiviteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsproductiviteit"@nl .
+
+cbs:Arbeidsproductiviteitsontwikkeling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsproductiviteitsontwikkeling"@nl .
+
+cbs:Arbeidsvolume a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbeidsvolume"@nl .
+
+cbs:Arbo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arbo"@nl .
+
+cbs:Armoede a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Armoede"@nl .
+
+cbs:Arts a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Arts"@nl .
+
+cbs:Asielverzoek a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Asielverzoek"@nl .
+
+cbs:Autodiesel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Autodiesel"@nl .
+
+cbs:Autogas_lpg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Autogas (lpg)"@nl .
+
+cbs:Autohandel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Autohandel"@nl .
+
+cbs:BAG a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "BAG"@nl .
+
+cbs:BIG-register a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "BIG-register"@nl .
+
+cbs:Baan a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Baan"@nl .
+
+cbs:Baanverlies a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Baanverlies"@nl .
+
+cbs:Bachelorsdiploma a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bachelorsdiploma"@nl .
+
+cbs:Balans a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Balans"@nl .
+
+cbs:Banen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Banen"@nl .
+
+cbs:Banken a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Banken"@nl .
+
+cbs:Bankwezen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bankwezen"@nl .
+
+cbs:Basisonderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Basisonderwijs"@nl .
+
+cbs:Bedden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedden"@nl .
+
+cbs:Bedrijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijf"@nl .
+
+cbs:Bedrijfsafvalstoffen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfsafvalstoffen"@nl .
+
+cbs:Bedrijfseenheid_BE a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfseenheid (BE)"@nl .
+
+cbs:Bedrijfsongeval a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfsongeval"@nl .
+
+cbs:Bedrijfsopheffingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfsopheffingen"@nl .
+
+cbs:Bedrijfsopleiding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfsopleiding"@nl .
+
+cbs:Bedrijfsoprichtingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfsoprichtingen"@nl .
+
+cbs:Bedrijfssubklasse a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijfs(sub)klasse"@nl .
+
+cbs:Bedrijven a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijven"@nl .
+
+cbs:Bedrijven_en_Instellingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bedrijven en Instellingen"@nl .
+
+cbs:Belastingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Belastingen"@nl .
+
+cbs:Beleidsinformatie_Jeugd a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beleidsinformatie Jeugd"@nl .
+
+cbs:Beleidsterrein a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beleidsterrein"@nl .
+
+cbs:Beleidsterrein_overheidsfinanciën a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beleidsterrein (overheidsfinanciën)"@nl .
+
+cbs:Beloning_van_werknemers a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beloning van werknemers"@nl .
+
+cbs:Benzine a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Benzine"@nl .
+
+cbs:Beroep_arbeid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beroep (arbeid)"@nl .
+
+cbs:Beroepsbevolking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beroepsbevolking"@nl .
+
+cbs:Beroepsgroep a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Beroepsgroep"@nl .
+
+cbs:Bestedingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bestedingen"@nl .
+
+cbs:Bestrijdingsmiddelen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bestrijdingsmiddelen"@nl .
+
+cbs:Betaalde_arbeidsduur_NR a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Betaalde arbeidsduur (NR)"@nl .
+
+cbs:Bevolking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bevolking"@nl .
+
+cbs:Bibliotheek a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bibliotheek"@nl .
+
+cbs:Bijstand a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bijstand"@nl .
+
+cbs:Bijstandsfraude a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bijstandsfraude"@nl .
+
+cbs:Bijstandsschuld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bijstandsschuld"@nl .
+
+cbs:Bijstandsvordering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bijstandsvordering"@nl .
+
+cbs:Bijzonder_woongebouw a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bijzonder woongebouw"@nl .
+
+cbs:Binnenvloot_actieve a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Binnenvloot, actieve"@nl .
+
+cbs:Biologische_bestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Biologische bestrijding"@nl .
+
+cbs:Bladluis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bladluis"@nl .
+
+cbs:Bosbouw a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bosbouw"@nl .
+
+cbs:Bouw a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bouw"@nl .
+
+cbs:Bouwkosten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bouwkosten"@nl .
+
+cbs:Bouwnijverheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bouwnijverheid"@nl .
+
+cbs:Bouwvergunning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bouwvergunning"@nl .
+
+cbs:Branche a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Branche"@nl .
+
+cbs:Brandweer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brandweer"@nl .
+
+cbs:Brandweer_beroepspersoneel_- a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brandweer, beroepspersoneel -"@nl .
+
+cbs:Brandweer_operationeel_personeel_- a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brandweer, operationeel personeel -"@nl .
+
+cbs:Brandweer_vrijwillig_personeel_- a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brandweer, vrijwillig personeel -"@nl .
+
+cbs:Brandweerregio a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brandweerregio"@nl .
+
+cbs:Brutoloon_sociale_verzekeringen_blsv a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Brutoloon sociale verzekeringen (blsv)"@nl .
+
+cbs:Buitenlander a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buitenlander"@nl .
+
+cbs:Buitenlandse_onderneming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buitenlandse onderneming"@nl .
+
+cbs:Buitenlandse_rechtspersoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buitenlandse rechtspersoon"@nl .
+
+cbs:Buitenlandse_werknemer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buitenlandse werknemer"@nl .
+
+cbs:Buitenschoolse_opvang a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buitenschoolse opvang"@nl .
+
+cbs:Bureau_Jeugdzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Bureau Jeugdzorg"@nl .
+
+cbs:Burgerlijke_staat a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Burgerlijke staat"@nl .
+
+cbs:Burn-out_klachten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Burn-out klachten"@nl .
+
+cbs:Buurt a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Buurt"@nl .
+
+cbs:CAO-loon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CAO-loon"@nl .
+
+cbs:CAO-sector a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CAO-sector"@nl .
+
+cbs:CAO-sector_gesubsidieerde_instellingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CAO-sector gesubsidieerde instellingen"@nl .
+
+cbs:CAO-sector_overheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CAO-sector overheid"@nl .
+
+cbs:CAO-sector_particuliere_bedrijven a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CAO-sector particuliere bedrijven"@nl .
+
+cbs:CITO a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "CITO"@nl .
+
+cbs:COEN a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "COEN"@nl .
+
+cbs:Camping a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Camping"@nl .
+
+cbs:Capaciteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Capaciteit"@nl .
+
+cbs:Caribisch_Nederland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Caribisch Nederland"@nl .
+
+cbs:Centrale_eindtoets a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Centrale eindtoets"@nl .
+
+cbs:Chemische_gewasbescherming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Chemische gewasbescherming"@nl .
+
+cbs:Chemische_gewasbeschermingsmiddelen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Chemische gewasbeschermingsmiddelen"@nl .
+
+cbs:Collectieve_arbeidsovereenkomst_CAO a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Collectieve arbeidsovereenkomst (CAO)"@nl .
+
+cbs:Collectieve_consumptie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Collectieve consumptie"@nl .
+
+cbs:Collectieve_consumptie_door_de_overheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Collectieve consumptie door de overheid"@nl .
+
+cbs:Commercieel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Commercieel"@nl .
+
+cbs:Commerciële_dienstverlening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Commerciële dienstverlening"@nl .
+
+cbs:Commerciële_verhuur a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Commerciële verhuur"@nl .
+
+cbs:Communicatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Communicatie"@nl .
+
+cbs:Concern a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Concern"@nl .
+
+cbs:Conjunctuurenquête_Nederland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Conjunctuurenquête Nederland"@nl .
+
+cbs:Conjunctuurtest a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Conjunctuurtest"@nl .
+
+cbs:Consumentenartikel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Consumentenartikel"@nl .
+
+cbs:Consumentenprijsindex_CPI a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Consumentenprijsindex (CPI)"@nl .
+
+cbs:Consumptie_door_de_overheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Consumptie door de overheid"@nl .
+
+cbs:Contact a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Contact"@nl .
+
+cbs:Coördinaat a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Coördinaat"@nl .
+
+cbs:Criminaliteit_algemeen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Criminaliteit (algemeen)"@nl .
+
+cbs:Crèche a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Crèche"@nl .
+
+cbs:Cultuur a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Cultuur"@nl .
+
+cbs:Decentrale_overheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Decentrale overheid"@nl .
+
+cbs:Deelcertificaat a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Deelcertificaat"@nl .
+
+cbs:Deeltijdfactor a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Deeltijdfactor"@nl .
+
+cbs:Delfstoffenwinning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Delfstoffenwinning"@nl .
+
+cbs:Delict a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Delict"@nl .
+
+cbs:Detailhandel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Detailhandel"@nl .
+
+cbs:Detentie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Detentie"@nl .
+
+cbs:Diagnose a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diagnose"@nl .
+
+cbs:Diagnose_Behandeling_Combinatie_DBC a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diagnose Behandeling Combinatie (DBC)"@nl .
+
+cbs:Diagnosecode_ICPC a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diagnosecode ICPC"@nl .
+
+cbs:Diensten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diensten"@nl .
+
+cbs:Dienstenprijsindex a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Dienstenprijsindex"@nl .
+
+cbs:Dienstverband a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Dienstverband"@nl .
+
+cbs:Dienstverlening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Dienstverlening"@nl .
+
+cbs:Diploma a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diploma"@nl .
+
+cbs:Diploma_vavo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Diploma vavo"@nl .
+
+cbs:Donor a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Donor"@nl .
+
+cbs:Doodgeborene a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Doodgeborene"@nl .
+
+cbs:Doodsoorzaak a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Doodsoorzaak"@nl .
+
+cbs:Doodsoorzaakverklaring a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Doodsoorzaakverklaring"@nl .
+
+cbs:Dopluis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Dopluis"@nl .
+
+cbs:Douane a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Douane"@nl .
+
+cbs:Duur_niet_werkzaam a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Duur niet werkzaam"@nl .
+
+cbs:Duur_werkzaam a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Duur werkzaam"@nl .
+
+cbs:Duurzaam_consumptiegoed a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Duurzaam consumptiegoed"@nl .
+
+cbs:Echtscheiding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Echtscheiding"@nl .
+
+cbs:Economische_activiteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Economische activiteit"@nl .
+
+cbs:Economische_categorie_overheidsfinanciën a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Economische categorie (overheidsfinanciën)"@nl .
+
+cbs:Economische_groei a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Economische groei"@nl .
+
+cbs:Economische_zelfstandigheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Economische zelfstandigheid"@nl .
+
+cbs:Eengezinswoning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eengezinswoning"@nl .
+
+cbs:Eenmanszaak a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eenmanszaak"@nl .
+
+cbs:Eerstelijnsverblijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eerstelijnsverblijf"@nl .
+
+cbs:Eerstelijnszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eerstelijnszorg"@nl .
+
+cbs:Effluent a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Effluent"@nl .
+
+cbs:Eigen_bijdrage a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eigen bijdrage"@nl .
+
+cbs:Eigenaar a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Eigenaar"@nl .
+
+cbs:Einddiploma_ho a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Einddiploma ho"@nl .
+
+cbs:Elektriciteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Elektriciteit"@nl .
+
+cbs:Elektriciteit_en_warmte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Elektriciteit en warmte"@nl .
+
+cbs:Emigratie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Emigratie"@nl .
+
+cbs:Emissie_milieu a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Emissie (milieu)"@nl .
+
+cbs:Energie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energie"@nl .
+
+cbs:Energie_IH a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energie (IH)"@nl .
+
+cbs:Energiedrager a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energiedrager"@nl .
+
+cbs:Energielabel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energielabel"@nl .
+
+cbs:Energieomzetting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energieomzetting"@nl .
+
+cbs:Energieverbruik a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Energieverbruik"@nl .
+
+cbs:Europese_Unie_27_landen_EU-27 a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Europese Unie: 27 landen (EU-27)"@nl .
+
+cbs:Europese_Unie_EU a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Europese Unie (EU)"@nl .
+
+cbs:Faillissement a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Faillissement"@nl .
+
+cbs:Familiebedrijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Familiebedrijf"@nl .
+
+cbs:Financiële_instelling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Financiële instelling"@nl .
+
+cbs:Financiële_transacties a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Financiële transacties"@nl .
+
+cbs:Fusie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Fusie"@nl .
+
+cbs:Fysiotherapeut a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Fysiotherapeut"@nl .
+
+cbs:GBA a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "GBA"@nl .
+
+cbs:GZ_psychologen_en_psychotherapeuten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "GZ psychologen en psychotherapeuten"@nl .
+
+cbs:Geboorte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geboorte"@nl .
+
+cbs:Geboortegemeente a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geboortegemeente"@nl .
+
+cbs:Gedetineerde a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gedetineerde"@nl .
+
+cbs:Geestelijke_gezondheidszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geestelijke gezondheidszorg"@nl .
+
+cbs:Gehuwd a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gehuwd"@nl .
+
+cbs:Gemeenschappelijke_regeling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gemeenschappelijke regeling"@nl .
+
+cbs:Gemeente_juridisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gemeente (juridisch)"@nl .
+
+cbs:Gemeente_regionaal a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gemeente (regionaal)"@nl .
+
+cbs:Geneesmiddel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geneesmiddel"@nl .
+
+cbs:Geregistreerd_partnerschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geregistreerd partnerschap"@nl .
+
+cbs:Geregistreerde_werkloosheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geregistreerde werkloosheid"@nl .
+
+cbs:Gescheiden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gescheiden"@nl .
+
+cbs:Geslacht a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Geslacht"@nl .
+
+cbs:Gesloten_inrichting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gesloten inrichting"@nl .
+
+cbs:Gesloten_jeugdzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gesloten jeugdzorg"@nl .
+
+cbs:Gevangenis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gevangenis"@nl .
+
+cbs:Gewasbescherming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gewasbescherming"@nl .
+
+cbs:Gewasbeschermingsmiddelen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gewasbeschermingsmiddelen"@nl .
+
+cbs:Gewerkte_uren a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gewerkte uren"@nl .
+
+cbs:Gezondheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gezondheid"@nl .
+
+cbs:Gezondheidszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Gezondheidszorg"@nl .
+
+cbs:Glastuinbouw a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Glastuinbouw"@nl .
+
+cbs:Globalisering_onderneming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Globalisering onderneming"@nl .
+
+cbs:Goed a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Goed"@nl .
+
+cbs:Goederen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Goederen"@nl .
+
+cbs:Grensarbeider a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Grensarbeider"@nl .
+
+cbs:Groepsaccommodatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Groepsaccommodatie"@nl .
+
+cbs:Groothandel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Groothandel"@nl .
+
+cbs:Grootteklasse_bedrijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Grootteklasse bedrijf"@nl .
+
+cbs:Halt-jongere a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Halt-jongere"@nl .
+
+cbs:Halt_Het_Alternatief a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Halt (Het Alternatief)"@nl .
+
+cbs:Handel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Handel"@nl .
+
+cbs:Handelsbalans a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Handelsbalans"@nl .
+
+cbs:Handelsbemiddeling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Handelsbemiddeling"@nl .
+
+cbs:Handmatige_onkruidbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Handmatige onkruidbestrijding"@nl .
+
+cbs:Herkomstgroepering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Herkomstgroepering"@nl .
+
+cbs:Historische_bibliotheek_archieven a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Historische bibliotheek (archieven)"@nl .
+
+cbs:Hoger_beroepsonderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Hoger beroepsonderwijs"@nl .
+
+cbs:Hoger_onderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Hoger onderwijs"@nl .
+
+cbs:Holding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Holding"@nl .
+
+cbs:Hoofdbaan a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Hoofdbaan"@nl .
+
+cbs:Horeca a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Horeca"@nl .
+
+cbs:Hotel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Hotel"@nl .
+
+cbs:Huisarts a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huisarts"@nl .
+
+cbs:Huisartsenzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huisartsenzorg"@nl .
+
+cbs:Huisartspraktijk a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huisartspraktijk"@nl .
+
+cbs:Huiselijk_geweld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huiselijk geweld"@nl .
+
+cbs:Huishouden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huishouden"@nl .
+
+cbs:Huisjes a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huisjes"@nl .
+
+cbs:Huisvestingskosten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huisvestingskosten"@nl .
+
+cbs:Huizenprijzen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huizenprijzen"@nl .
+
+cbs:Huurharmonisatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huurharmonisatie"@nl .
+
+cbs:Huurstijging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huurstijging"@nl .
+
+cbs:Huurwoning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huurwoning"@nl .
+
+cbs:Huwelijk_wettig a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huwelijk (wettig)"@nl .
+
+cbs:Huwelijksontbinding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huwelijksontbinding"@nl .
+
+cbs:Huwelijkssluiting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Huwelijkssluiting"@nl .
+
+cbs:IOW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "IOW"@nl .
+
+cbs:Immigratie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Immigratie"@nl .
+
+cbs:Industrie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Industrie"@nl .
+
+cbs:Inflatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inflatie"@nl .
+
+cbs:Ingeschreven_patiënten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ingeschreven patiënten"@nl .
+
+cbs:Ingezetene a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ingezetene"@nl .
+
+cbs:Inkomen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomen"@nl .
+
+cbs:Inkomen_arbeid_buitenland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomen arbeid buitenland"@nl .
+
+cbs:Inkomen_uit_eigen_onderneming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomen uit eigen onderneming"@nl .
+
+cbs:Inkomensverdeling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomensverdeling"@nl .
+
+cbs:Inkomensvoorziening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomensvoorziening"@nl .
+
+cbs:Inkomsten_afvalinzameling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomsten afvalinzameling"@nl .
+
+cbs:Inkomsten_arbeid_buitenland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomsten arbeid buitenland"@nl .
+
+cbs:Inkomsten_eigen_onderneming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomsten eigen onderneming"@nl .
+
+cbs:Inkomsten_uit_overige_arbeid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomsten uit overige arbeid"@nl .
+
+cbs:Inkomsten_uit_uitkering_buitenland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inkomsten uit uitkering buitenland"@nl .
+
+cbs:Innovatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Innovatie"@nl .
+
+cbs:Insectenbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Insectenbestrijding"@nl .
+
+cbs:Institutioneel_huishouden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Institutioneel huishouden"@nl .
+
+cbs:Investeringen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Investeringen"@nl .
+
+cbs:Investeringen_in_materiële_vaste_activa a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Investeringen in materiële vaste activa"@nl .
+
+cbs:Investeringen_in_vaste_activa_NR a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Investeringen in vaste activa (NR)"@nl .
+
+cbs:Invoer_van_diensten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Invoer van diensten"@nl .
+
+cbs:Inwoner a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Inwoner"@nl .
+
+cbs:Jacht a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jacht"@nl .
+
+cbs:Jeugd_en_Opvoedhulp a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugd en Opvoedhulp"@nl .
+
+cbs:Jeugdbescherming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdbescherming"@nl .
+
+cbs:Jeugdhulp a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdhulp"@nl .
+
+cbs:Jeugdigen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdigen"@nl .
+
+cbs:Jeugdreclassering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdreclassering"@nl .
+
+cbs:Jeugdwet a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdwet"@nl .
+
+cbs:Jeugdwet_2015 a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdwet (2015)"@nl .
+
+cbs:Jeugdzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jeugdzorg"@nl .
+
+cbs:JeugdzorgPlus a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "JeugdzorgPlus"@nl .
+
+cbs:Jongeren a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Jongeren"@nl .
+
+cbs:Kaakchirurgen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kaakchirurgen"@nl .
+
+cbs:Kamer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kamer"@nl .
+
+cbs:Kapitaalgoederenvoorraad a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kapitaalgoederenvoorraad"@nl .
+
+cbs:Kerosine a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kerosine"@nl .
+
+cbs:Kinderbescherming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kinderbescherming"@nl .
+
+cbs:Kinderdagverblijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kinderdagverblijf"@nl .
+
+cbs:Kindermishandeling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kindermishandeling"@nl .
+
+cbs:Koopwoning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Koopwoning"@nl .
+
+cbs:Kredietinstelling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Kredietinstelling"@nl .
+
+cbs:Lading a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Lading"@nl .
+
+cbs:Landbouw a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Landbouw"@nl .
+
+cbs:Leeftijd a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Leeftijd"@nl .
+
+cbs:Leegstand a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Leegstand"@nl .
+
+cbs:Levendgeborene a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Levendgeborene"@nl .
+
+cbs:Locatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Locatie"@nl .
+
+cbs:Logiesaccommodatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Logiesaccommodatie"@nl .
+
+cbs:Logiesvorm a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Logiesvorm"@nl .
+
+cbs:Lonen_en_salarissen_NR a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Lonen en salarissen (NR)"@nl .
+
+cbs:Loofdoding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Loofdoding"@nl .
+
+cbs:Loon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Loon"@nl .
+
+cbs:Loonindexcijfers a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Loonindexcijfers"@nl .
+
+cbs:Loonkosten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Loonkosten"@nl .
+
+cbs:Loonkostensubsidie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Loon(kosten)subsidie"@nl,
+        "Loonkostensubsidie"@nl .
+
+cbs:Lpg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Lpg"@nl .
+
+cbs:Luchtemissies a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Luchtemissies"@nl .
+
+cbs:Luchtvaart_-_handelsverkeer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Luchtvaart - handelsverkeer"@nl .
+
+cbs:Luchtverontreiniging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Luchtverontreiniging"@nl .
+
+cbs:Machinale_onkruidbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Machinale onkruidbestrijding"@nl .
+
+cbs:Masterdiploma a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Masterdiploma"@nl .
+
+cbs:Mechanische_gewasbescherming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Mechanische gewasbescherming"@nl .
+
+cbs:Medicijn a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Medicijn"@nl .
+
+cbs:Medisch_beroep a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Medisch beroep"@nl .
+
+cbs:Microbiologische_gewasbeschermingsmiddelen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Microbiologische gewasbeschermingsmiddelen"@nl .
+
+cbs:Middelbaar_beroepsonderwijs_mbo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Middelbaar beroepsonderwijs (mbo)"@nl .
+
+cbs:Migratie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Migratie"@nl .
+
+cbs:Migratiemotief a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Migratiemotief"@nl .
+
+cbs:Mijten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Mijten"@nl .
+
+cbs:Milieu a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Milieu"@nl .
+
+cbs:Mineervlieg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Mineervlieg"@nl .
+
+cbs:Minimumloon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Minimumloon"@nl .
+
+cbs:Misdrijf a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Misdrijf"@nl .
+
+cbs:Monetaire_financiële_instelling_MFI a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Monetaire financiële instelling (MFI)"@nl .
+
+cbs:Museum a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Museum"@nl .
+
+cbs:Nationale_rekeningen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nationale rekeningen"@nl .
+
+cbs:Nationaliteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nationaliteit"@nl .
+
+cbs:Nationaliteitswijziging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nationaliteitswijziging"@nl .
+
+cbs:Natuurlijk_persoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Natuurlijk persoon"@nl .
+
+cbs:Nederlander a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nederlander"@nl .
+
+cbs:Niet-chemische_bestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Niet-chemische bestrijding"@nl .
+
+cbs:Niet-ingezetene a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Niet-ingezetene"@nl .
+
+cbs:Niet-natuurlijke_dood a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Niet-natuurlijke dood"@nl .
+
+cbs:Niet-woning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Niet-woning"@nl .
+
+cbs:Niet_werkzame_persoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Niet werkzame persoon"@nl .
+
+cbs:Nijverheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nijverheid"@nl .
+
+cbs:Nuts a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Nuts"@nl .
+
+cbs:OM a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "OM"@nl .
+
+cbs:Oefentherapeuten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Oefentherapeuten"@nl .
+
+cbs:Omgevingsadressendichtheid_van_een_adres a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Omgevingsadressendichtheid van een adres"@nl .
+
+cbs:Omzet a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Omzet"@nl .
+
+cbs:Omzet_binnenland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Omzet binnenland"@nl .
+
+cbs:Omzet_buitenland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Omzet buitenland"@nl .
+
+cbs:Omzet_netto a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Omzet, netto"@nl .
+
+cbs:Ondernemersvertrouwen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ondernemersvertrouwen"@nl .
+
+cbs:Ondernemingengroep a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ondernemingengroep"@nl .
+
+cbs:Onderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onderwijs"@nl .
+
+cbs:Onderwijspersoneel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onderwijspersoneel"@nl .
+
+cbs:Onderwijssoort a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onderwijssoort"@nl .
+
+cbs:Ongehuwd a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ongehuwd"@nl .
+
+cbs:Onkruidbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onkruidbestrijding"@nl .
+
+cbs:Onroerend a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onroerend"@nl .
+
+cbs:Onroerend_goed a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onroerend goed"@nl .
+
+cbs:Ontbinding_geregistreerd_partnerschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ontbinding geregistreerd partnerschap"@nl .
+
+cbs:Ontslag_baanbeëindiging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ontslag (baanbeëindiging)"@nl .
+
+cbs:Ontslagzaak a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ontslagzaak"@nl .
+
+cbs:Ontwikkelingswerk a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ontwikkelingswerk"@nl .
+
+cbs:Onveiligheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Onveiligheid"@nl .
+
+cbs:Openbaar_Ministerie_OM a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Openbaar Ministerie (OM)"@nl .
+
+cbs:Openstaande_banen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Openstaande banen"@nl .
+
+cbs:Opheffingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Opheffingen"@nl .
+
+cbs:Opleiding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Opleiding"@nl .
+
+cbs:Opleidingsniveau a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Opleidingsniveau"@nl .
+
+cbs:Opleidingsrichting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Opleidingsrichting"@nl .
+
+cbs:Oprichtingen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Oprichtingen"@nl .
+
+cbs:Opslag a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Opslag"@nl .
+
+cbs:Orthodontisten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Orthodontisten"@nl .
+
+cbs:Overdekte_sportaccommodatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overdekte sportaccommodatie"@nl .
+
+cbs:Overeengekomen_uren_NR a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overeengekomen uren (NR)"@nl .
+
+cbs:Overheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overheid"@nl .
+
+cbs:Overheidsconsumptie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overheidsconsumptie"@nl .
+
+cbs:Overige_gewasbeschermingsmethoden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overige gewasbeschermingsmethoden"@nl .
+
+cbs:Overledene a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overledene"@nl .
+
+cbs:Overname a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overname"@nl .
+
+cbs:Overtreding_algemeen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overtreding (algemeen)"@nl .
+
+cbs:Overtredingen_Algemeen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overtredingen (Algemeen)"@nl .
+
+cbs:Overwerkuren a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Overwerkuren"@nl .
+
+cbs:PS a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "PS"@nl .
+
+cbs:Paar_huishouden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Paar (huishouden)"@nl .
+
+cbs:Participatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Participatie"@nl .
+
+cbs:Participatievoorziening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Participatievoorziening"@nl .
+
+cbs:Participatiewet a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Participatiewet"@nl .
+
+cbs:Particulier_huishouden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Particulier huishouden"@nl .
+
+cbs:Partner_huishouden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Partner (huishouden)"@nl .
+
+cbs:Patentaanvragen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Patentaanvragen"@nl .
+
+cbs:Penitentiaire_inrichting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Penitentiaire inrichting"@nl .
+
+cbs:Pensioen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioen"@nl .
+
+cbs:Pensioenfonds a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioenfonds"@nl .
+
+cbs:Pensioenfondsen_en_levensverzekeraars a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioenfondsen en levensverzekeraars"@nl .
+
+cbs:Pensioeninkomen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioeninkomen"@nl .
+
+cbs:Pensioenpremies a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioenpremies"@nl .
+
+cbs:Pensioenuitkering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioenuitkering"@nl .
+
+cbs:Pensioenverzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Pensioenverzekering"@nl .
+
+cbs:Perinatale_sterfte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Perinatale sterfte"@nl .
+
+cbs:Personeel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Personeel"@nl .
+
+cbs:Persoon_in_loondienst a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Persoon in loondienst"@nl .
+
+cbs:Persoon_juridisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Persoon (juridisch)"@nl .
+
+cbs:Persoonlijk_inkomen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Persoonlijk inkomen"@nl .
+
+cbs:Persoonsgebonden_budget_PGB a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Persoonsgebonden budget (PGB)"@nl .
+
+cbs:Plantengroeiregulatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Plantengroeiregulatie"@nl .
+
+cbs:Politie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Politie"@nl .
+
+cbs:Postcodegebied a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Postcodegebied"@nl .
+
+cbs:Premies_wettelijke_sociale_verzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Premies wettelijke sociale verzekering"@nl .
+
+cbs:Prijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Prijs"@nl .
+
+cbs:Prijsindexcijfers a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Prijsindexcijfers"@nl .
+
+cbs:Prijsmutatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Prijsmutatie"@nl .
+
+cbs:Proces-verbaal a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Proces-verbaal"@nl .
+
+cbs:Prodcom a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Prodcom"@nl .
+
+cbs:Producentenprijsindex_PPI a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Producentenprijsindex (PPI)"@nl .
+
+cbs:Producentenprijzen_industrie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Producentenprijzen industrie"@nl .
+
+cbs:Producentenvertrouwen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Producentenvertrouwen"@nl .
+
+cbs:Productie-index_industrie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Productie-index industrie"@nl .
+
+cbs:Productiefactoren a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Productiefactoren"@nl .
+
+cbs:Productiviteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Productiviteit"@nl .
+
+cbs:Professionele_podiumkunsten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Professionele podiumkunsten"@nl .
+
+cbs:Provinciaal-gefinancierde_jeugdzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Provinciaal-gefinancierde jeugdzorg"@nl .
+
+cbs:Provinciale_jeugdzorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Provinciale jeugdzorg"@nl .
+
+cbs:Provincie_juridisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Provincie (juridisch)"@nl .
+
+cbs:Provincie_regionaal a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Provincie (regionaal)"@nl .
+
+cbs:Psychiaters a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Psychiaters"@nl .
+
+cbs:Psychiatrie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Psychiatrie"@nl .
+
+cbs:Psychiatrisch_ziekenhuis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Psychiatrisch ziekenhuis"@nl .
+
+cbs:Re-integratie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Re-integratie"@nl .
+
+cbs:Re-integratiepositie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Re-integratiepositie"@nl .
+
+cbs:Re-integratievoorziening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Re-integratievoorziening"@nl .
+
+cbs:Recent_arbeidsverleden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Recent arbeidsverleden"@nl .
+
+cbs:Rechtbank a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rechtbank"@nl .
+
+cbs:Rechtbank_sector_civiel a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rechtbank, sector civiel"@nl .
+
+cbs:Rechter a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rechter"@nl .
+
+cbs:Rechtsgebied a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rechtsgebied"@nl .
+
+cbs:Rechtspersoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rechtspersoon"@nl .
+
+cbs:Recreatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Recreatie"@nl .
+
+cbs:Recreatiewoning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Recreatiewoning"@nl .
+
+cbs:Regio a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Regio"@nl .
+
+cbs:Reparatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Reparatie"@nl .
+
+<https://portal.odissei-data.nl/metadata/cbs/keywords/Research_&_Development_R&D> a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Research & Development (R&D)"@nl .
+
+cbs:Resultaatgenieter a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Resultaatgenieter"@nl .
+
+cbs:Rijbewijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rijbewijs"@nl .
+
+cbs:Rijk a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Rijk"@nl .
+
+cbs:SSB a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "SSB"@nl .
+
+cbs:Schaduweconomie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Schaduweconomie"@nl .
+
+<https://portal.odissei-data.nl/metadata/cbs/keywords/Scheiding_dem.> a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Scheiding (dem.)"@nl .
+
+cbs:Schimmelbestrijding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Schimmelbestrijding"@nl .
+
+cbs:Schuldsanering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Schuldsanering"@nl .
+
+cbs:Schuldsaneringen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Schuldsaneringen"@nl .
+
+cbs:Sentimentsindicator a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sentimentsindicator"@nl .
+
+cbs:Slaapplaatsen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Slaapplaatsen"@nl .
+
+cbs:Slachtoffer_criminaliteit a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Slachtoffer criminaliteit"@nl .
+
+cbs:Slachtofferhulp a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Slachtofferhulp"@nl .
+
+cbs:Slachtofferhulp_Nederland a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Slachtofferhulp Nederland"@nl .
+
+cbs:Slachtofferschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Slachtofferschap"@nl .
+
+cbs:Sociaal_domein a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociaal domein"@nl .
+
+cbs:Sociaaleconomische_categorie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociaaleconomische categorie"@nl .
+
+cbs:Sociale_basisondersteuning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociale basisondersteuning"@nl .
+
+cbs:Sociale_lasten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociale lasten"@nl .
+
+cbs:Sociale_premies_ten_laste_van_werkgevers a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociale premies ten laste van werkgevers"@nl .
+
+cbs:Sociale_voorziening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociale voorziening"@nl .
+
+cbs:Sociale_zekerheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sociale zekerheid"@nl .
+
+cbs:Speciaal_basisonderwijs_sbao a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Speciaal basisonderwijs (sbao)"@nl .
+
+cbs:Speciaal_onderwijs_so a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Speciaal onderwijs (so)"@nl .
+
+cbs:Speciaal_voertuig a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Speciaal voertuig"@nl .
+
+cbs:Speciale_scholen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Speciale scholen"@nl .
+
+cbs:Specialist_medisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Specialist (medisch)"@nl .
+
+cbs:Spint a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Spint"@nl .
+
+cbs:Sporthalaccommodatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sporthalaccommodatie"@nl .
+
+cbs:Sportterrein a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sportterrein"@nl .
+
+cbs:Sportzaalaccommodatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sportzaalaccommodatie"@nl .
+
+cbs:Standplaatsen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Standplaatsen"@nl .
+
+cbs:Startkwalificatie_onderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Startkwalificatie (onderwijs)"@nl .
+
+cbs:Stedelijkheid_van_een_gebied a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Stedelijkheid (van een gebied)"@nl .
+
+cbs:Stemmingsindicator a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Stemmingsindicator"@nl .
+
+cbs:Sterfte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Sterfte"@nl .
+
+cbs:Stomen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Stomen"@nl .
+
+cbs:Strafzaak a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Strafzaak"@nl .
+
+cbs:Studiebeurs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Studiebeurs"@nl .
+
+cbs:Supermarkten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Supermarkten"@nl .
+
+cbs:System_of_Health_Accounts_SHA a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "System of Health Accounts (SHA)"@nl .
+
+cbs:Tandarts a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Tandarts"@nl .
+
+cbs:Theater a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Theater"@nl .
+
+cbs:Thuiszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Thuiszorg"@nl .
+
+cbs:Toegevoegde_waarde a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Toegevoegde waarde"@nl .
+
+cbs:Toerisme a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Toerisme"@nl .
+
+cbs:Toevoeging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Toevoeging"@nl .
+
+cbs:Transactiedata_consumentenprijzen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Transactiedata (consumentenprijzen)"@nl .
+
+cbs:Transport a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Transport"@nl .
+
+cbs:Trips a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Trips"@nl .
+
+cbs:Tweede_werkkring a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Tweede werkkring"@nl .
+
+cbs:UWV a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "UWV"@nl .
+
+cbs:Uitgaven_voor_afvalinzameling a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitgaven voor afvalinzameling"@nl .
+
+cbs:Uitkering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkering"@nl .
+
+cbs:Uitkering_wettelijke_soc._verzekering_in_natura a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkering wettelijke soc. verzekering in natura"@nl .
+
+cbs:Uitkeringen_sociale_voorziening a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkeringen sociale voorziening"@nl .
+
+cbs:Uitkeringen_sociale_voorziening_in_geld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkeringen sociale voorziening in geld"@nl .
+
+cbs:Uitkeringen_sociale_voorziening_in_natura a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkeringen sociale voorziening in natura"@nl .
+
+cbs:Uitkeringen_wettelijke_soc._verzekering_in_geld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkeringen wettelijke soc. verzekering in geld"@nl .
+
+cbs:Uitkeringen_wettelijke_sociale_verzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitkeringen wettelijke sociale verzekering"@nl .
+
+cbs:Uitsluiting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitsluiting"@nl .
+
+cbs:Uitvoer_van_diensten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Uitvoer van diensten"@nl .
+
+cbs:Vacature a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vacature"@nl .
+
+cbs:Vacature_Indicator a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vacature Indicator"@nl .
+
+cbs:Vacaturegraad a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vacaturegraad"@nl .
+
+cbs:Vakbeweging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vakbeweging"@nl .
+
+cbs:Vakcentrale a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vakcentrale"@nl .
+
+cbs:Vakvereniging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vakvereniging"@nl .
+
+cbs:Varenrouwmug a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Varenrouwmug"@nl .
+
+cbs:Vavo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vavo"@nl .
+
+cbs:Veilig_Thuis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Veilig Thuis"@nl .
+
+cbs:Veiligheidsregio a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Veiligheidsregio"@nl .
+
+cbs:Veiligheidszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Veiligheidszorg"@nl .
+
+cbs:Veiligheidszorgrekeningen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Veiligheidszorgrekeningen"@nl .
+
+cbs:Verblijfplaats a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verblijfplaats"@nl .
+
+cbs:Verblijfsobject a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verblijfsobject"@nl .
+
+cbs:Verblijfsvergunning_voor_bepaalde_tijd a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verblijfsvergunning voor bepaalde tijd"@nl .
+
+cbs:Verdachte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verdachte"@nl .
+
+cbs:Verhuizing a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verhuizing"@nl .
+
+cbs:Verkeersdode a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verkeersdode"@nl .
+
+cbs:Verkeersindex a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verkeersindex"@nl .
+
+cbs:Verkrijging_Nederlanderschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verkrijging Nederlanderschap"@nl .
+
+cbs:Verlies_Nederlanderschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verlies Nederlanderschap"@nl .
+
+cbs:Verloskundige a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verloskundige"@nl .
+
+cbs:Vermogen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vermogen"@nl .
+
+cbs:Verpleeghuis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verpleeghuis"@nl .
+
+cbs:Verrichting a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verrichting"@nl .
+
+cbs:Vertrouwensindex a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vertrouwensindex"@nl .
+
+cbs:Vertrouwensindicator a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vertrouwensindicator"@nl .
+
+cbs:Verwachte_productie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verwachte productie"@nl .
+
+cbs:Verweduwende_persoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verweduwende persoon"@nl .
+
+cbs:Verweduwing a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verweduwing"@nl .
+
+cbs:Verzorgingshuis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verzorgingshuis"@nl .
+
+cbs:Verzuimduur_ziekteverzuim a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Verzuimduur ziekteverzuim"@nl .
+
+cbs:Vliegtuigbeweging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vliegtuigbeweging"@nl .
+
+cbs:Vliegveld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vliegveld"@nl .
+
+cbs:Vmbo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vmbo"@nl .
+
+cbs:Volksverzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Volksverzekering"@nl .
+
+cbs:Volwasseneneducatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Volwasseneneducatie"@nl .
+
+cbs:Voorbereidend_wetenschappelijk_onderwijs_vwo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voorbereidend wetenschappelijk onderwijs (vwo)"@nl .
+
+cbs:Voornaamste_inkomensbron a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voornaamste inkomensbron"@nl .
+
+cbs:Voorraad a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voorraad"@nl .
+
+cbs:Voortgezet_onderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voortgezet onderwijs"@nl .
+
+cbs:Voortgezet_onderwijs_examengegevens a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voortgezet onderwijs examengegevens"@nl .
+
+cbs:Voortgezet_speciaal_onderwijs_vso a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voortgezet speciaal onderwijs (vso)"@nl .
+
+cbs:Voortijdig_schoolverlater_vsv a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Voortijdig schoolverlater (vsv)"@nl .
+
+<https://portal.odissei-data.nl/metadata/cbs/keywords/Vorderingenoverschot/tekort> a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vorderingenoverschot/tekort"@nl .
+
+cbs:Vraagprijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Vraagprijs"@nl .
+
+cbs:WAO a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "WAO"@nl .
+
+cbs:WAZ a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "WAZ"@nl .
+
+cbs:WIA a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "WIA"@nl .
+
+cbs:Waarde_onroerende_zaken_WOZ a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Waarde onroerende zaken (WOZ)"@nl .
+
+cbs:Waardering_in_constante_prijzen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Waardering in constante prijzen"@nl .
+
+cbs:Waardering_in_lopende_prijzen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Waardering in lopende prijzen"@nl .
+
+cbs:Wachtgeld a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wachtgeld"@nl .
+
+cbs:Wajong a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wajong"@nl .
+
+cbs:Water a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Water"@nl .
+
+cbs:Waterschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Waterschap"@nl .
+
+cbs:Wegvervoer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wegvervoer"@nl .
+
+cbs:Welzijnszorg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Welzijnszorg"@nl .
+
+cbs:Werkgelegenheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkgelegenheid"@nl .
+
+cbs:Werkloosheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkloosheid"@nl .
+
+cbs:Werkloosheidsuitkering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkloosheidsuitkering"@nl .
+
+cbs:Werkloosheidswet_WW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkloosheidswet (WW)"@nl .
+
+cbs:Werknemer a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werknemer"@nl .
+
+cbs:Werknemersverzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werknemersverzekering"@nl .
+
+cbs:Werkonderbreking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkonderbreking"@nl .
+
+cbs:Werkstaking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkstaking"@nl .
+
+cbs:Werkzame_beroepsbevolking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkzame beroepsbevolking"@nl .
+
+cbs:Werkzame_persoon a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Werkzame persoon"@nl .
+
+cbs:Wet_Langdurige_Zorg_Wlz a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Langdurige Zorg (Wlz)"@nl .
+
+cbs:Wet_Maatschappelijke_Ondersteuning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Maatschappelijke Ondersteuning"@nl .
+
+cbs:Wet_Maatschappelijke_Ondersteuning_2015 a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Maatschappelijke Ondersteuning 2015"@nl .
+
+cbs:Wet_Maatschappelijke_Ondersteuning_WMO a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Maatschappelijke Ondersteuning (WMO)"@nl .
+
+cbs:Wet_Maatschappelijke_Ondersteuning_WMO_2015 a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Maatschappelijke Ondersteuning (WMO) 2015"@nl .
+
+cbs:Wet_Studiefinanciering_WSF a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet Studiefinanciering (WSF)"@nl .
+
+cbs:Wet_langdurige_zorg_Wlz a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet langdurige zorg (Wlz)"@nl .
+
+cbs:Wet_op_de_Jeugdzorg_2005 a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wet op de Jeugdzorg (2005)"@nl .
+
+cbs:Wetenschappelijk_onderwijs a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wetenschappelijk onderwijs"@nl .
+
+cbs:Wettelijke_vastgestelde_bevolking a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wettelijke vastgestelde bevolking"@nl .
+
+cbs:Wijk a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wijk"@nl .
+
+cbs:Wijkverpleging a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wijkverpleging"@nl .
+
+cbs:Winst a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Winst"@nl .
+
+cbs:Winst_uit_onderneming a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Winst uit onderneming"@nl .
+
+cbs:Witte_vlieg a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Witte vlieg"@nl .
+
+cbs:Wmo a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wmo"@nl .
+
+cbs:Wolluis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wolluis"@nl .
+
+cbs:Woning a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woning"@nl .
+
+cbs:Woning_WOZ a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woning (WOZ)"@nl .
+
+cbs:Woning_bouwtechnisch a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woning (bouwtechnisch)"@nl .
+
+cbs:Woningcorporatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woningcorporatie"@nl .
+
+cbs:Woningtypering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woningtypering"@nl .
+
+cbs:Wooneenheid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Wooneenheid"@nl .
+
+cbs:Woonplaats a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woonplaats"@nl .
+
+cbs:Woonruimte a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woonruimte"@nl .
+
+cbs:Woonsituatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Woonsituatie"@nl .
+
+cbs:Zakelijke a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zakelijke"@nl .
+
+cbs:Zeggenschap a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zeggenschap"@nl .
+
+cbs:Zelfdoding a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zelfdoding"@nl .
+
+cbs:Zelfstandige a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zelfstandige"@nl .
+
+cbs:Zelfstandigen a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zelfstandigen"@nl .
+
+cbs:Ziekenfondswet_ZFW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ziekenfondswet (ZFW)"@nl .
+
+cbs:Ziekenhuis a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ziekenhuis"@nl .
+
+cbs:Ziekenhuisopname a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ziekenhuisopname"@nl .
+
+cbs:Ziekteverzuimpercentage a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ziekteverzuimpercentage"@nl .
+
+cbs:Ziektewet_ZW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Ziektewet (ZW)"@nl .
+
+cbs:Zintuiglijk_gehandicapten a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zintuiglijk gehandicapten"@nl .
+
+cbs:Zorgepisode a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zorgepisode"@nl .
+
+cbs:Zorggebruik a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zorggebruik"@nl .
+
+cbs:Zorguitgaven a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zorguitgaven"@nl .
+
+cbs:Zorgverzekering a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zorgverzekering"@nl .
+
+cbs:Zorgverzekeringswet_ZVW a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zorgverzekeringswet (ZVW)"@nl .
+
+cbs:Zuiveringsinstallatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zuiveringsinstallatie"@nl .
+
+cbs:Zuiveringsslib a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zuiveringsslib"@nl .
+
+cbs:Zwartwerken a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zwartwerken"@nl .
+
+cbs:Zwembaden a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "Zwembaden"@nl .
+
+cbs:arbeidsmarktpositie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "arbeidsmarktpositie"@nl .
+
+cbs:arbeidsmarktpositie_overige_arbeid a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "arbeidsmarktpositie, overige arbeid"@nl .
+
+cbs:centrale_eindtoets a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "centrale eindtoets"@nl .
+
+cbs:informatie a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "informatie"@nl .
+
+cbs:voornaamste_inkomensbron a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "voornaamste inkomensbron"@nl .
+
+cbs:zorgaanbieders a skos:Concept ;
+    skos:inScheme cbs: ;
+    skos:prefLabel "zorgaanbieders"@nl .
+
+cbs: a skos:ConceptScheme ;
+    rdfs:label "Virtual taxonomy created from CBS microdata 'trefwoorden' used for linking to other thesauri"@nl .
+
