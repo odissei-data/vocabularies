@@ -1,0 +1,22 @@
+version: '3.5'
+
+services:
+  amalgame:
+    container_name: amalgame
+    image: jrvosse/amalgame
+    restart: unless-stopped
+    volumes:
+      - ./:/opt/project
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.amalgame.rule=Host(`amalgame.odissei.nl`)"
+      - "traefik.http.routers.amalgame.tls.certresolver=myresolver"
+      - "traefik.http.services.amalgame.loadbalancer.server.port=3020"
+      - "traefik.http.routers.amalgame.entrypoints=https"
+    networks:
+      - traefik-public
+
+networks:
+  traefik-public:
+    external: true
+
