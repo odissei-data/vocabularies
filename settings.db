@@ -1,5 +1,5 @@
 ﻿/*  Saved settings
-    Date: Tue Nov 30 13:00:45 2021
+    Date: Tue Dec 14 22:14:30 2021
 */
 
 
@@ -8,3 +8,9 @@ setting(jquery:version, '2.1.3.min').
 
 %	Default namespace to use on alignment results. Can be changed later.
 setting(amalgame:default_publish_namespace, 'https://portal.odissei-data.nl/metadata/align/').
+
+%	When true the local version of YUI is used, when false (default) the normal YUI website is used.
+setting(yui3_conf:local, true).
+
+%	remote YUI version to use (e.g. when local=false)
+setting(yui3_conf:version, '3.18.1').
