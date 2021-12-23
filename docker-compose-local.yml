@@ -3,6 +3,8 @@ services:
     container_name: amalgame
     image: jrvosse/amalgame
     restart: unless-stopped
+    ports:
+      - 3020:3020
     volumes:
       - ./:/opt/project
 
