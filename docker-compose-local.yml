@@ -1,0 +1,8 @@
+services:
+  amalgame:
+    container_name: amalgame
+    image: jrvosse/amalgame
+    restart: unless-stopped
+    volumes:
+      - ./:/opt/project
+
