@@ -1,0 +1,82 @@
+@prefix begrippen: <https://vocabs.cbs.nl/def/begrippen/> .
+@prefix id: <https://taxonomie.cbs.nl/vocab/id/> .
+@prefix keywords: <https://portal.odissei-data.nl/metadata/cbs/keywords/> .
+@prefix align: <https://portal.odissei-data.nl/metadata/align/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix core: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix amalgame: <http://purl.org/vocabularies/amalgame#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix version: <http://localhost/ns/amalgame/version/> .
+@prefix user: </user/> .
+
+user:jrvosse a prov:Person .
+user:jrvosse rdfs:label "Jacco van Ossenbruggen" .
+
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c a prov:SoftwareAgent .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "ClioPatria" ; doap:revision "V3.1.1-45-g59c3df5-DIRTY" ; rdfs:seeAlso "file:///Users/jrvosse/gits/ClioPatria" ,
+                                                                                                                                                        "http://cliopatria.swi-prolog.org/" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "https://portal.odissei-data.nl/metadata/cbs/keywords/" ; doap:revision "V0.0.1-1-g07ef899" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cbs" ,
+                                                                                                                                                                                            "https://portal.odissei-data.nl/metadata/cbs/keywords/" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "https://vocabs.cbs.nl/def/begrippen/scheme" ; doap:revision "V0.0.1-1-g07ef899" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cbs" ,
+                                                                                                                                                                                 "https://vocabs.cbs.nl/def/begrippen/scheme" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "https://taxonomie.cbs.nl/vocab" ; doap:revision "V0.0.1-1-g07ef899" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cbs" ,
+                                                                                                                                                                     "https://taxonomie.cbs.nl/vocab" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "find_resource" ; doap:revision "b9d5496" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/find_resource" ,
+                                                                                                                                          "https://cliopatria.swi-prolog.org/packs/find_resource" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "skos" ; doap:revision "36e3c3d" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/skos" ,
+                                                                                                                                 "https://cliopatria.swi-prolog.org/packs/skos" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "autocompletion" ; doap:revision "235d3e2" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/autocompletion" ,
+                                                                                                                                           "https://cliopatria.swi-prolog.org/packs/autocompletion" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "prov" ; doap:revision "4fe1cb2" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/prov" ,
+                                                                                                                                 "https://cliopatria.swi-prolog.org/packs/prov" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "yui3" ; doap:revision "3c0a7da" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/yui3" ,
+                                                                                                                                 "https://cliopatria.swi-prolog.org/packs/yui3" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "skos_browser" ; doap:revision "7de21d9" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/skos_browser" ,
+                                                                                                                                         "https://cliopatria.swi-prolog.org/packs/skos_browser" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "statistics" ; doap:revision "283c62c" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/statistics" ,
+                                                                                                                                       "https://cliopatria.swi-prolog.org/packs/statistics" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "void" ; doap:revision "81ef5d1" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/void" ,
+                                                                                                                                 "https://cliopatria.swi-prolog.org/packs/void" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:component [ doap:name "amalgame" ; doap:revision "V1.0.0-117-g760bfb0-DIRTY" ; rdfs:seeAlso "file:///Users/jrvosse/gits/odissei/vocabularies/cpack/amalgame" ,
+                                                                                                                                                       "https://cliopatria.swi-prolog.org/packs/amalgame" ] .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:cwd <file:///Users/jrvosse/gits/odissei/vocabularies/> .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c amalgame:host "jaccos-mbp-2.clients.vu.nl" .
+version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c rdfs:label "Amalgame alignment platform"@en .
+
+align:manual_reference_alignment1 terms:title "Evaluation results"@en .
+
+align:manual_reference_alignment1_flat_triples a amalgame:ExportedAlignment .
+align:manual_reference_alignment1_flat_triples a prov:Entity .
+align:manual_reference_alignment1_flat_triples prov:wasDerivedFrom align:manual_reference_alignment1 .
+align:manual_reference_alignment1_flat_triples prov:wasGeneratedBy [ a prov:Activity ; prov:endedAtTime "2023-03-23T15:45:29+00:00"^^xsd:dateTime ; prov:qualifiedAssociation _:bn_7843003_0 ,
+                                                                                                                                                                              _:bn_4083469_0 ; prov:used align:manual_reference_alignment1 ; prov:wasAssociatedWith user:jrvosse ,
+                                                                                                                                                                                                                                                                    version:xe06b1e663d8c2f84d9cbe570c2def8cec61ecf0c ] .
+
+keywords:Arbeidskracht core:closeMatch id:43 .
+
+keywords:Buitenlandse_rechtspersoon core:broadMatch begrippen:1652 .
+keywords:Buitenlandse_rechtspersoon core:exactMatch begrippen:1462 .
+
+keywords:Collectieve_consumptie core:narrowMatch begrippen:591 .
+
+keywords:Collectieve_consumptie_door_de_overheid core:exactMatch begrippen:591 .
+
+keywords:Echtscheiding core:closeMatch id:3252 .
+
+keywords:Huwelijksontbinding core:closeMatch id:3252 .
+
+keywords:Psychiaters core:relatedMatch id:1535 .
+
+keywords:Psychiatrisch_ziekenhuis core:closeMatch id:1535 .
+
+keywords:Vakbeweging core:closeMatch id:15 .
+
+keywords:Vakcentrale core:closeMatch id:15 .
+
+keywords:Vakvereniging core:closeMatch id:15 .
+
+keywords:Werknemer core:closeMatch id:43 .

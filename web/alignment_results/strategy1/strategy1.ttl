@@ -1,0 +1,142 @@
+@prefix begrippen: <https://vocabs.cbs.nl/def/begrippen/> .
+@prefix nl: <https://taxonomie.cbs.nl/> .
+@prefix keywords: <https://portal.odissei-data.nl/metadata/cbs/keywords/> .
+@prefix align: <https://portal.odissei-data.nl/metadata/align/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix core: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix amalgame: <http://purl.org/vocabularies/amalgame#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix ns2: <http://localhost:3020/user/> .
+@prefix ns1: </user/> .
+
+ns1:jrvosse rdfs:label <Jacco%20van%20Ossenbruggen> .
+
+ns2:jrvosse rdfs:label <Jacco%20van%20Ossenbruggen> .
+
+align:dataset1 a amalgame:Mapping .
+align:dataset1 amalgame:nickname "A" .
+align:dataset1 amalgame:status amalgame:final .
+align:dataset1 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator ns2:jrvosse ; terms:date "2023-03-23T14:51:54+00:00"^^xsd:dateTime ; amalgame:nickname "?" ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&source_language=nl&matchacross_lang=true&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source keywords: ; amalgame:status amalgame:final ; amalgame:target nl:vocab ; rdfs:label "pref/pref" ] .
+align:dataset1 rdfs:comment "These are assumed to be ok" .
+align:dataset1 rdfs:label "pref/pref tax matches" .
+
+align:dataset10 a amalgame:Mapping .
+align:dataset10 amalgame:nickname "K" .
+align:dataset10 amalgame:selectedBy _:bn_14549949_0 .
+align:dataset10 amalgame:status amalgame:final .
+align:dataset10 rdfs:label "uniq concept mappings" .
+
+align:dataset11 a amalgame:Mapping .
+align:dataset11 amalgame:discardedBy _:bn_14549949_0 .
+align:dataset11 amalgame:nickname "L" .
+align:dataset11 amalgame:status amalgame:intermediate .
+align:dataset11 rdfs:comment "ambiguous, use evaluated mappings instead" .
+align:dataset11 rdfs:label "dataset11" .
+
+align:dataset12 a amalgame:Mapping .
+align:dataset12 amalgame:nickname "M" .
+align:dataset12 amalgame:status amalgame:intermediate .
+align:dataset12 amalgame:undecidedBy _:bn_14549949_0 .
+
+align:dataset2 a amalgame:Mapping .
+align:dataset2 amalgame:nickname "B" .
+align:dataset2 amalgame:status amalgame:intermediate .
+align:dataset2 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator ns2:jrvosse ; terms:date "2023-03-23T15:28:55+00:00"^^xsd:dateTime ; amalgame:parameters "sourcelabel=http%3A//www.w3.org/2004/02/skos/core%23prefLabel&targetlabel=http%3A//www.w3.org/2004/02/skos/core%23altLabel&source_language=nl&matchacross_lang=true&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source keywords: ; amalgame:target nl:vocab ; rdfs:label "label/exact"@en ] .
+align:dataset2 rdfs:label "pref/alt tax matches" .
+
+align:dataset3 a amalgame:Mapping .
+align:dataset3 amalgame:nickname "C" .
+align:dataset3 amalgame:selectedBy _:bn_1707635_0 .
+align:dataset3 amalgame:status amalgame:final .
+align:dataset3 rdfs:label "pref/alt uniq tax matches" .
+
+align:dataset4 a amalgame:Mapping .
+align:dataset4 amalgame:discardedBy _:bn_1707635_0 .
+align:dataset4 amalgame:nickname "D" .
+align:dataset4 amalgame:status amalgame:intermediate .
+align:dataset4 rdfs:comment "use evaluation results instead" .
+align:dataset4 rdfs:label "pref/alt n-m alt matches" .
+
+align:dataset5 a amalgame:Mapping .
+align:dataset5 amalgame:nickname "E" .
+align:dataset5 amalgame:status amalgame:intermediate .
+align:dataset5 amalgame:undecidedBy _:bn_1707635_0 .
+
+align:dataset6 a amalgame:VirtualConceptScheme .
+align:dataset6 amalgame:nickname "?" .
+align:dataset6 amalgame:selectedBy _:bn_15543347_0 .
+align:dataset6 amalgame:status amalgame:intermediate .
+align:dataset6 rdfs:label "not mapped to taxonomy" .
+
+align:dataset7 a amalgame:VirtualConceptScheme .
+align:dataset7 amalgame:discardedBy _:bn_15543347_0 .
+align:dataset7 amalgame:nickname "?" .
+align:dataset7 amalgame:status amalgame:intermediate .
+align:dataset7 rdfs:label "already mapped" .
+
+align:dataset8 a amalgame:VirtualConceptScheme .
+align:dataset8 amalgame:nickname "I" .
+align:dataset8 amalgame:status amalgame:intermediate .
+align:dataset8 amalgame:undecidedBy _:bn_15543347_0 .
+
+align:dataset9 a amalgame:Mapping .
+align:dataset9 amalgame:nickname "J" .
+align:dataset9 amalgame:status amalgame:intermediate .
+align:dataset9 amalgame:wasGeneratedBy [ a amalgame:ExactLabelMatcher ; terms:creator ns1:jrvosse ; terms:date "2023-03-23T15:38:54+00:00"^^xsd:dateTime ; amalgame:parameters "sourcelabel=http%3A//purl.org/vocabularies/amalgame%23label&targetlabel=http%3A//purl.org/vocabularies/amalgame%23label&source_language=nl&matchacross_lang=true&matchacross_type=true&case_sensitive=false&match_qualified_only=false" ; amalgame:source align:dataset6 ; amalgame:target begrippen:scheme ; rdfs:label "label/exact"@en ] .
+
+align:manual_evaluation_process1 a amalgame:EvaluationProcess .
+align:manual_evaluation_process1 amalgame:input align:strategy1 .
+align:manual_evaluation_process1 rdfs:label "Manual evaluation process"@en .
+
+align:manual_reference_alignment1 a amalgame:EvaluatedMapping .
+align:manual_reference_alignment1 amalgame:evaluationOf align:strategy1 .
+align:manual_reference_alignment1 amalgame:nickname "F" .
+align:manual_reference_alignment1 amalgame:status amalgame:reference .
+align:manual_reference_alignment1 amalgame:wasGeneratedBy align:manual_evaluation_process1 .
+align:manual_reference_alignment1 rdfs:comment "Manual evaluation of mappings from 'https://portal.odissei-data.nl/metadata/align/strategy1'"@en .
+align:manual_reference_alignment1 rdfs:label "Evaluation results"@en .
+
+align:strategy1 a amalgame:AlignmentStrategy .
+align:strategy1 a prov:Plan .
+align:strategy1 terms:creator ns2:jrvosse .
+align:strategy1 terms:date "2023-03-23T14:50:42+00:00"^^xsd:dateTime .
+align:strategy1 amalgame:includes keywords: .
+align:strategy1 amalgame:includes nl:vocab .
+align:strategy1 amalgame:includes begrippen:scheme .
+align:strategy1 amalgame:nickname "?" .
+align:strategy1 amalgame:publish_ns align: .
+align:strategy1 rdfs:comment "New strategy" .
+align:strategy1 rdfs:label "cbs mappings" .
+
+keywords: a core:ConceptScheme .
+
+nl:vocab a core:ConceptScheme .
+
+begrippen:scheme a core:ConceptScheme .
+
+_:bn_1707635_0 a amalgame:AritySelect .
+_:bn_1707635_0 terms:creator ns1:jrvosse .
+_:bn_1707635_0 terms:date "2023-03-23T15:30:10+00:00"^^xsd:dateTime .
+_:bn_1707635_0 amalgame:input align:dataset2 .
+_:bn_1707635_0 amalgame:parameters "lastAction=select" .
+_:bn_1707635_0 rdfs:label "ambiguity/remove"@en .
+
+_:bn_15543347_0 a amalgame:VocExclude .
+_:bn_15543347_0 terms:creator ns1:jrvosse .
+_:bn_15543347_0 terms:date "2023-03-23T15:37:38+00:00"^^xsd:dateTime .
+_:bn_15543347_0 amalgame:input keywords: .
+_:bn_15543347_0 amalgame:parameters "lastAction=secinput&type=source&mode=select" .
+_:bn_15543347_0 amalgame:secondary_input align:dataset1 .
+_:bn_15543347_0 amalgame:secondary_input align:dataset3 .
+_:bn_15543347_0 amalgame:secondary_input align:manual_reference_alignment1 .
+_:bn_15543347_0 rdfs:label "partition mapped/unmapped"@en .
+
+_:bn_14549949_0 a amalgame:AritySelect .
+_:bn_14549949_0 terms:creator ns1:jrvosse .
+_:bn_14549949_0 terms:date "2023-03-23T15:39:55+00:00"^^xsd:dateTime .
+_:bn_14549949_0 amalgame:input align:dataset9 .
+_:bn_14549949_0 amalgame:parameters "lastAction=select" .
+_:bn_14549949_0 rdfs:label "ambiguity/remove"@en .

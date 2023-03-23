@@ -1,0 +1,1254 @@
+@prefix keywords: <https://portal.odissei-data.nl/metadata/cbs/keywords/> .
+@prefix core: <http://www.w3.org/2004/02/skos/core#> .
+
+keywords:AKW core:inScheme keywords: .
+
+keywords:Aaltjesbestrijding core:inScheme keywords: .
+
+keywords:Aangifte_Belastingdienst core:inScheme keywords: .
+
+keywords:Aangifte_juridisch core:inScheme keywords: .
+
+keywords:Aardgas core:inScheme keywords: .
+
+keywords:Aardgas_elektriciteit_particuliere_woningen core:inScheme keywords: .
+
+keywords:Accountancy core:inScheme keywords: .
+
+keywords:Activa core:inScheme keywords: .
+
+keywords:Administratieve_correctie core:inScheme keywords: .
+
+keywords:Adoptie_gewone_- core:inScheme keywords: .
+
+keywords:Adres core:inScheme keywords: .
+
+keywords:Adresbewoning core:inScheme keywords: .
+
+keywords:Afschrijvingen_op_vaste_activa core:inScheme keywords: .
+
+keywords:Afval core:inScheme keywords: .
+
+keywords:Afvalbeheer core:inScheme keywords: .
+
+keywords:Afvalstoffen core:inScheme keywords: .
+
+keywords:Afvalverwerking core:inScheme keywords: .
+
+keywords:Afvalwater core:inScheme keywords: .
+
+keywords:Agrarisch core:inScheme keywords: .
+
+keywords:Algemeen_Bedrijven_Register_ABR core:inScheme keywords: .
+
+keywords:Algemene_kinderbijslagwet core:inScheme keywords: .
+
+keywords:Algemene_nabestaandenwet_ANW core:inScheme keywords: .
+
+keywords:Algemene_ouderdomswet_AOW core:inScheme keywords: .
+
+keywords:Algemene_wet_bijzondere_ziektekosten_AWBZ core:inScheme keywords: .
+
+keywords:Alleenstaande_minderjarige_vreemdeling_AMV core:inScheme keywords: .
+
+keywords:Ambulance core:inScheme keywords: .
+
+keywords:Arbeid core:inScheme keywords: .
+
+keywords:Arbeidsjaar core:inScheme keywords: .
+
+keywords:Arbeidskosten_ako core:inScheme keywords: .
+
+keywords:Arbeidskracht core:inScheme keywords: .
+
+keywords:Arbeidsmarktpositie core:inScheme keywords: .
+
+keywords:Arbeidsmobiliteit core:inScheme keywords: .
+
+keywords:Arbeidsongeschiktheidsuitkering core:inScheme keywords: .
+
+keywords:Arbeidsongeschiktheidswetten core:inScheme keywords: .
+
+keywords:Arbeidsparticipatie core:inScheme keywords: .
+
+keywords:Arbeidsproductiviteit core:inScheme keywords: .
+
+keywords:Arbeidsproductiviteitsontwikkeling core:inScheme keywords: .
+
+keywords:Arbeidsvolume core:inScheme keywords: .
+
+keywords:Arbo core:inScheme keywords: .
+
+keywords:Armoede core:inScheme keywords: .
+
+keywords:Arts core:inScheme keywords: .
+
+keywords:Asielverzoek core:inScheme keywords: .
+
+keywords:Autodiesel core:inScheme keywords: .
+
+keywords:Autogas_lpg core:inScheme keywords: .
+
+keywords:Autohandel core:inScheme keywords: .
+
+keywords:BAG core:inScheme keywords: .
+
+keywords:BIG-register core:inScheme keywords: .
+
+keywords:Baan core:inScheme keywords: .
+
+keywords:Baanverlies core:inScheme keywords: .
+
+keywords:Bachelorsdiploma core:inScheme keywords: .
+
+keywords:Balans core:inScheme keywords: .
+
+keywords:Banen core:inScheme keywords: .
+
+keywords:Banken core:inScheme keywords: .
+
+keywords:Bankwezen core:inScheme keywords: .
+
+keywords:Basisonderwijs core:inScheme keywords: .
+
+keywords:Bedden core:inScheme keywords: .
+
+keywords:Bedrijf core:inScheme keywords: .
+
+keywords:Bedrijfsafvalstoffen core:inScheme keywords: .
+
+keywords:Bedrijfseenheid_BE core:inScheme keywords: .
+
+keywords:Bedrijfsongeval core:inScheme keywords: .
+
+keywords:Bedrijfsopheffingen core:inScheme keywords: .
+
+keywords:Bedrijfsopleiding core:inScheme keywords: .
+
+keywords:Bedrijfsoprichtingen core:inScheme keywords: .
+
+keywords:Bedrijfssubklasse core:inScheme keywords: .
+
+keywords:Bedrijven core:inScheme keywords: .
+
+keywords:Bedrijven_en_Instellingen core:inScheme keywords: .
+
+keywords:Belastingen core:inScheme keywords: .
+
+keywords:Beleidsinformatie_Jeugd core:inScheme keywords: .
+
+keywords:Beleidsterrein core:inScheme keywords: .
+
+keywords:Beleidsterrein_overheidsfinanciën core:inScheme keywords: .
+
+keywords:Beloning_van_werknemers core:inScheme keywords: .
+
+keywords:Benzine core:inScheme keywords: .
+
+keywords:Beroep_arbeid core:inScheme keywords: .
+
+keywords:Beroepsbevolking core:inScheme keywords: .
+
+keywords:Beroepsgroep core:inScheme keywords: .
+
+keywords:Bestedingen core:inScheme keywords: .
+
+keywords:Bestrijdingsmiddelen core:inScheme keywords: .
+
+keywords:Betaalde_arbeidsduur_NR core:inScheme keywords: .
+
+keywords:Bevolking core:inScheme keywords: .
+
+keywords:Bibliotheek core:inScheme keywords: .
+
+keywords:Bijstand core:inScheme keywords: .
+
+keywords:Bijstandsfraude core:inScheme keywords: .
+
+keywords:Bijstandsschuld core:inScheme keywords: .
+
+keywords:Bijstandsvordering core:inScheme keywords: .
+
+keywords:Bijzonder_woongebouw core:inScheme keywords: .
+
+keywords:Binnenvloot_actieve core:inScheme keywords: .
+
+keywords:Biologische_bestrijding core:inScheme keywords: .
+
+keywords:Bladluis core:inScheme keywords: .
+
+keywords:Bosbouw core:inScheme keywords: .
+
+keywords:Bouw core:inScheme keywords: .
+
+keywords:Bouwkosten core:inScheme keywords: .
+
+keywords:Bouwnijverheid core:inScheme keywords: .
+
+keywords:Bouwvergunning core:inScheme keywords: .
+
+keywords:Branche core:inScheme keywords: .
+
+keywords:Brandweer core:inScheme keywords: .
+
+keywords:Brandweer_beroepspersoneel_- core:inScheme keywords: .
+
+keywords:Brandweer_operationeel_personeel_- core:inScheme keywords: .
+
+keywords:Brandweer_vrijwillig_personeel_- core:inScheme keywords: .
+
+keywords:Brandweerregio core:inScheme keywords: .
+
+keywords:Brutoloon_sociale_verzekeringen_blsv core:inScheme keywords: .
+
+keywords:Buitenlander core:inScheme keywords: .
+
+keywords:Buitenlandse_onderneming core:inScheme keywords: .
+
+keywords:Buitenlandse_rechtspersoon core:inScheme keywords: .
+
+keywords:Buitenlandse_werknemer core:inScheme keywords: .
+
+keywords:Buitenschoolse_opvang core:inScheme keywords: .
+
+keywords:Bureau_Jeugdzorg core:inScheme keywords: .
+
+keywords:Burgerlijke_staat core:inScheme keywords: .
+
+keywords:Burn-out_klachten core:inScheme keywords: .
+
+keywords:Buurt core:inScheme keywords: .
+
+keywords:CAO-loon core:inScheme keywords: .
+
+keywords:CAO-sector core:inScheme keywords: .
+
+keywords:CAO-sector_gesubsidieerde_instellingen core:inScheme keywords: .
+
+keywords:CAO-sector_overheid core:inScheme keywords: .
+
+keywords:CAO-sector_particuliere_bedrijven core:inScheme keywords: .
+
+keywords:CITO core:inScheme keywords: .
+
+keywords:COEN core:inScheme keywords: .
+
+keywords:Camping core:inScheme keywords: .
+
+keywords:Capaciteit core:inScheme keywords: .
+
+keywords:Caribisch_Nederland core:inScheme keywords: .
+
+keywords:Centrale_eindtoets core:inScheme keywords: .
+
+keywords:Chemische_gewasbescherming core:inScheme keywords: .
+
+keywords:Chemische_gewasbeschermingsmiddelen core:inScheme keywords: .
+
+keywords:Collectieve_arbeidsovereenkomst_CAO core:inScheme keywords: .
+
+keywords:Collectieve_consumptie core:inScheme keywords: .
+
+keywords:Collectieve_consumptie_door_de_overheid core:inScheme keywords: .
+
+keywords:Commercieel core:inScheme keywords: .
+
+keywords:Commerciële_dienstverlening core:inScheme keywords: .
+
+keywords:Commerciële_verhuur core:inScheme keywords: .
+
+keywords:Communicatie core:inScheme keywords: .
+
+keywords:Concern core:inScheme keywords: .
+
+keywords:Conjunctuurenquête_Nederland core:inScheme keywords: .
+
+keywords:Conjunctuurtest core:inScheme keywords: .
+
+keywords:Consumentenartikel core:inScheme keywords: .
+
+keywords:Consumentenprijsindex_CPI core:inScheme keywords: .
+
+keywords:Consumptie_door_de_overheid core:inScheme keywords: .
+
+keywords:Contact core:inScheme keywords: .
+
+keywords:Coördinaat core:inScheme keywords: .
+
+keywords:Criminaliteit_algemeen core:inScheme keywords: .
+
+keywords:Crèche core:inScheme keywords: .
+
+keywords:Cultuur core:inScheme keywords: .
+
+keywords:Decentrale_overheid core:inScheme keywords: .
+
+keywords:Deelcertificaat core:inScheme keywords: .
+
+keywords:Deeltijdfactor core:inScheme keywords: .
+
+keywords:Delfstoffenwinning core:inScheme keywords: .
+
+keywords:Delict core:inScheme keywords: .
+
+keywords:Detailhandel core:inScheme keywords: .
+
+keywords:Detentie core:inScheme keywords: .
+
+keywords:Diagnose core:inScheme keywords: .
+
+keywords:Diagnose_Behandeling_Combinatie_DBC core:inScheme keywords: .
+
+keywords:Diagnosecode_ICPC core:inScheme keywords: .
+
+keywords:Diensten core:inScheme keywords: .
+
+keywords:Dienstenprijsindex core:inScheme keywords: .
+
+keywords:Dienstverband core:inScheme keywords: .
+
+keywords:Dienstverlening core:inScheme keywords: .
+
+keywords:Diploma core:inScheme keywords: .
+
+keywords:Diploma_vavo core:inScheme keywords: .
+
+keywords:Donor core:inScheme keywords: .
+
+keywords:Doodgeborene core:inScheme keywords: .
+
+keywords:Doodsoorzaak core:inScheme keywords: .
+
+keywords:Doodsoorzaakverklaring core:inScheme keywords: .
+
+keywords:Dopluis core:inScheme keywords: .
+
+keywords:Douane core:inScheme keywords: .
+
+keywords:Duur_niet_werkzaam core:inScheme keywords: .
+
+keywords:Duur_werkzaam core:inScheme keywords: .
+
+keywords:Duurzaam_consumptiegoed core:inScheme keywords: .
+
+keywords:Echtscheiding core:inScheme keywords: .
+
+keywords:Economische_activiteit core:inScheme keywords: .
+
+keywords:Economische_categorie_overheidsfinanciën core:inScheme keywords: .
+
+keywords:Economische_groei core:inScheme keywords: .
+
+keywords:Economische_zelfstandigheid core:inScheme keywords: .
+
+keywords:Eengezinswoning core:inScheme keywords: .
+
+keywords:Eenmanszaak core:inScheme keywords: .
+
+keywords:Eerstelijnsverblijf core:inScheme keywords: .
+
+keywords:Eerstelijnszorg core:inScheme keywords: .
+
+keywords:Effluent core:inScheme keywords: .
+
+keywords:Eigen_bijdrage core:inScheme keywords: .
+
+keywords:Eigenaar core:inScheme keywords: .
+
+keywords:Einddiploma_ho core:inScheme keywords: .
+
+keywords:Elektriciteit core:inScheme keywords: .
+
+keywords:Elektriciteit_en_warmte core:inScheme keywords: .
+
+keywords:Emigratie core:inScheme keywords: .
+
+keywords:Emissie_milieu core:inScheme keywords: .
+
+keywords:Energie core:inScheme keywords: .
+
+keywords:Energie_IH core:inScheme keywords: .
+
+keywords:Energiedrager core:inScheme keywords: .
+
+keywords:Energielabel core:inScheme keywords: .
+
+keywords:Energieomzetting core:inScheme keywords: .
+
+keywords:Energieverbruik core:inScheme keywords: .
+
+keywords:Europese_Unie_27_landen_EU-27 core:inScheme keywords: .
+
+keywords:Europese_Unie_EU core:inScheme keywords: .
+
+keywords:Faillissement core:inScheme keywords: .
+
+keywords:Familiebedrijf core:inScheme keywords: .
+
+keywords:Financiële_instelling core:inScheme keywords: .
+
+keywords:Financiële_transacties core:inScheme keywords: .
+
+keywords:Fusie core:inScheme keywords: .
+
+keywords:Fysiotherapeut core:inScheme keywords: .
+
+keywords:GBA core:inScheme keywords: .
+
+keywords:GZ_psychologen_en_psychotherapeuten core:inScheme keywords: .
+
+keywords:Geboorte core:inScheme keywords: .
+
+keywords:Geboortegemeente core:inScheme keywords: .
+
+keywords:Gedetineerde core:inScheme keywords: .
+
+keywords:Geestelijke_gezondheidszorg core:inScheme keywords: .
+
+keywords:Gehuwd core:inScheme keywords: .
+
+keywords:Gemeenschappelijke_regeling core:inScheme keywords: .
+
+keywords:Gemeente_juridisch core:inScheme keywords: .
+
+keywords:Gemeente_regionaal core:inScheme keywords: .
+
+keywords:Geneesmiddel core:inScheme keywords: .
+
+keywords:Geregistreerd_partnerschap core:inScheme keywords: .
+
+keywords:Geregistreerde_werkloosheid core:inScheme keywords: .
+
+keywords:Gescheiden core:inScheme keywords: .
+
+keywords:Geslacht core:inScheme keywords: .
+
+keywords:Gesloten_inrichting core:inScheme keywords: .
+
+keywords:Gesloten_jeugdzorg core:inScheme keywords: .
+
+keywords:Gevangenis core:inScheme keywords: .
+
+keywords:Gewasbescherming core:inScheme keywords: .
+
+keywords:Gewasbeschermingsmiddelen core:inScheme keywords: .
+
+keywords:Gewerkte_uren core:inScheme keywords: .
+
+keywords:Gezondheid core:inScheme keywords: .
+
+keywords:Gezondheidszorg core:inScheme keywords: .
+
+keywords:Glastuinbouw core:inScheme keywords: .
+
+keywords:Globalisering_onderneming core:inScheme keywords: .
+
+keywords:Goed core:inScheme keywords: .
+
+keywords:Goederen core:inScheme keywords: .
+
+keywords:Grensarbeider core:inScheme keywords: .
+
+keywords:Groepsaccommodatie core:inScheme keywords: .
+
+keywords:Groothandel core:inScheme keywords: .
+
+keywords:Grootteklasse_bedrijf core:inScheme keywords: .
+
+keywords:Halt-jongere core:inScheme keywords: .
+
+keywords:Halt_Het_Alternatief core:inScheme keywords: .
+
+keywords:Handel core:inScheme keywords: .
+
+keywords:Handelsbalans core:inScheme keywords: .
+
+keywords:Handelsbemiddeling core:inScheme keywords: .
+
+keywords:Handmatige_onkruidbestrijding core:inScheme keywords: .
+
+keywords:Herkomstgroepering core:inScheme keywords: .
+
+keywords:Historische_bibliotheek_archieven core:inScheme keywords: .
+
+keywords:Hoger_beroepsonderwijs core:inScheme keywords: .
+
+keywords:Hoger_onderwijs core:inScheme keywords: .
+
+keywords:Holding core:inScheme keywords: .
+
+keywords:Hoofdbaan core:inScheme keywords: .
+
+keywords:Horeca core:inScheme keywords: .
+
+keywords:Hotel core:inScheme keywords: .
+
+keywords:Huisarts core:inScheme keywords: .
+
+keywords:Huisartsenzorg core:inScheme keywords: .
+
+keywords:Huisartspraktijk core:inScheme keywords: .
+
+keywords:Huiselijk_geweld core:inScheme keywords: .
+
+keywords:Huishouden core:inScheme keywords: .
+
+keywords:Huisjes core:inScheme keywords: .
+
+keywords:Huisvestingskosten core:inScheme keywords: .
+
+keywords:Huizenprijzen core:inScheme keywords: .
+
+keywords:Huurharmonisatie core:inScheme keywords: .
+
+keywords:Huurstijging core:inScheme keywords: .
+
+keywords:Huurwoning core:inScheme keywords: .
+
+keywords:Huwelijk_wettig core:inScheme keywords: .
+
+keywords:Huwelijksontbinding core:inScheme keywords: .
+
+keywords:Huwelijkssluiting core:inScheme keywords: .
+
+keywords:IOW core:inScheme keywords: .
+
+keywords:Immigratie core:inScheme keywords: .
+
+keywords:Industrie core:inScheme keywords: .
+
+keywords:Inflatie core:inScheme keywords: .
+
+keywords:Ingeschreven_patiënten core:inScheme keywords: .
+
+keywords:Ingezetene core:inScheme keywords: .
+
+keywords:Inkomen core:inScheme keywords: .
+
+keywords:Inkomen_arbeid_buitenland core:inScheme keywords: .
+
+keywords:Inkomen_uit_eigen_onderneming core:inScheme keywords: .
+
+keywords:Inkomensverdeling core:inScheme keywords: .
+
+keywords:Inkomensvoorziening core:inScheme keywords: .
+
+keywords:Inkomsten_afvalinzameling core:inScheme keywords: .
+
+keywords:Inkomsten_arbeid_buitenland core:inScheme keywords: .
+
+keywords:Inkomsten_eigen_onderneming core:inScheme keywords: .
+
+keywords:Inkomsten_uit_overige_arbeid core:inScheme keywords: .
+
+keywords:Inkomsten_uit_uitkering_buitenland core:inScheme keywords: .
+
+keywords:Innovatie core:inScheme keywords: .
+
+keywords:Insectenbestrijding core:inScheme keywords: .
+
+keywords:Institutioneel_huishouden core:inScheme keywords: .
+
+keywords:Investeringen core:inScheme keywords: .
+
+keywords:Investeringen_in_materiële_vaste_activa core:inScheme keywords: .
+
+keywords:Investeringen_in_vaste_activa_NR core:inScheme keywords: .
+
+keywords:Invoer_van_diensten core:inScheme keywords: .
+
+keywords:Inwoner core:inScheme keywords: .
+
+keywords:Jacht core:inScheme keywords: .
+
+keywords:Jeugd_en_Opvoedhulp core:inScheme keywords: .
+
+keywords:Jeugdbescherming core:inScheme keywords: .
+
+keywords:Jeugdhulp core:inScheme keywords: .
+
+keywords:Jeugdigen core:inScheme keywords: .
+
+keywords:Jeugdreclassering core:inScheme keywords: .
+
+keywords:Jeugdwet core:inScheme keywords: .
+
+keywords:Jeugdwet_2015 core:inScheme keywords: .
+
+keywords:Jeugdzorg core:inScheme keywords: .
+
+keywords:JeugdzorgPlus core:inScheme keywords: .
+
+keywords:Jongeren core:inScheme keywords: .
+
+keywords:Kaakchirurgen core:inScheme keywords: .
+
+keywords:Kamer core:inScheme keywords: .
+
+keywords:Kapitaalgoederenvoorraad core:inScheme keywords: .
+
+keywords:Kerosine core:inScheme keywords: .
+
+keywords:Kinderbescherming core:inScheme keywords: .
+
+keywords:Kinderdagverblijf core:inScheme keywords: .
+
+keywords:Kindermishandeling core:inScheme keywords: .
+
+keywords:Koopwoning core:inScheme keywords: .
+
+keywords:Kredietinstelling core:inScheme keywords: .
+
+keywords:Lading core:inScheme keywords: .
+
+keywords:Landbouw core:inScheme keywords: .
+
+keywords:Leeftijd core:inScheme keywords: .
+
+keywords:Leegstand core:inScheme keywords: .
+
+keywords:Levendgeborene core:inScheme keywords: .
+
+keywords:Locatie core:inScheme keywords: .
+
+keywords:Logiesaccommodatie core:inScheme keywords: .
+
+keywords:Logiesvorm core:inScheme keywords: .
+
+keywords:Lonen_en_salarissen_NR core:inScheme keywords: .
+
+keywords:Loofdoding core:inScheme keywords: .
+
+keywords:Loon core:inScheme keywords: .
+
+keywords:Loonindexcijfers core:inScheme keywords: .
+
+keywords:Loonkosten core:inScheme keywords: .
+
+keywords:Loonkostensubsidie core:inScheme keywords: .
+
+keywords:Lpg core:inScheme keywords: .
+
+keywords:Luchtemissies core:inScheme keywords: .
+
+keywords:Luchtvaart_-_handelsverkeer core:inScheme keywords: .
+
+keywords:Luchtverontreiniging core:inScheme keywords: .
+
+keywords:Machinale_onkruidbestrijding core:inScheme keywords: .
+
+keywords:Masterdiploma core:inScheme keywords: .
+
+keywords:Mechanische_gewasbescherming core:inScheme keywords: .
+
+keywords:Medicijn core:inScheme keywords: .
+
+keywords:Medisch_beroep core:inScheme keywords: .
+
+keywords:Microbiologische_gewasbeschermingsmiddelen core:inScheme keywords: .
+
+keywords:Middelbaar_beroepsonderwijs_mbo core:inScheme keywords: .
+
+keywords:Migratie core:inScheme keywords: .
+
+keywords:Migratiemotief core:inScheme keywords: .
+
+keywords:Mijten core:inScheme keywords: .
+
+keywords:Milieu core:inScheme keywords: .
+
+keywords:Mineervlieg core:inScheme keywords: .
+
+keywords:Minimumloon core:inScheme keywords: .
+
+keywords:Misdrijf core:inScheme keywords: .
+
+keywords:Monetaire_financiële_instelling_MFI core:inScheme keywords: .
+
+keywords:Museum core:inScheme keywords: .
+
+keywords:Nationale_rekeningen core:inScheme keywords: .
+
+keywords:Nationaliteit core:inScheme keywords: .
+
+keywords:Nationaliteitswijziging core:inScheme keywords: .
+
+keywords:Natuurlijk_persoon core:inScheme keywords: .
+
+keywords:Nederlander core:inScheme keywords: .
+
+keywords:Niet-chemische_bestrijding core:inScheme keywords: .
+
+keywords:Niet-ingezetene core:inScheme keywords: .
+
+keywords:Niet-natuurlijke_dood core:inScheme keywords: .
+
+keywords:Niet-woning core:inScheme keywords: .
+
+keywords:Niet_werkzame_persoon core:inScheme keywords: .
+
+keywords:Nijverheid core:inScheme keywords: .
+
+keywords:Nuts core:inScheme keywords: .
+
+keywords:OM core:inScheme keywords: .
+
+keywords:Oefentherapeuten core:inScheme keywords: .
+
+keywords:Omgevingsadressendichtheid_van_een_adres core:inScheme keywords: .
+
+keywords:Omzet core:inScheme keywords: .
+
+keywords:Omzet_binnenland core:inScheme keywords: .
+
+keywords:Omzet_buitenland core:inScheme keywords: .
+
+keywords:Omzet_netto core:inScheme keywords: .
+
+keywords:Ondernemersvertrouwen core:inScheme keywords: .
+
+keywords:Ondernemingengroep core:inScheme keywords: .
+
+keywords:Onderwijs core:inScheme keywords: .
+
+keywords:Onderwijspersoneel core:inScheme keywords: .
+
+keywords:Onderwijssoort core:inScheme keywords: .
+
+keywords:Ongehuwd core:inScheme keywords: .
+
+keywords:Onkruidbestrijding core:inScheme keywords: .
+
+keywords:Onroerend core:inScheme keywords: .
+
+keywords:Onroerend_goed core:inScheme keywords: .
+
+keywords:Ontbinding_geregistreerd_partnerschap core:inScheme keywords: .
+
+keywords:Ontslag_baanbeëindiging core:inScheme keywords: .
+
+keywords:Ontslagzaak core:inScheme keywords: .
+
+keywords:Ontwikkelingswerk core:inScheme keywords: .
+
+keywords:Onveiligheid core:inScheme keywords: .
+
+keywords:Openbaar_Ministerie_OM core:inScheme keywords: .
+
+keywords:Openstaande_banen core:inScheme keywords: .
+
+keywords:Opheffingen core:inScheme keywords: .
+
+keywords:Opleiding core:inScheme keywords: .
+
+keywords:Opleidingsniveau core:inScheme keywords: .
+
+keywords:Opleidingsrichting core:inScheme keywords: .
+
+keywords:Oprichtingen core:inScheme keywords: .
+
+keywords:Opslag core:inScheme keywords: .
+
+keywords:Orthodontisten core:inScheme keywords: .
+
+keywords:Overdekte_sportaccommodatie core:inScheme keywords: .
+
+keywords:Overeengekomen_uren_NR core:inScheme keywords: .
+
+keywords:Overheid core:inScheme keywords: .
+
+keywords:Overheidsconsumptie core:inScheme keywords: .
+
+keywords:Overige_gewasbeschermingsmethoden core:inScheme keywords: .
+
+keywords:Overledene core:inScheme keywords: .
+
+keywords:Overname core:inScheme keywords: .
+
+keywords:Overtreding_algemeen core:inScheme keywords: .
+
+keywords:Overtredingen_Algemeen core:inScheme keywords: .
+
+keywords:Overwerkuren core:inScheme keywords: .
+
+keywords:PS core:inScheme keywords: .
+
+keywords:Paar_huishouden core:inScheme keywords: .
+
+keywords:Participatie core:inScheme keywords: .
+
+keywords:Participatievoorziening core:inScheme keywords: .
+
+keywords:Participatiewet core:inScheme keywords: .
+
+keywords:Particulier_huishouden core:inScheme keywords: .
+
+keywords:Partner_huishouden core:inScheme keywords: .
+
+keywords:Patentaanvragen core:inScheme keywords: .
+
+keywords:Penitentiaire_inrichting core:inScheme keywords: .
+
+keywords:Pensioen core:inScheme keywords: .
+
+keywords:Pensioenfonds core:inScheme keywords: .
+
+keywords:Pensioenfondsen_en_levensverzekeraars core:inScheme keywords: .
+
+keywords:Pensioeninkomen core:inScheme keywords: .
+
+keywords:Pensioenpremies core:inScheme keywords: .
+
+keywords:Pensioenuitkering core:inScheme keywords: .
+
+keywords:Pensioenverzekering core:inScheme keywords: .
+
+keywords:Perinatale_sterfte core:inScheme keywords: .
+
+keywords:Personeel core:inScheme keywords: .
+
+keywords:Persoon_in_loondienst core:inScheme keywords: .
+
+keywords:Persoon_juridisch core:inScheme keywords: .
+
+keywords:Persoonlijk_inkomen core:inScheme keywords: .
+
+keywords:Persoonsgebonden_budget_PGB core:inScheme keywords: .
+
+keywords:Plantengroeiregulatie core:inScheme keywords: .
+
+keywords:Politie core:inScheme keywords: .
+
+keywords:Postcodegebied core:inScheme keywords: .
+
+keywords:Premies_wettelijke_sociale_verzekering core:inScheme keywords: .
+
+keywords:Prijs core:inScheme keywords: .
+
+keywords:Prijsindexcijfers core:inScheme keywords: .
+
+keywords:Prijsmutatie core:inScheme keywords: .
+
+keywords:Proces-verbaal core:inScheme keywords: .
+
+keywords:Prodcom core:inScheme keywords: .
+
+keywords:Producentenprijsindex_PPI core:inScheme keywords: .
+
+keywords:Producentenprijzen_industrie core:inScheme keywords: .
+
+keywords:Producentenvertrouwen core:inScheme keywords: .
+
+keywords:Productie-index_industrie core:inScheme keywords: .
+
+keywords:Productiefactoren core:inScheme keywords: .
+
+keywords:Productiviteit core:inScheme keywords: .
+
+keywords:Professionele_podiumkunsten core:inScheme keywords: .
+
+keywords:Provinciaal-gefinancierde_jeugdzorg core:inScheme keywords: .
+
+keywords:Provinciale_jeugdzorg core:inScheme keywords: .
+
+keywords:Provincie_juridisch core:inScheme keywords: .
+
+keywords:Provincie_regionaal core:inScheme keywords: .
+
+keywords:Psychiaters core:inScheme keywords: .
+
+keywords:Psychiatrie core:inScheme keywords: .
+
+keywords:Psychiatrisch_ziekenhuis core:inScheme keywords: .
+
+keywords:Re-integratie core:inScheme keywords: .
+
+keywords:Re-integratiepositie core:inScheme keywords: .
+
+keywords:Re-integratievoorziening core:inScheme keywords: .
+
+keywords:Recent_arbeidsverleden core:inScheme keywords: .
+
+keywords:Rechtbank core:inScheme keywords: .
+
+keywords:Rechtbank_sector_civiel core:inScheme keywords: .
+
+keywords:Rechter core:inScheme keywords: .
+
+keywords:Rechtsgebied core:inScheme keywords: .
+
+keywords:Rechtspersoon core:inScheme keywords: .
+
+keywords:Recreatie core:inScheme keywords: .
+
+keywords:Recreatiewoning core:inScheme keywords: .
+
+keywords:Regio core:inScheme keywords: .
+
+keywords:Reparatie core:inScheme keywords: .
+
+keywords:Research_\&_Development_R\&D core:inScheme keywords: .
+
+keywords:Resultaatgenieter core:inScheme keywords: .
+
+keywords:Rijbewijs core:inScheme keywords: .
+
+keywords:Rijk core:inScheme keywords: .
+
+keywords:SSB core:inScheme keywords: .
+
+keywords:Schaduweconomie core:inScheme keywords: .
+
+keywords:Scheiding_dem\. core:inScheme keywords: .
+
+keywords:Schimmelbestrijding core:inScheme keywords: .
+
+keywords:Schuldsanering core:inScheme keywords: .
+
+keywords:Schuldsaneringen core:inScheme keywords: .
+
+keywords:Sentimentsindicator core:inScheme keywords: .
+
+keywords:Slaapplaatsen core:inScheme keywords: .
+
+keywords:Slachtoffer_criminaliteit core:inScheme keywords: .
+
+keywords:Slachtofferhulp core:inScheme keywords: .
+
+keywords:Slachtofferhulp_Nederland core:inScheme keywords: .
+
+keywords:Slachtofferschap core:inScheme keywords: .
+
+keywords:Sociaal_domein core:inScheme keywords: .
+
+keywords:Sociaaleconomische_categorie core:inScheme keywords: .
+
+keywords:Sociale_basisondersteuning core:inScheme keywords: .
+
+keywords:Sociale_lasten core:inScheme keywords: .
+
+keywords:Sociale_premies_ten_laste_van_werkgevers core:inScheme keywords: .
+
+keywords:Sociale_voorziening core:inScheme keywords: .
+
+keywords:Sociale_zekerheid core:inScheme keywords: .
+
+keywords:Speciaal_basisonderwijs_sbao core:inScheme keywords: .
+
+keywords:Speciaal_onderwijs_so core:inScheme keywords: .
+
+keywords:Speciaal_voertuig core:inScheme keywords: .
+
+keywords:Speciale_scholen core:inScheme keywords: .
+
+keywords:Specialist_medisch core:inScheme keywords: .
+
+keywords:Spint core:inScheme keywords: .
+
+keywords:Sporthalaccommodatie core:inScheme keywords: .
+
+keywords:Sportterrein core:inScheme keywords: .
+
+keywords:Sportzaalaccommodatie core:inScheme keywords: .
+
+keywords:Standplaatsen core:inScheme keywords: .
+
+keywords:Startkwalificatie_onderwijs core:inScheme keywords: .
+
+keywords:Stedelijkheid_van_een_gebied core:inScheme keywords: .
+
+keywords:Stemmingsindicator core:inScheme keywords: .
+
+keywords:Sterfte core:inScheme keywords: .
+
+keywords:Stomen core:inScheme keywords: .
+
+keywords:Strafzaak core:inScheme keywords: .
+
+keywords:Studiebeurs core:inScheme keywords: .
+
+keywords:Supermarkten core:inScheme keywords: .
+
+keywords:System_of_Health_Accounts_SHA core:inScheme keywords: .
+
+keywords:Tandarts core:inScheme keywords: .
+
+keywords:Theater core:inScheme keywords: .
+
+keywords:Thuiszorg core:inScheme keywords: .
+
+keywords:Toegevoegde_waarde core:inScheme keywords: .
+
+keywords:Toerisme core:inScheme keywords: .
+
+keywords:Toevoeging core:inScheme keywords: .
+
+keywords:Transactiedata_consumentenprijzen core:inScheme keywords: .
+
+keywords:Transport core:inScheme keywords: .
+
+keywords:Trips core:inScheme keywords: .
+
+keywords:Tweede_werkkring core:inScheme keywords: .
+
+keywords:UWV core:inScheme keywords: .
+
+keywords:Uitgaven_voor_afvalinzameling core:inScheme keywords: .
+
+keywords:Uitkering core:inScheme keywords: .
+
+keywords:Uitkering_wettelijke_soc._verzekering_in_natura core:inScheme keywords: .
+
+keywords:Uitkeringen_sociale_voorziening core:inScheme keywords: .
+
+keywords:Uitkeringen_sociale_voorziening_in_geld core:inScheme keywords: .
+
+keywords:Uitkeringen_sociale_voorziening_in_natura core:inScheme keywords: .
+
+keywords:Uitkeringen_wettelijke_soc._verzekering_in_geld core:inScheme keywords: .
+
+keywords:Uitkeringen_wettelijke_sociale_verzekering core:inScheme keywords: .
+
+keywords:Uitsluiting core:inScheme keywords: .
+
+keywords:Uitvoer_van_diensten core:inScheme keywords: .
+
+keywords:Vacature core:inScheme keywords: .
+
+keywords:Vacature_Indicator core:inScheme keywords: .
+
+keywords:Vacaturegraad core:inScheme keywords: .
+
+keywords:Vakbeweging core:inScheme keywords: .
+
+keywords:Vakcentrale core:inScheme keywords: .
+
+keywords:Vakvereniging core:inScheme keywords: .
+
+keywords:Varenrouwmug core:inScheme keywords: .
+
+keywords:Vavo core:inScheme keywords: .
+
+keywords:Veilig_Thuis core:inScheme keywords: .
+
+keywords:Veiligheidsregio core:inScheme keywords: .
+
+keywords:Veiligheidszorg core:inScheme keywords: .
+
+keywords:Veiligheidszorgrekeningen core:inScheme keywords: .
+
+keywords:Verblijfplaats core:inScheme keywords: .
+
+keywords:Verblijfsobject core:inScheme keywords: .
+
+keywords:Verblijfsvergunning_voor_bepaalde_tijd core:inScheme keywords: .
+
+keywords:Verdachte core:inScheme keywords: .
+
+keywords:Verhuizing core:inScheme keywords: .
+
+keywords:Verkeersdode core:inScheme keywords: .
+
+keywords:Verkeersindex core:inScheme keywords: .
+
+keywords:Verkrijging_Nederlanderschap core:inScheme keywords: .
+
+keywords:Verlies_Nederlanderschap core:inScheme keywords: .
+
+keywords:Verloskundige core:inScheme keywords: .
+
+keywords:Vermogen core:inScheme keywords: .
+
+keywords:Verpleeghuis core:inScheme keywords: .
+
+keywords:Verrichting core:inScheme keywords: .
+
+keywords:Vertrouwensindex core:inScheme keywords: .
+
+keywords:Vertrouwensindicator core:inScheme keywords: .
+
+keywords:Verwachte_productie core:inScheme keywords: .
+
+keywords:Verweduwende_persoon core:inScheme keywords: .
+
+keywords:Verweduwing core:inScheme keywords: .
+
+keywords:Verzorgingshuis core:inScheme keywords: .
+
+keywords:Verzuimduur_ziekteverzuim core:inScheme keywords: .
+
+keywords:Vliegtuigbeweging core:inScheme keywords: .
+
+keywords:Vliegveld core:inScheme keywords: .
+
+keywords:Vmbo core:inScheme keywords: .
+
+keywords:Volksverzekering core:inScheme keywords: .
+
+keywords:Volwasseneneducatie core:inScheme keywords: .
+
+keywords:Voorbereidend_wetenschappelijk_onderwijs_vwo core:inScheme keywords: .
+
+keywords:Voornaamste_inkomensbron core:inScheme keywords: .
+
+keywords:Voorraad core:inScheme keywords: .
+
+keywords:Voortgezet_onderwijs core:inScheme keywords: .
+
+keywords:Voortgezet_onderwijs_examengegevens core:inScheme keywords: .
+
+keywords:Voortgezet_speciaal_onderwijs_vso core:inScheme keywords: .
+
+keywords:Voortijdig_schoolverlater_vsv core:inScheme keywords: .
+
+keywords:Vorderingenoverschot\/tekort core:inScheme keywords: .
+
+keywords:Vraagprijs core:inScheme keywords: .
+
+keywords:WAO core:inScheme keywords: .
+
+keywords:WAZ core:inScheme keywords: .
+
+keywords:WIA core:inScheme keywords: .
+
+keywords:Waarde_onroerende_zaken_WOZ core:inScheme keywords: .
+
+keywords:Waardering_in_constante_prijzen core:inScheme keywords: .
+
+keywords:Waardering_in_lopende_prijzen core:inScheme keywords: .
+
+keywords:Wachtgeld core:inScheme keywords: .
+
+keywords:Wajong core:inScheme keywords: .
+
+keywords:Water core:inScheme keywords: .
+
+keywords:Waterschap core:inScheme keywords: .
+
+keywords:Wegvervoer core:inScheme keywords: .
+
+keywords:Welzijnszorg core:inScheme keywords: .
+
+keywords:Werkgelegenheid core:inScheme keywords: .
+
+keywords:Werkloosheid core:inScheme keywords: .
+
+keywords:Werkloosheidsuitkering core:inScheme keywords: .
+
+keywords:Werkloosheidswet_WW core:inScheme keywords: .
+
+keywords:Werknemer core:inScheme keywords: .
+
+keywords:Werknemersverzekering core:inScheme keywords: .
+
+keywords:Werkonderbreking core:inScheme keywords: .
+
+keywords:Werkstaking core:inScheme keywords: .
+
+keywords:Werkzame_beroepsbevolking core:inScheme keywords: .
+
+keywords:Werkzame_persoon core:inScheme keywords: .
+
+keywords:Wet_Langdurige_Zorg_Wlz core:inScheme keywords: .
+
+keywords:Wet_Maatschappelijke_Ondersteuning core:inScheme keywords: .
+
+keywords:Wet_Maatschappelijke_Ondersteuning_2015 core:inScheme keywords: .
+
+keywords:Wet_Maatschappelijke_Ondersteuning_WMO core:inScheme keywords: .
+
+keywords:Wet_Maatschappelijke_Ondersteuning_WMO_2015 core:inScheme keywords: .
+
+keywords:Wet_Studiefinanciering_WSF core:inScheme keywords: .
+
+keywords:Wet_langdurige_zorg_Wlz core:inScheme keywords: .
+
+keywords:Wet_op_de_Jeugdzorg_2005 core:inScheme keywords: .
+
+keywords:Wetenschappelijk_onderwijs core:inScheme keywords: .
+
+keywords:Wettelijke_vastgestelde_bevolking core:inScheme keywords: .
+
+keywords:Wijk core:inScheme keywords: .
+
+keywords:Wijkverpleging core:inScheme keywords: .
+
+keywords:Winst core:inScheme keywords: .
+
+keywords:Winst_uit_onderneming core:inScheme keywords: .
+
+keywords:Witte_vlieg core:inScheme keywords: .
+
+keywords:Wmo core:inScheme keywords: .
+
+keywords:Wolluis core:inScheme keywords: .
+
+keywords:Woning core:inScheme keywords: .
+
+keywords:Woning_WOZ core:inScheme keywords: .
+
+keywords:Woning_bouwtechnisch core:inScheme keywords: .
+
+keywords:Woningcorporatie core:inScheme keywords: .
+
+keywords:Woningtypering core:inScheme keywords: .
+
+keywords:Wooneenheid core:inScheme keywords: .
+
+keywords:Woonplaats core:inScheme keywords: .
+
+keywords:Woonruimte core:inScheme keywords: .
+
+keywords:Woonsituatie core:inScheme keywords: .
+
+keywords:Zakelijke core:inScheme keywords: .
+
+keywords:Zeggenschap core:inScheme keywords: .
+
+keywords:Zelfdoding core:inScheme keywords: .
+
+keywords:Zelfstandige core:inScheme keywords: .
+
+keywords:Zelfstandigen core:inScheme keywords: .
+
+keywords:Ziekenfondswet_ZFW core:inScheme keywords: .
+
+keywords:Ziekenhuis core:inScheme keywords: .
+
+keywords:Ziekenhuisopname core:inScheme keywords: .
+
+keywords:Ziekteverzuimpercentage core:inScheme keywords: .
+
+keywords:Ziektewet_ZW core:inScheme keywords: .
+
+keywords:Zintuiglijk_gehandicapten core:inScheme keywords: .
+
+keywords:Zorgepisode core:inScheme keywords: .
+
+keywords:Zorggebruik core:inScheme keywords: .
+
+keywords:Zorguitgaven core:inScheme keywords: .
+
+keywords:Zorgverzekering core:inScheme keywords: .
+
+keywords:Zorgverzekeringswet_ZVW core:inScheme keywords: .
+
+keywords:Zuiveringsinstallatie core:inScheme keywords: .
+
+keywords:Zuiveringsslib core:inScheme keywords: .
+
+keywords:Zwartwerken core:inScheme keywords: .
+
+keywords:Zwembaden core:inScheme keywords: .
+
+keywords:arbeidsmarktpositie core:inScheme keywords: .
+
+keywords:arbeidsmarktpositie_overige_arbeid core:inScheme keywords: .
+
+keywords:centrale_eindtoets core:inScheme keywords: .
+
+keywords:informatie core:inScheme keywords: .
+
+keywords:voornaamste_inkomensbron core:inScheme keywords: .
+
+keywords:zorgaanbieders core:inScheme keywords: .
