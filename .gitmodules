@@ -1,0 +1,6 @@
+[submodule "yui3"]
+	path = yui3
+	url = git@github.com:yui/yui3
+[submodule "yui3-gallery"]
+	path = yui3-gallery
+	url = git@github.com:yui/yui3-gallery
