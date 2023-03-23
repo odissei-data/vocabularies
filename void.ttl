@@ -20,13 +20,20 @@
 <cbsvocabs>
   a void:Dataset ;
   dcterms:title "CBS vocabularies used in the ODISSEI project" ;
-  void:subset <cbskeywords>, <cbstaxonomy> .
+  void:subset <cbskeywords>, <cbstaxonomy> , <cbsbegrippen> .
 
 <cbstaxonomy>
   a void:Dataset ;
   dcterms:title "CBS Taxonomy"@en ;
   lib:source <https://vocabs.cbs.nl> ;
   void:dataDump <cbs/cbs-taxonomie.ttl> .
+
+<cbsbegrippen>
+  a void:Dataset ;
+  dcterms:title "CBS Begrippen"@nl ;
+  dcterms:title "CBS Concepts"@nl ;
+  lib:source <https://vocabs.cbs.nl> ;
+  void:dataDump <cbs/begrippen.ttl> .
 
 <cbskeywords>
   a void:Dataset ;
