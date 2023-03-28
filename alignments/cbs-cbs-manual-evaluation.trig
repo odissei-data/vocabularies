@@ -1,0 +1,795 @@
+@prefix begrippen: <https://vocabs.cbs.nl/def/begrippen/> .
+@prefix        id: <https://taxonomie.cbs.nl/vocab/id/> .
+@prefix  keywords: <https://portal.odissei-data.nl/metadata/cbs/keywords/> .
+@prefix      user: <https://amalgame.portal.dev.odissei.nl/user/> .
+@prefix      skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix       xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix       rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix  amalgame: <http://purl.org/vocabularies/amalgame#> .
+@prefix     align: <http://knowledgeweb.semanticweb.org/heterogeneity/alignment#> .
+
+<https://portal.odissei-data.nl/metadata/align/reference_alignment1> {
+
+# Named toplevel resources (1)
+
+<https://portal.odissei-data.nl/metadata/align/reference_alignment1>
+	align:map [ a align:Cell ;
+		    align:entity1 keywords:Arbeidskracht ;
+		    align:entity2 id:43 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn1 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Echtscheiding ;
+		    align:entity2 id:3252 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn2 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Huwelijksontbinding ;
+		    align:entity2 id:3252 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn3 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Psychiatrisch_ziekenhuis ;
+		    align:entity2 id:1535 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn4 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Vakbeweging ;
+		    align:entity2 id:15 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn5 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Vakcentrale ;
+		    align:entity2 id:15 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn6 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Vakvereniging ;
+		    align:entity2 id:15 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn7 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Werknemer ;
+		    align:entity2 id:43 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:26:10+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn8 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Psychiaters ;
+		    align:entity2 id:1535 ;
+		    align:relation skos:relatedMatch ;
+		    amalgame:evidence [ align:relation skos:relatedMatch ;
+					amalgame:comment "related but different type" ;
+					amalgame:date "2023-03-23T16:26:23+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Buitenlandse_rechtspersoon ;
+		    align:entity2 begrippen:1652 ;
+		    align:relation skos:broadMatch ;
+		    amalgame:evidence [ align:relation skos:broadMatch ;
+					amalgame:comment "buitenlands vs generic" ;
+					amalgame:date "2023-03-23T16:29:42+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Bedrijf ;
+		    align:entity2 begrippen:965 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn9 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Bedrijven ;
+		    align:entity2 id:374 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn10 ;
+					amalgame:method "exact_label"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn11 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Bevolking ;
+		    align:entity2 id:569 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn12 ;
+					amalgame:method "exact_label"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn13 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Bevolking ;
+		    align:entity2 begrippen:635 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn14 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Buitenlandse_rechtspersoon ;
+		    align:entity2 begrippen:1462 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn15 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Collectieve_consumptie ;
+		    align:entity2 begrippen:591 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn16 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Collectieve_consumptie_door_de_overheid ;
+		    align:entity2 begrippen:591 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn17 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Diensten ;
+		    align:entity2 id:513 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn18 ;
+					amalgame:method "exact_label"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn19 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Diensten ;
+		    align:entity2 begrippen:271 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn20 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Dienstverlening ;
+		    align:entity2 id:513 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn21 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Dienstverlening ;
+		    align:entity2 begrippen:920 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn22 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Onderwijs ;
+		    align:entity2 id:2443 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn23 ;
+					amalgame:method "exact_label"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn24 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Onderwijs ;
+		    align:entity2 begrippen:111 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn25 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Onderwijs ;
+		    align:entity2 begrippen:524 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn26 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Rechtspersoon ;
+		    align:entity2 begrippen:1652 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn27 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:Voornaamste_inkomensbron ;
+		    align:entity2 begrippen:469 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn28 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] ,
+		  [ a align:Cell ;
+		    align:entity1 keywords:voornaamste_inkomensbron ;
+		    align:entity2 begrippen:469 ;
+		    align:relation skos:closeMatch ;
+		    amalgame:evidence [ align:relation skos:closeMatch ;
+					amalgame:comment "just plural/singular issue" ;
+					amalgame:date "2023-03-23T16:16:04+00:00" ;
+					amalgame:method "manual_evaluation" ;
+					amalgame:user user:jrvosse
+				      ] ,
+				      [ amalgame:method "ambiguity_remover" ;
+					amalgame:score "[result(discarded),type(both)]"
+				      ] ,
+				      [ amalgame:evidenceGraph _:bn29 ;
+					amalgame:method "exact_label"
+				      ]
+		  ] .
+
+}
+
+<_:genid24_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bedrijf
+	skos:prefLabel "Bedrijf"@nl .
+
+begrippen:965
+	skos:prefLabel "Bedrijf"@nl .
+}
+
+<_:genid28_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bedrijven
+	skos:prefLabel "Bedrijven"@nl .
+
+id:374
+	skos:prefLabel "Bedrijven"@nl .
+}
+
+<_:genid29_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bedrijven
+	skos:prefLabel "Bedrijven"@nl .
+
+id:374
+	skos:prefLabel "bedrijven"@nl .
+}
+
+<_:genid33_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bevolking
+	skos:prefLabel "Bevolking"@nl .
+
+id:569
+	skos:prefLabel "Bevolking"@nl .
+}
+
+<_:genid34_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bevolking
+	skos:prefLabel "Bevolking"@nl .
+
+id:569
+	skos:prefLabel "bevolking"@nl .
+}
+
+<_:genid38_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Bevolking
+	skos:prefLabel "Bevolking"@nl .
+
+begrippen:635
+	skos:prefLabel "Bevolking"@nl .
+}
+
+<_:genid42_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Buitenlandse_rechtspersoon
+	skos:prefLabel "Buitenlandse rechtspersoon"@nl .
+
+begrippen:1462
+	skos:prefLabel "Buitenlandse rechtspersoon"@nl .
+}
+
+<_:genid50_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Collectieve_consumptie
+	skos:prefLabel "Collectieve consumptie"@nl .
+
+begrippen:591
+	skos:altLabel "Collectieve consumptie"@nl .
+}
+
+<_:genid54_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Collectieve_consumptie_door_de_overheid
+	skos:prefLabel "Collectieve consumptie door de overheid"@nl .
+
+begrippen:591
+	skos:prefLabel "Collectieve consumptie door de overheid"@nl .
+}
+
+<_:genid58_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Diensten
+	skos:prefLabel "Diensten"@nl .
+
+id:513
+	skos:prefLabel "Diensten"@nl .
+}
+
+<_:genid59_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Diensten
+	skos:prefLabel "Diensten"@nl .
+
+id:513
+	skos:prefLabel "diensten"@nl .
+}
+
+<_:genid63_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Diensten
+	skos:prefLabel "Diensten"@nl .
+
+begrippen:271
+	skos:prefLabel "Diensten"@nl .
+}
+
+<_:genid67_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Dienstverlening
+	skos:prefLabel "Dienstverlening"@nl .
+
+id:513
+	skos:altLabel "dienstverlening"@nl .
+}
+
+<_:genid71_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Dienstverlening
+	skos:prefLabel "Dienstverlening"@nl .
+
+begrippen:920
+	skos:prefLabel "Dienstverlening"@nl .
+}
+
+<_:genid75_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Onderwijs
+	skos:prefLabel "Onderwijs"@nl .
+
+id:2443
+	skos:prefLabel "Onderwijs"@nl .
+}
+
+<_:genid76_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Onderwijs
+	skos:prefLabel "Onderwijs"@nl .
+
+id:2443
+	skos:prefLabel "onderwijs"@nl .
+}
+
+<_:genid80_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Onderwijs
+	skos:prefLabel "Onderwijs"@nl .
+
+begrippen:111
+	skos:prefLabel "Onderwijs"@nl .
+}
+
+<_:genid84_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Onderwijs
+	skos:prefLabel "Onderwijs"@nl .
+
+begrippen:524
+	skos:altLabel "Onderwijs"@nl .
+}
+
+<_:genid88_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Rechtspersoon
+	skos:prefLabel "Rechtspersoon"@nl .
+
+begrippen:1652
+	skos:prefLabel "Rechtspersoon"@nl .
+}
+
+<_:genid92_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Voornaamste_inkomensbron
+	skos:prefLabel "Voornaamste inkomensbron"@nl .
+
+begrippen:469
+	skos:prefLabel "Voornaamste inkomensbron"@nl .
+}
+
+<_:genid96_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:voornaamste_inkomensbron
+	skos:prefLabel "voornaamste inkomensbron"@nl .
+
+begrippen:469
+	skos:prefLabel "Voornaamste inkomensbron"@nl .
+}
+
+<_:genid115_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Arbeidskracht
+	skos:prefLabel "Arbeidskracht"@nl .
+
+id:43
+	skos:altLabel "arbeidskracht"@nl .
+}
+
+<_:genid119_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Echtscheiding
+	skos:prefLabel "Echtscheiding"@nl .
+
+id:3252
+	skos:altLabel "echtscheiding"@nl .
+}
+
+<_:genid123_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Huwelijksontbinding
+	skos:prefLabel "Huwelijksontbinding"@nl .
+
+id:3252
+	skos:altLabel "huwelijksontbinding"@nl .
+}
+
+<_:genid131_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Psychiatrisch_ziekenhuis
+	skos:prefLabel "Psychiatrisch ziekenhuis"@nl .
+
+id:1535
+	skos:altLabel "psychiatrisch ziekenhuis"@nl .
+}
+
+<_:genid135_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Vakbeweging
+	skos:prefLabel "Vakbeweging"@nl .
+
+id:15
+	skos:altLabel "vakbeweging"@nl .
+}
+
+<_:genid139_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Vakcentrale
+	skos:prefLabel "Vakcentrale"@nl .
+
+id:15
+	skos:altLabel "vakcentrale"@nl .
+}
+
+<_:genid143_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Vakvereniging
+	skos:prefLabel "Vakvereniging"@nl .
+
+id:15
+	skos:altLabel "vakvereniging"@nl .
+}
+
+<_:genid147_evidence_graph> {
+
+# Named toplevel resources (2)
+
+keywords:Werknemer
+	skos:prefLabel "Werknemer"@nl .
+
+id:43
+	skos:altLabel "werknemer"@nl .
+}
