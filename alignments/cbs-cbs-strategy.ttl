@@ -91,13 +91,13 @@ align:manual_evaluation_process1 a amalgame:EvaluationProcess .
 align:manual_evaluation_process1 amalgame:input align:strategy1 .
 align:manual_evaluation_process1 rdfs:label "Manual evaluation process"@en .
 
-align:manual_reference_alignment1 a amalgame:EvaluatedMapping .
-align:manual_reference_alignment1 amalgame:evaluationOf align:strategy1 .
-align:manual_reference_alignment1 amalgame:nickname "F" .
-align:manual_reference_alignment1 amalgame:status amalgame:reference .
-align:manual_reference_alignment1 amalgame:wasGeneratedBy align:manual_evaluation_process1 .
-align:manual_reference_alignment1 rdfs:comment "Manual evaluation of mappings from 'https://portal.odissei-data.nl/metadata/align/strategy1'"@en .
-align:manual_reference_alignment1 rdfs:label "Evaluation results"@en .
+align:reference_alignment1 a amalgame:EvaluatedMapping .
+align:reference_alignment1 amalgame:evaluationOf align:strategy1 .
+align:reference_alignment1 amalgame:nickname "F" .
+align:reference_alignment1 amalgame:status amalgame:reference .
+align:reference_alignment1 amalgame:wasGeneratedBy align:manual_evaluation_process1 .
+align:reference_alignment1 rdfs:comment "Manual evaluation of mappings from 'https://portal.odissei-data.nl/metadata/align/strategy1'"@en .
+align:reference_alignment1 rdfs:label "Evaluation results"@en .
 
 align:strategy1 a amalgame:AlignmentStrategy .
 align:strategy1 a prov:Plan .
@@ -131,7 +131,7 @@ _:bn_15543347_0 amalgame:input keywords: .
 _:bn_15543347_0 amalgame:parameters "lastAction=secinput&type=source&mode=select" .
 _:bn_15543347_0 amalgame:secondary_input align:dataset1 .
 _:bn_15543347_0 amalgame:secondary_input align:dataset3 .
-_:bn_15543347_0 amalgame:secondary_input align:manual_reference_alignment1 .
+_:bn_15543347_0 amalgame:secondary_input align:reference_alignment1 .
 _:bn_15543347_0 rdfs:label "partition mapped/unmapped"@en .
 
 _:bn_14549949_0 a amalgame:AritySelect .
