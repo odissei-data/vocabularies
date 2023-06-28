@@ -7,3 +7,6 @@ Retrieved on 23-03-2023 by using
 wget -O begrippen.ttl     --no-check-certificate https://vocabs.cbs.nl/rest/v1/begrippen/data\?format\=text/turtle  
 wget -O cbs-thesaurus.ttl --no-check-certificate https://vocabs.cbs.nl/rest/v1/taxonomie/data?format=text/turtle
 '''
+
+* cbs-variables-thesaurus-20230310.ttl
+  A SKOS vocabulary based on parsing the individual dsc XML files
