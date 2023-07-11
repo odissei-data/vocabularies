@@ -27,11 +27,13 @@
     
 <CAT1> a skos:Concept;
     skos:prefLabel "Qualitative analysis"@en ;
+    skos:topConceptOf <> ;
     skos:inscheme <> .
 
 <CAT2> a skos:Concept;
     skos:prefLabel "Quantitative analysis"@en ;
     skos:narrower <CAT3> ;
+    skos:topConceptOf <> ;
     skos:inscheme <> .
 
 <CAT3> a skos:Concept;
@@ -41,6 +43,7 @@
 
 <CAT4> a skos:Concept;
     skos:prefLabel "Automated analysis"@en ;
+    skos:topConceptOf <> ;
     skos:inscheme <> .
 
 <CAT5> a skos:Concept;
@@ -55,9 +58,11 @@
 
 <CAT7> a skos:Concept;
     skos:prefLabel "Concept visibility"@en ;
+    skos:topConceptOf <> ;
     skos:inscheme <> .
 
 <CAT8> a skos:Concept;
     skos:prefLabel "Framing"@en ;
     skos:narrower <CAT5>, <CAT6> ;
+    skos:topConceptOf <> ;
     skos:inscheme <> .
