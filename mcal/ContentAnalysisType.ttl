@@ -1,0 +1,63 @@
+@base <https://mcal.odissei.nl/cv/contentAnalysisType/v0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+
+<> a skos:ConceptScheme ;
+    skos:prefLabel "MCAL Controlled Vocabulary for Content Analysis Types"@en ;
+    dct:description "Descriptors for different types/categories of content type analysis used in communication science research. "@en ;
+    dct:licence <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    dct:title "MCAL Content Analysis Types"@en ;
+    owl:versionInfo "0.1" ;
+    skos:notation "contentAnalysisType" ;
+    dct:isVersionOf <https://mcal.odissei.nl/cv/contentAnalysisType/> ;
+    dct:creator "Angelica Maineri" ;
+    dct:creator "Jacco van Ossenbruggen" ;
+    dct:creator "Susan Vermeer" ;
+    dct:contributor "Anne Kroon" ;
+    dct:contributor "Rens Vliegenthart" ;
+    skos:hasTopConcept <CAT1>, <CAT2>, <CAT4>, <CAT7>, <CAT8> .
+
+
+<CAT0> a skos:Concept;
+    skos:prefLabel "Other"@en ;
+    skos:inscheme <> .
+    
+<CAT1> a skos:Concept;
+    skos:prefLabel "Qualitative analysis"@en ;
+    skos:inscheme <> .
+
+<CAT2> a skos:Concept;
+    skos:prefLabel "Quantitative analysis"@en ;
+    skos:narrower <CAT3> ;
+    skos:inscheme <> .
+
+<CAT3> a skos:Concept;
+    skos:prefLabel "Quantitative analysis with manual coding"@en ;
+    skos:broader <CAT2> ;
+    skos:inscheme <> .
+
+<CAT4> a skos:Concept;
+    skos:prefLabel "Automated analysis"@en ;
+    skos:inscheme <> .
+
+<CAT5> a skos:Concept;
+    skos:prefLabel "Associative framing"@en ;
+    skos:broader <CAT8> ;
+    skos:inscheme <> .
+
+<CAT6> a skos:Concept;
+    skos:prefLabel "Symbolic framing"@en ;
+    skos:broader <CAT8> ;
+    skos:inscheme <> .
+
+<CAT7> a skos:Concept;
+    skos:prefLabel "Concept visibility"@en ;
+    skos:inscheme <> .
+
+<CAT8> a skos:Concept;
+    skos:prefLabel "Framing"@en ;
+    skos:narrower <CAT5>, <CAT6> ;
+    skos:inscheme <> .

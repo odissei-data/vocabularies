@@ -1,0 +1,55 @@
+@base <https://mcal.odissei.nl/cv/researchQuestionType/v0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<> a skos:ConceptScheme ;
+    skos:prefLabel "MCAL Controlled Vocabulary for Research Question Types"@en ;
+    dct:description "Descriptors for different types/categories of research questions used in media content analyis research. "@en ;
+    dct:licence <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    dct:title "MCAL Resarch QuestionTypes"@en ;
+    owl:versionInfo "0.1" ;
+    skos:notation "researchQuestionType" ;
+    dct:isVersionOf <https://mcal.odissei.nl/cv/researchQuestionType/> ;
+    dct:creator "Angelica Maineri" ;
+    dct:creator "Jacco van Ossenbruggen" ;
+    dct:creator "Susan Vermeer" ;
+    dct:contributor "Anne Kroon" ;
+    dct:contributor "Rens Vliegenthart" ;
+    skos:hasTopConcept <RQT1>, <RQT2>, <RQT3>, <RTQ4>, <RQT5> .
+
+<RQT0> a skos:Concept;
+    skos:prefLabel "Other"@en ;
+    skos:inscheme <> .
+    
+<RQT1> a skos:Concept;
+    skos:prefLabel "descriptive"@en ;
+    skos:definition "A descriptive RQ aims to provide a description of the research variable under consideration."@en ;
+    skos:example "How often did Mark Rutte appear in the Dutch eight o’clock news broadcast in the past five years?"@en ;
+    skos:inscheme <> .
+
+<RQT2> a skos:Concept;
+    skos:prefLabel "explaining media content"@en ;
+    skos:definition "A RQ that is focusing on explaining media content aims to identify and explain media content in more detail."@en ;
+    skos:example "To what extent did media visibility of Mark Rutte impact his electoral success in the Netherlands?" ;
+    skos:inscheme <> .
+
+<RQT3> a skos:Concept;
+    skos:prefLabel "effects on citizens"@en ;
+    skos:definition "A RQ that is focusing on the effects on citizens aims to identify and explain the causal effect on independent variables related to citizens."@en ;
+    skos:scopeNote "Typical effects might include political interest, voting behaviour, news use, political trust or political knowledge."@en ;
+    skos:example "To what extent did the media visibility of Mark Rutte impact political trust among Dutch citizens?"@en ;
+    skos:inscheme <> .
+
+<RQT4> a skos:Concept;
+    skos:prefLabel "effects on policy/politics"@en ;
+    skos:definition "A RQ that is focusing on the effects on policy/politics aims to identify and explain the causal effect on independent variables related to policy and/or politics."@en ;
+    skos:example "To what extent did news coverage on the economic crisis impact parliamentary attention on the economic crisis in the Netherlands?"@en ;
+    skos:inscheme <> .
+
+<RQT5> a skos:Concept;
+    skos:prefLabel "effects on companies"@en ;
+    skos:definition "A RQ that is focusing on the effects on companies aims to identify and explain the causal effect on independent variables related to companies."@en ;
+    skos:example "TBD"@en ;
+    skos:inscheme <> .
