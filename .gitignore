@@ -3,10 +3,10 @@
 
 # prolog/cliopatria/amalgame stuff
 cpack
-RDF-store
+RDF-store*
 config-enabled
 daemon.pl
-run.pl
+run*.pl
 users.db
 web
 
