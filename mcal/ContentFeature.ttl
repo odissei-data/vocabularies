@@ -28,7 +28,7 @@
     
 <CFR1> a skos:Concept;
     skos:prefLabel "Framing"@en ;
-    skos:narrower <CAT5>, <CAT6> ;
+    skos:narrower <CFR4>, <CFR5> ;
     skos:topConceptOf <> ;
     skos:inscheme <> .
 
