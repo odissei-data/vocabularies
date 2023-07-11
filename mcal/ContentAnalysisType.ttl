@@ -18,11 +18,12 @@
     dct:creator "Susan Vermeer" ;
     dct:contributor "Anne Kroon" ;
     dct:contributor "Rens Vliegenthart" ;
-    skos:hasTopConcept <CAT1>, <CAT2>, <CAT4>, <CAT7>, <CAT8> .
+    skos:hasTopConcept <CAT1>, <CAT2>, <CAT4> .
 
 
 <CAT0> a skos:Concept;
     skos:prefLabel "Other"@en ;
+    skos:scopeNote "Unspecified or missing content analysis type, usage should be avoided as much as possible"@en ;
     skos:inscheme <> .
     
 <CAT1> a skos:Concept;
@@ -43,26 +44,5 @@
 
 <CAT4> a skos:Concept;
     skos:prefLabel "Automated analysis"@en ;
-    skos:topConceptOf <> ;
-    skos:inscheme <> .
-
-<CAT5> a skos:Concept;
-    skos:prefLabel "Associative framing"@en ;
-    skos:broader <CAT8> ;
-    skos:inscheme <> .
-
-<CAT6> a skos:Concept;
-    skos:prefLabel "Symbolic framing"@en ;
-    skos:broader <CAT8> ;
-    skos:inscheme <> .
-
-<CAT7> a skos:Concept;
-    skos:prefLabel "Concept visibility"@en ;
-    skos:topConceptOf <> ;
-    skos:inscheme <> .
-
-<CAT8> a skos:Concept;
-    skos:prefLabel "Framing"@en ;
-    skos:narrower <CAT5>, <CAT6> ;
     skos:topConceptOf <> ;
     skos:inscheme <> .
