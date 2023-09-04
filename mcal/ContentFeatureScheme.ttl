@@ -10,11 +10,10 @@
     dct:licence <https://creativecommons.org/licenses/by-sa/4.0/> ;
     dct:title "MCAL Content Features"@en ;
     owl:versionInfo "0.1" ;
-    skos:notation "contentFeature" ;
     dct:isVersionOf <https://mcal.odissei.nl/cv/contentFeature/> ;
     dct:creator "Angelica Maineri" ;
     dct:creator "Jacco van Ossenbruggen" ;
     dct:creator "Susan Vermeer" ;
     dct:contributor "Anne Kroon" ;
     dct:contributor "Rens Vliegenthart" ;
-    skos:hasTopConcept <CFR1>, <CFE5>.
+=   skos:notation "contentFeature" .
