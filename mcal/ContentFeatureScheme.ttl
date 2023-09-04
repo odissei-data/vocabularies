@@ -4,7 +4,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
-
 <> a skos:ConceptScheme ;
     skos:prefLabel "MCAL Controlled Vocabulary for Content Features"@en ;
     dct:description "Descriptors for different features used in content type analysis. "@en ;
@@ -19,31 +18,3 @@
     dct:contributor "Anne Kroon" ;
     dct:contributor "Rens Vliegenthart" ;
     skos:hasTopConcept <CFR1>, <CFE5>.
-
-
-<CF0> a skos:Concept;
-    skos:prefLabel "Other"@en ;
-    skos:scopeNote "Unspecified or missing content analysis type, usage should be avoided as much as possible"@en ;
-    skos:inscheme <> .
-    
-<CFR1> a skos:Concept;
-    skos:prefLabel "Framing"@en ;
-    skos:narrower <CFR4>, <CFR5> ;
-    skos:topConceptOf <> ;
-    skos:inscheme <> .
-
-<CFR4> a skos:Concept;
-    skos:prefLabel "Associative framing"@en ;
-    skos:broader <CFR1> ;
-    skos:inscheme <> .
-
-<CFR5> a skos:Concept;
-    skos:prefLabel "Symbolic framing"@en ;
-    skos:broader <CFR1> ;
-    skos:inscheme <> .
-
-<CFE5> a skos:Concept;
-    skos:prefLabel "Concept visibility"@en ;
-    skos:topConceptOf <> ;
-    skos:inscheme <> .
-
