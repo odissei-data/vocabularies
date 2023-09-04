@@ -16,4 +16,4 @@
     dct:creator "Susan Vermeer" ;
     dct:contributor "Anne Kroon" ;
     dct:contributor "Rens Vliegenthart" ;
-=   skos:notation "contentFeature" .
+    skos:notation "contentFeature" .
