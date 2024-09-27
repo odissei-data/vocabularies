@@ -1,4 +1,4 @@
-@base <https://mcal.odissei.nl/cv/researchQuestionType/v0.1/> .
+@base <https://w3id.org/odissei/cv/researchQuestionType/v0.1/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix dct: <http://purl.org/dc/terms/> .
@@ -8,10 +8,10 @@
     skos:prefLabel "MCAL Controlled Vocabulary for Research Question Types"@en ;
     dct:description "Descriptors for different types/categories of research questions used in media content analyis research. "@en ;
     dct:licence <https://creativecommons.org/licenses/by-sa/4.0/> ;
-    dct:title "MCAL Resarch QuestionTypes"@en ;
+    dct:title "MCAL Research QuestionTypes"@en ;
     owl:versionInfo "0.1" ;
     skos:notation "researchQuestionType" ;
-    dct:isVersionOf <https://mcal.odissei.nl/cv/researchQuestionType/> ;
+    dct:isVersionOf <https://w3id.org/odissei/cv/researchQuestionType/> ;
     dct:creator "Angelica Maineri" ;
     dct:creator "Jacco van Ossenbruggen" ;
     dct:creator "Susan Vermeer" ;
