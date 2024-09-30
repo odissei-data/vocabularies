@@ -1,0 +1,682 @@
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> {
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/contributor> "Anne Kroon" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/contributor> "Rens Vliegenthart" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/creator> "Angelica Maineri" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/creator> "Jacco van Ossenbruggen" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/creator> "Susan Vermeer" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/description> "Descriptors for different features used in content type analysis. "@en .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/isVersionOf> <https://w3id.org/odissei/cv/contentFeature/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/licence> <https://creativecommons.org/licenses/by-sa/4.0/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://purl.org/dc/terms/title> "MCAL Content Features"@en .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2002/07/owl#versionInfo> "0.1" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#notation> "contentFeature" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/> <http://www.w3.org/2004/02/skos/core#prefLabel> "MCAL Controlled Vocabulary for Content Features"@en .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#notation> "CFE1" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue attention" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> <http://www.w3.org/2004/02/skos/core#scopeNote> "Issue attention refers to the level of focus and consideration that a topic, concept or idea receives within various forms of media content (such as newspaper coverage, television content, online content and social media content.) It refers to the extent to which the entity is highlighted or discussed in these media sources." .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> <http://www.w3.org/2004/02/skos/core#notation> "CFE100" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE100> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: political informaton" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> <http://www.w3.org/2004/02/skos/core#notation> "CFE101" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: product placement disclosure appearances" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> <http://www.w3.org/2004/02/skos/core#notation> "CFE102" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: sensationalism in storytelling" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> <http://www.w3.org/2004/02/skos/core#notation> "CFE103" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: sensationalist news features" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> <http://www.w3.org/2004/02/skos/core#notation> "CFE104" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: technology" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> <http://www.w3.org/2004/02/skos/core#notation> "CFE105" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> <http://www.w3.org/2004/02/skos/core#prefLabel> "populist communication frames and frame elements" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> <http://www.w3.org/2004/02/skos/core#notation> "CFE106" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> <http://www.w3.org/2004/02/skos/core#prefLabel> "populist content" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> <http://www.w3.org/2004/02/skos/core#notation> "CFE107" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> <http://www.w3.org/2004/02/skos/core#prefLabel> "populist elements" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> <http://www.w3.org/2004/02/skos/core#notation> "CFE108" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> <http://www.w3.org/2004/02/skos/core#prefLabel> "populist style" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> <http://www.w3.org/2004/02/skos/core#notation> "CFE109" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> <http://www.w3.org/2004/02/skos/core#prefLabel> "preclearance policies" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> <http://www.w3.org/2004/02/skos/core#notation> "CFE11" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> <http://www.w3.org/2004/02/skos/core#prefLabel> "date" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> <http://www.w3.org/2004/02/skos/core#notation> "CFE110" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> <http://www.w3.org/2004/02/skos/core#prefLabel> "prevention vs. repressive framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> <http://www.w3.org/2004/02/skos/core#notation> "CFE111" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> <http://www.w3.org/2004/02/skos/core#prefLabel> "primary actor" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> <http://www.w3.org/2004/02/skos/core#notation> "CFE112" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> <http://www.w3.org/2004/02/skos/core#prefLabel> "product categories" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> <http://www.w3.org/2004/02/skos/core#notation> "CFE113" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> <http://www.w3.org/2004/02/skos/core#prefLabel> "product characteristics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> <http://www.w3.org/2004/02/skos/core#notation> "CFE114" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> <http://www.w3.org/2004/02/skos/core#prefLabel> "type of source" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> <http://www.w3.org/2004/02/skos/core#notation> "CFE115" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> <http://www.w3.org/2004/02/skos/core#prefLabel> "uncertainty in economic news" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> <http://www.w3.org/2004/02/skos/core#notation> "CFE116" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> <http://www.w3.org/2004/02/skos/core#prefLabel> "visibility and framing  of new political parties" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> <http://www.w3.org/2004/02/skos/core#notation> "CFE117" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> <http://www.w3.org/2004/02/skos/core#prefLabel> "visual self-presentation" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> <http://www.w3.org/2004/02/skos/core#notation> "CFE12" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> <http://www.w3.org/2004/02/skos/core#prefLabel> "number of notifications" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> <http://www.w3.org/2004/02/skos/core#notation> "CFE13" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> <http://www.w3.org/2004/02/skos/core#prefLabel> "frames" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> <http://www.w3.org/2004/02/skos/core#notation> "CFE14" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> <http://www.w3.org/2004/02/skos/core#prefLabel> "events" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> <http://www.w3.org/2004/02/skos/core#notation> "CFE15" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> <http://www.w3.org/2004/02/skos/core#prefLabel> "type" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> <http://www.w3.org/2004/02/skos/core#notation> "CFE16" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> <http://www.w3.org/2004/02/skos/core#prefLabel> "topics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> <http://www.w3.org/2004/02/skos/core#notation> "CFE17" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> <http://www.w3.org/2004/02/skos/core#prefLabel> "linguistic style" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> <http://www.w3.org/2004/02/skos/core#notation> "CFE18" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> <http://www.w3.org/2004/02/skos/core#prefLabel> "subjectivity tone" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE111> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#notation> "CFE2" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#prefLabel> "actor visibility" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> <http://www.w3.org/2004/02/skos/core#scopeNote> "Actor visibility refers to the level of focus and consideration that a specific entity (such as a location, person, organization, social group) receives within various forms of media content (such as newspaper coverage, television content, online content and social media content.) It refers to the extent to which the entity is highlighted or discussed in these media sources." .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> <http://www.w3.org/2004/02/skos/core#notation> "CFE21" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE21> <http://www.w3.org/2004/02/skos/core#prefLabel> "prominence" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> <http://www.w3.org/2004/02/skos/core#notation> "CFE22" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> <http://www.w3.org/2004/02/skos/core#prefLabel> "authoritativeness" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE106> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE107> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE108> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE22> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#notation> "CFE23" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#prefLabel> "populism" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> <http://www.w3.org/2004/02/skos/core#scopeNote> "Populism refers to communication strategies in line with a thin-centered ideology that considers society to be ultimately separated into two homogenous and antagonistic groups: “the pure people” and “the corrupt elite,” and argues that politics should be an expression of the volonté générale (general will) of the people (e.g., authoritativeness, populist content, populist elements)" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> <http://www.w3.org/2004/02/skos/core#notation> "CFE24" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE24> <http://www.w3.org/2004/02/skos/core#prefLabel> "visibility" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> <http://www.w3.org/2004/02/skos/core#notation> "CFE25" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE25> <http://www.w3.org/2004/02/skos/core#prefLabel> "evaluation" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> <http://www.w3.org/2004/02/skos/core#notation> "CFE26" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE26> <http://www.w3.org/2004/02/skos/core#prefLabel> "attention" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> <http://www.w3.org/2004/02/skos/core#notation> "CFE27" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> <http://www.w3.org/2004/02/skos/core#prefLabel> "tone" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> <http://www.w3.org/2004/02/skos/core#notation> "CFE28" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> <http://www.w3.org/2004/02/skos/core#prefLabel> "types of news" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> <http://www.w3.org/2004/02/skos/core#notation> "CFE29" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE29> <http://www.w3.org/2004/02/skos/core#prefLabel> "attention for actors" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE18> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE27> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#notation> "CFE3" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#prefLabel> "sentiment" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sentiment refers to the attitudinal or emotional tone associated with media content. It includes the expression of positive, negative and/or neutral stances associated with the content. Sentiment can be measured and analyzed at the individual level, considering a specific pieces of media content, or on the aggregated level, across multiple sources of media content." .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> <http://www.w3.org/2004/02/skos/core#notation> "CFE30" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> <http://www.w3.org/2004/02/skos/core#prefLabel> "information availability" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> <http://www.w3.org/2004/02/skos/core#notation> "CFE31" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE31> <http://www.w3.org/2004/02/skos/core#prefLabel> "evaluations" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE105> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE110> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE115> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE116> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE117> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE13> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#notation> "CFE32" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#prefLabel> "framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> <http://www.w3.org/2004/02/skos/core#scopeNote> "Framing refers to the process in which some aspects of a perceived reality and make them more salient in a communicating text, in such a way as to promote a particular problem definition, causal interpretation, moral evaluation and/or treatment recommendation for the item described" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> <http://www.w3.org/2004/02/skos/core#notation> "CFE33" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE33> <http://www.w3.org/2004/02/skos/core#prefLabel> "valence" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> <http://www.w3.org/2004/02/skos/core#notation> "CFE34" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> <http://www.w3.org/2004/02/skos/core#prefLabel> "entertainment coverage" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> <http://www.w3.org/2004/02/skos/core#notation> "CFE35" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE35> <http://www.w3.org/2004/02/skos/core#prefLabel> "visibility actors" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> <http://www.w3.org/2004/02/skos/core#notation> "CFE36" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE36> <http://www.w3.org/2004/02/skos/core#prefLabel> "presentation of social roles" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> <http://www.w3.org/2004/02/skos/core#notation> "CFE37" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE37> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-verbal behavior" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> <http://www.w3.org/2004/02/skos/core#notation> "CFE38" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE38> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue communication" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> <http://www.w3.org/2004/02/skos/core#notation> "CFE39" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE39> <http://www.w3.org/2004/02/skos/core#prefLabel> "negative attention" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE102> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE103> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE104> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE109> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE11> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE114> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE12> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE14> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE15> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE16> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE17> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE28> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE30> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE34> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#notation> "CFE4" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#prefLabel> "genre" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> <http://www.w3.org/2004/02/skos/core#scopeNote> "Genre refers to the way texts, often news articles, are organized by their own intertextual and extratextual elements (e.g., linguistic style, diversity, news values)" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> <http://www.w3.org/2004/02/skos/core#notation> "CFE40" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE40> <http://www.w3.org/2004/02/skos/core#prefLabel> "party positions" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> <http://www.w3.org/2004/02/skos/core#notation> "CFE41" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE41> <http://www.w3.org/2004/02/skos/core#prefLabel> "real-world developments" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> <http://www.w3.org/2004/02/skos/core#notation> "CFE43" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE43> <http://www.w3.org/2004/02/skos/core#prefLabel> "success and failure" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> <http://www.w3.org/2004/02/skos/core#notation> "CFE44" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE44> <http://www.w3.org/2004/02/skos/core#prefLabel> "support and criticism" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> <http://www.w3.org/2004/02/skos/core#notation> "CFE45" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE45> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue position" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> <http://www.w3.org/2004/02/skos/core#notation> "CFE46" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE46> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue developments" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> <http://www.w3.org/2004/02/skos/core#notation> "CFE47" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE47> <http://www.w3.org/2004/02/skos/core#prefLabel> "association actors with issues" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> <http://www.w3.org/2004/02/skos/core#notation> "CFE48" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE48> <http://www.w3.org/2004/02/skos/core#prefLabel> "strategy framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> <http://www.w3.org/2004/02/skos/core#notation> "CFE49" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE49> <http://www.w3.org/2004/02/skos/core#prefLabel> "leadership traits" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> <http://www.w3.org/2004/02/skos/core#notation> "CFE5" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE5> <http://www.w3.org/2004/02/skos/core#prefLabel> "concept visibility" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> <http://www.w3.org/2004/02/skos/core#notation> "CFE50" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE50> <http://www.w3.org/2004/02/skos/core#prefLabel> "negative campaigning" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> <http://www.w3.org/2004/02/skos/core#notation> "CFE51" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE51> <http://www.w3.org/2004/02/skos/core#prefLabel> "valance framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> <http://www.w3.org/2004/02/skos/core#notation> "CFE52" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE52> <http://www.w3.org/2004/02/skos/core#prefLabel> "episodic and thematic framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> <http://www.w3.org/2004/02/skos/core#notation> "CFE53" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE53> <http://www.w3.org/2004/02/skos/core#prefLabel> "populist communication" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> <http://www.w3.org/2004/02/skos/core#notation> "CFE55" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE55> <http://www.w3.org/2004/02/skos/core#prefLabel> "political information supply" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> <http://www.w3.org/2004/02/skos/core#notation> "CFE56" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE56> <http://www.w3.org/2004/02/skos/core#prefLabel> "political personalities" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> <http://www.w3.org/2004/02/skos/core#notation> "CFE57" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE57> <http://www.w3.org/2004/02/skos/core#prefLabel> "ethical and political contexts" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> <http://www.w3.org/2004/02/skos/core#notation> "CFE59" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE59> <http://www.w3.org/2004/02/skos/core#prefLabel> "associative framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> <http://www.w3.org/2004/02/skos/core#notation> "CFE6" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE6> <http://www.w3.org/2004/02/skos/core#prefLabel> "naming" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> <http://www.w3.org/2004/02/skos/core#notation> "CFE60" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE60> <http://www.w3.org/2004/02/skos/core#prefLabel> "symbolic framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/2004/02/skos/core#notation> "CFE61" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue-specific frames" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE61> <http://www.w3.org/2004/02/skos/core#scopeNote> "Issue-specific frames are unique to a particular issue and refer to the perspectives, focus, and interpretations through which a particular issue is presented in the media. In this framing of information, particular aspects are emphasized, while downplaying others, providing a specific lens or context through which the issue is portrayed." .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE1> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> <http://www.w3.org/2004/02/skos/core#notation> "CFE62" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE62> <http://www.w3.org/2004/02/skos/core#prefLabel> "issue salience" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE2> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> <http://www.w3.org/2004/02/skos/core#notation> "CFE63" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE63> <http://www.w3.org/2004/02/skos/core#prefLabel> "party salience" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/2004/02/skos/core#notation> "CFE64" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/2004/02/skos/core#prefLabel> "generic frames" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE64> <http://www.w3.org/2004/02/skos/core#scopeNote> "Generic frames are not unique to a particular issue, but refer to the broader, general perspectives and angles used in media. They refer to overarching themes or approaches." .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> <http://www.w3.org/2004/02/skos/core#notation> "CFE65" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE65> <http://www.w3.org/2004/02/skos/core#prefLabel> "conflict framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> <http://www.w3.org/2004/02/skos/core#notation> "CFE66" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE66> <http://www.w3.org/2004/02/skos/core#prefLabel> "document similarity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE23> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> <http://www.w3.org/2004/02/skos/core#notation> "CFE67" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE67> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: communication strategies" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> <http://www.w3.org/2004/02/skos/core#notation> "CFE68" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: retrieval cues" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> <http://www.w3.org/2004/02/skos/core#notation> "CFE69" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: presence of real-time marketing techniques" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> <http://www.w3.org/2004/02/skos/core#notation> "CFE7" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE7> <http://www.w3.org/2004/02/skos/core#prefLabel> "shaming" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE101> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE112> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE113> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE68> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE69> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#notation> "CFE70" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#prefLabel> "persuasion" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> <http://www.w3.org/2004/02/skos/core#scopeNote> "Persuasion (or persuasive communication) contains a variety of attributes intended to enhance persuasion, which could include an attractive source, a message containing convincing arguments, or efforts to make the topic seem personally relevant to the audience" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> <http://www.w3.org/2004/02/skos/core#notation> "CFE72" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE72> <http://www.w3.org/2004/02/skos/core#prefLabel> "age" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> <http://www.w3.org/2004/02/skos/core#notation> "CFE73" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE73> <http://www.w3.org/2004/02/skos/core#prefLabel> "commercial characteristics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> <http://www.w3.org/2004/02/skos/core#notation> "CFE74" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE74> <http://www.w3.org/2004/02/skos/core#prefLabel> "diversity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> <http://www.w3.org/2004/02/skos/core#notation> "CFE75" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE75> <http://www.w3.org/2004/02/skos/core#prefLabel> "domesticity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> <http://www.w3.org/2004/02/skos/core#notation> "CFE76" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE76> <http://www.w3.org/2004/02/skos/core#prefLabel> "episodic vs. thematic framing" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> <http://www.w3.org/2004/02/skos/core#notation> "CFE77" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE77> <http://www.w3.org/2004/02/skos/core#prefLabel> "ethnic stereotypes?" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> <http://www.w3.org/2004/02/skos/core#notation> "CFE78" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE78> <http://www.w3.org/2004/02/skos/core#prefLabel> "generic frame" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> <http://www.w3.org/2004/02/skos/core#notation> "CFE79" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE79> <http://www.w3.org/2004/02/skos/core#prefLabel> "humour relatedness" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE3> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/2004/02/skos/core#notation> "CFE8" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/2004/02/skos/core#prefLabel> "anger" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE8> <http://www.w3.org/2004/02/skos/core#scopeNote> "a strong feeling of annoyance, displeasure, or hostility" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> <http://www.w3.org/2004/02/skos/core#notation> "CFE80" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE80> <http://www.w3.org/2004/02/skos/core#prefLabel> "identification features" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> <http://www.w3.org/2004/02/skos/core#notation> "CFE81" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE81> <http://www.w3.org/2004/02/skos/core#prefLabel> "interactivity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> <http://www.w3.org/2004/02/skos/core#notation> "CFE82" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE82> <http://www.w3.org/2004/02/skos/core#prefLabel> "journalistic characteristics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> <http://www.w3.org/2004/02/skos/core#notation> "CFE83" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE83> <http://www.w3.org/2004/02/skos/core#prefLabel> "media agenda diversity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE32> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> <http://www.w3.org/2004/02/skos/core#notation> "CFE84" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE84> <http://www.w3.org/2004/02/skos/core#prefLabel> "mertonian imperatives about science" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> <http://www.w3.org/2004/02/skos/core#notation> "CFE85" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE85> <http://www.w3.org/2004/02/skos/core#prefLabel> "narrative" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> <http://www.w3.org/2004/02/skos/core#notation> "CFE86" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE86> <http://www.w3.org/2004/02/skos/core#prefLabel> "news factors" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> <http://www.w3.org/2004/02/skos/core#notation> "CFE87" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE87> <http://www.w3.org/2004/02/skos/core#prefLabel> "news topics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> <http://www.w3.org/2004/02/skos/core#notation> "CFE88" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE88> <http://www.w3.org/2004/02/skos/core#prefLabel> "news values" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> <http://www.w3.org/2004/02/skos/core#notation> "CFE89" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE89> <http://www.w3.org/2004/02/skos/core#prefLabel> "nudity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> <http://www.w3.org/2004/02/skos/core#notation> "CFE9" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> <http://www.w3.org/2004/02/skos/core#prefLabel> "feature" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE9> <http://www.w3.org/2004/02/skos/core#scopeNote> "Feature broader concept of thos such as CFE1-4" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> <http://www.w3.org/2004/02/skos/core#notation> "CFE90" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE90> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: brand placement" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> <http://www.w3.org/2004/02/skos/core#notation> "CFE91" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE91> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: content overlap" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> <http://www.w3.org/2004/02/skos/core#notation> "CFE92" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE92> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: formal features of public service advertisements" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE70> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> <http://www.w3.org/2004/02/skos/core#notation> "CFE93" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE93> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: humour complexity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> <http://www.w3.org/2004/02/skos/core#notation> "CFE94" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE94> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: journalistic references to the facebook ad library" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> <http://www.w3.org/2004/02/skos/core#notation> "CFE95" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE95> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: main topic of the news story" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> <http://www.w3.org/2004/02/skos/core#notation> "CFE96" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE96> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: news content" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> <http://www.w3.org/2004/02/skos/core#notation> "CFE97" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE97> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: news values" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> <http://www.w3.org/2004/02/skos/core#notation> "CFE98" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE98> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: newspaper position and ad characteristics" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/odissei/cv/contentFeature/v0.1/CFE4> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> <http://www.w3.org/2004/02/skos/core#notation> "CFE99" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE99> <http://www.w3.org/2004/02/skos/core#prefLabel> "other: objectivity" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE0> <http://www.w3.org/2004/02/skos/core#inScheme> <https://w3id.org/odissei/cv/contentFeature/v0.1/> .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE0> <http://www.w3.org/2004/02/skos/core#notation> "CFE0" .
+<https://w3id.org/odissei/cv/contentFeature/v0.1/CFE0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other, namely ..." .
+}
