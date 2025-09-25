@@ -1,12 +1,13 @@
+# CBS Vocabularies
+These are all different vocabularies used to annotate CBS data in several ODISSEI and SSHOC-NL projects.
 
-* begrippen.ttl
-* cbs-thesaurus.ttl
+## begrippen.ttl 
+See https://vocabs.cbs.nl/begrippen/en/. The entire thesaurus used to be available online, but no longer is.
 
-Retrieved on 23-03-2023 by using 
-'''shell
-wget -O begrippen.ttl     --no-check-certificate https://vocabs.cbs.nl/rest/v1/begrippen/data\?format\=text/turtle  
-wget -O cbs-thesaurus.ttl --no-check-certificate https://vocabs.cbs.nl/rest/v1/taxonomie/data?format=text/turtle
-'''
+## taxonomie.ttl
+See https://vocabs.cbs.nl/taxonomie/en/. The entire thesaurus used to be available online, but no longer is.
 
-* cbs-variables-thesaurus-20230310.ttl
-  A SKOS vocabulary based on parsing the individual dsc XML files
+##  cbs-variables-thesaurus.ttl
+A SKOS vocabulary generated from the individual dsc XML. See https://github.com/odissei-data/cbs-variables-thesaurus for details.
+
+
